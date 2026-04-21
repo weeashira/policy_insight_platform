@@ -166,10 +166,15 @@ def call_qwen(prompt, num_predict, system_msg="You are a helpful assistant.", co
                 "stop": ["<|im_start|>", "<|im_end|>"]
             }
         )
-        return response["response"].strip()
+        return {
+            "success": True,
+            "summary": response["response"].strip()
+        }
     except Exception as e:
-        print(f"API Error: {e}")
-        return ""
+        return {
+            "success": False,
+            "error": str(e)
+        }
 
 
 # Summarization
@@ -208,10 +213,10 @@ def summarize_debate(title, transcript):
             context=SAFE_LIMIT
         )
 
-        if not summary:
-            raise ValueError("Model returned empty summary in single-pass mode.")
+        if not summary.get("success"):
+            raise Exception(summary.get("error"))
 
-        return summary
+        return summary.get("summary")
 
     # Multi-pass path
     chunks = get_text_chunks(transcript)
@@ -242,8 +247,8 @@ def summarize_debate(title, transcript):
             context=SAFE_LIMIT
         )
 
-        if notes:
-            partial_notes.append(notes)
+        if notes.get("success"):
+            partial_notes.append(notes.get("summary"))
 
     if not partial_notes:
         raise ValueError("No extraction notes generated from transcript chunks.")
@@ -278,10 +283,10 @@ def summarize_debate(title, transcript):
         context=SAFE_LIMIT
     )
 
-    if not summary:
-        raise ValueError("Model returned empty summary in multi-pass mode.")
+    if not summary.get("success"):
+        raise Exception(summary.get("error"))
 
-    return summary
+    return summary.get("summary")
 
 
 # JSON checkpoint handling
@@ -413,6 +418,16 @@ def summarize_all_debates(date, max_workers=2):
 
                 if i % 10 == 0:
                     print(f"Summarized [{i}/{len(remaining)}]")
+
+        success_count = sum(1 for res in results_data["results"].values() if res.get("success") is True)
+        total_count = len(results_data["results"])
+
+        if success_count == 0 and total_count > 0:
+            return {
+                "success": False,
+                "date": date,
+                "error": f"{total_count} summarization attempts failed. Check JSON for details."
+            }
 
         return {
             "success": True,
