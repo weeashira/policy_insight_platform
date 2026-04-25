@@ -1,0 +1,318 @@
+{
+  "success": true,
+  "date": "06-03-2026",
+  "results": [
+    {
+      "title": "Accounting Treatment of Prolonged Vacancy in HDB-managed Commercial Properties",
+      "meta_topic_label": "Housing & Property Policy",
+      "topic_id": 0,
+      "topic_probability": 0.3330000042915344
+    },
+    {
+      "title": "Acknowledgement to the Chair",
+      "meta_topic_label": "Community Schemes & Senior Support",
+      "topic_id": 1,
+      "topic_probability": 0.48829999566078186
+    },
+    {
+      "title": "Adjournment",
+      "meta_topic_label": "Community Schemes & Senior Support",
+      "topic_id": 1,
+      "topic_probability": 0.36039999127388
+    },
+    {
+      "title": "Alternative Crossing Designs at Intersections with Heavy Multimodal Traffic",
+      "meta_topic_label": "Road Safety & Public Security",
+      "topic_id": 6,
+      "topic_probability": 0.6531999707221985
+    },
+    {
+      "title": "Alternative Sports Access Arrangements for Residents Affected by Renovations of ActiveSG Facilities and Centres",
+      "meta_topic_label": "Sports, Recreation & Community",
+      "topic_id": 14,
+      "topic_probability": 0.45170000195503235
+    },
+    {
+      "title": "Applications for Letters of Support from MUIS to Hold Night Prayers during Ramadan at Qaryah Community Group Venues",
+      "meta_topic_label": "Education & Child Development",
+      "topic_id": 12,
+      "topic_probability": 0.4311999976634979
+    },
+    {
+      "title": "Assessment of Taiwan's National Lung Cancer Early Detection Programme",
+      "meta_topic_label": "Healthcare & Mental Health",
+      "topic_id": 11,
+      "topic_probability": 0.5821999907493591
+    },
+    {
+      "title": "Benchmarks to Trigger Review of Rental Rates of HDB Commercial Properties",
+      "meta_topic_label": "Housing & Property Policy",
+      "topic_id": 0,
+      "topic_probability": 0.3271999955177307
+    },
+    {
+      "title": "Bicycle Parking Capacity Standards in HDB Estates",
+      "meta_topic_label": "Urban Planning & Estate Development",
+      "topic_id": 8,
+      "topic_probability": 0.4246000051498413
+    },
+    {
+      "title": "Breakdown of Defence Contracts Procurement by Quantum and Procurement Method and Publication of Requirements for Major Platform Replacements on GeBIZ",
+      "meta_topic_label": "Road Safety & Public Security",
+      "topic_id": 6,
+      "topic_probability": 0.25099998712539673
+    },
+    {
+      "title": "Cases where Salaries of Public Sector Employees Are Not Paid On Time",
+      "meta_topic_label": "Law Enforcement & Online Safety",
+      "topic_id": 15,
+      "topic_probability": 0.29820001125335693
+    },
+    {
+      "title": "Civil List",
+      "meta_topic_label": "Community Schemes & Senior Support",
+      "topic_id": 1,
+      "topic_probability": 0.27320000529289246
+    },
+    {
+      "title": "Clarification by Minister for Sustainability and the Environment",
+      "meta_topic_label": "Law Enforcement & Online Safety",
+      "topic_id": 15,
+      "topic_probability": 0.2590000033378601
+    },
+    {
+      "title": "Coastal Protection and Other Amendments Bill",
+      "meta_topic_label": "Law Enforcement & Online Safety",
+      "topic_id": 15,
+      "topic_probability": 0.2635999917984009
+    },
+    {
+      "title": "Community Feedback Regarding Festival Naming Conventions and Cultural Greetings",
+      "meta_topic_label": "Household Finance & Income Support",
+      "topic_id": 4,
+      "topic_probability": 0.26190000772476196
+    },
+    {
+      "title": "Compliance with National Childhood and Adolescent Immunisation Schedule and Actions Taken Against Non-compliance in Past 10 Years",
+      "meta_topic_label": "Healthcare & Mental Health",
+      "topic_id": 11,
+      "topic_probability": 0.5077000260353088
+    },
+    {
+      "title": "Data on ASEAN Scholarship Holders' Acquisition of Singapore Citizenship and Permanent Residency Since 1998",
+      "meta_topic_label": "Community Schemes & Senior Support",
+      "topic_id": 1,
+      "topic_probability": 0.26109999418258667
+    },
+    {
+      "title": "Data on Nationality, Race and Educational Level for Students Granted ASEAN Scholarships",
+      "meta_topic_label": "Education & Child Development",
+      "topic_id": 12,
+      "topic_probability": 0.3725999891757965
+    },
+    {
+      "title": "Digital Support Provided to Help Heritage Businesses Modernise and Sustain Their Operations",
+      "meta_topic_label": "Industry & Enterprise Development",
+      "topic_id": 7,
+      "topic_probability": 0.3100999891757965
+    },
+    {
+      "title": "Evaluation Criteria for Tenders Submitted by Prospective Socially-conscious Enterprise Hawker Centre Operators",
+      "meta_topic_label": "Public Transport & Commuting",
+      "topic_id": 3,
+      "topic_probability": 0.3138999938964844
+    },
+    {
+      "title": "Expanding Use of ActiveSG Credits to Include Sports Facilities Such As Those at Community Clubs and The Kallang",
+      "meta_topic_label": "Sports, Recreation & Community",
+      "topic_id": 14,
+      "topic_probability": 0.7635999917984009
+    },
+    {
+      "title": "Expansion of HDB Flyer Distribution Rules at HDB Homes as Mandatory Industry Regulation",
+      "meta_topic_label": "Urban Planning & Estate Development",
+      "topic_id": 8,
+      "topic_probability": 0.2881999909877777
+    },
+    {
+      "title": "Export Potential of Singapore’s Water Recycling and Management Capabilities and Support for Water Technology Firms to Compete Globally",
+      "meta_topic_label": "Industry & Enterprise Development",
+      "topic_id": 7,
+      "topic_probability": 0.5115000009536743
+    },
+    {
+      "title": "Facilitating Adoption of AI in Energy Generation Sector",
+      "meta_topic_label": "Trade, Energy & Consumer Affairs",
+      "topic_id": 10,
+      "topic_probability": 0.4706000089645386
+    },
+    {
+      "title": "Factors for Decisions on When and Where to Deploy Crow-shooting Operations",
+      "meta_topic_label": "Healthcare & Mental Health",
+      "topic_id": 11,
+      "topic_probability": 0.25929999351501465
+    },
+    {
+      "title": "Feedback and Compensation Claims Made by Yio Chu Kang SMC Residents on Damages from North-South Corridor Construction Along Ang Mo Kio Avenue 6",
+      "meta_topic_label": "Urban Planning & Estate Development",
+      "topic_id": 8,
+      "topic_probability": 0.3928000032901764
+    },
+    {
+      "title": "Frameworks for Stress-testing Impact on Singapore's Economy When Major Trading Partners Make Sudden Legal and Policy Decisions",
+      "meta_topic_label": "Trade, Energy & Consumer Affairs",
+      "topic_id": 10,
+      "topic_probability": 0.31279999017715454
+    },
+    {
+      "title": "Guidelines for Teachers and Schools on Handling of Students with SEN",
+      "meta_topic_label": "Education & Child Development",
+      "topic_id": 12,
+      "topic_probability": 0.8517000079154968
+    },
+    {
+      "title": "Impact of Indonesia's Purchase of KHAN Ballistic Missile on Regional Security",
+      "meta_topic_label": "Road Safety & Public Security",
+      "topic_id": 6,
+      "topic_probability": 0.421999990940094
+    },
+    {
+      "title": "Implementation of Fire Prevention Measures for Elderly Residents in Mature Estates",
+      "meta_topic_label": "Housing & Property Policy",
+      "topic_id": 0,
+      "topic_probability": 0.3889000117778778
+    },
+    {
+      "title": "Inclusion of Darker Colours in Solar Reflectance Standards for Cool Coatings under Green Towns Programme",
+      "meta_topic_label": "Urban Planning & Estate Development",
+      "topic_id": 8,
+      "topic_probability": 0.5964999794960022
+    },
+    {
+      "title": "Lighting Designs for Shared Paths to Ensure Adequate Night-time Lighting for Tree Canopy Growth and Differentiation at Zones with Heavier Pedestrian and Active Mobility Traffic",
+      "meta_topic_label": "Road Safety & Public Security",
+      "topic_id": 6,
+      "topic_probability": 0.5076000094413757
+    },
+    {
+      "title": "Mobile Network Dead Zones in MRT Network and Steps to Rectify Persistent Signal Gaps",
+      "meta_topic_label": "Road Safety & Public Security",
+      "topic_id": 6,
+      "topic_probability": 0.4142000079154968
+    },
+    {
+      "title": "More Details in HIP Renovation Schedules",
+      "meta_topic_label": "Urban Planning & Estate Development",
+      "topic_id": 8,
+      "topic_probability": 0.32679998874664307
+    },
+    {
+      "title": "National Servicemen Who Have Applied for Redeployment under Enhanced Expertise Deployment Scheme and Work-learn Schemes",
+      "meta_topic_label": "Housing & Property Policy",
+      "topic_id": 0,
+      "topic_probability": 0.2515000104904175
+    },
+    {
+      "title": "Parking Management Companies Selling VPCs Without Designated Lots in Last Three Years and Enforcement Measures Taken",
+      "meta_topic_label": "Housing & Property Policy",
+      "topic_id": 0,
+      "topic_probability": 0.3483000099658966
+    },
+    {
+      "title": "Progress and Budget Updates on AquaPolis Programme",
+      "meta_topic_label": "Industry & Enterprise Development",
+      "topic_id": 7,
+      "topic_probability": 0.7139000296592712
+    },
+    {
+      "title": "Proposal to Establish Master Database of Commercial Sublet Agreements",
+      "meta_topic_label": "Trade, Energy & Consumer Affairs",
+      "topic_id": 10,
+      "topic_probability": 0.29030001163482666
+    },
+    {
+      "title": "Ratification Plans of Arms Trade Treaty and Usage of Singapore-Origin Conventional Arms in International Crimes",
+      "meta_topic_label": "Law Enforcement & Online Safety",
+      "topic_id": 15,
+      "topic_probability": 0.25529998540878296
+    },
+    {
+      "title": "Real-Time Information Sharing Protocols with Foreign Authorities on Child Trafficking Syndicates Linked to Singapore Adoptions",
+      "meta_topic_label": "Law Enforcement & Online Safety",
+      "topic_id": 15,
+      "topic_probability": 0.5213000178337097
+    },
+    {
+      "title": "Reports of Unauthorised Works on LTA-managed State Land Fronting Private Properties in Past Three Years and Policy on Cost Liability of Restoration Works",
+      "meta_topic_label": "Housing & Property Policy",
+      "topic_id": 0,
+      "topic_probability": 0.37389999628067017
+    },
+    {
+      "title": "Singapore Citizens with Additional Hanyu Pinyin Name Registered as Part of Legal Name",
+      "meta_topic_label": "Housing & Property Policy",
+      "topic_id": 0,
+      "topic_probability": 0.44339999556541443
+    },
+    {
+      "title": "Singapore Dollar-specific Factors Contributing to Persistent Weakness against Malaysian Ringgit",
+      "meta_topic_label": "Trade, Energy & Consumer Affairs",
+      "topic_id": 10,
+      "topic_probability": 0.33559998869895935
+    },
+    {
+      "title": "Statistics on Do Not Call Complaints, Investigations and Fines for Past Two Years, and Measures Taken to Improve DNC Registry Enforcement and Compliance",
+      "meta_topic_label": "Law Enforcement & Online Safety",
+      "topic_id": 15,
+      "topic_probability": 0.6395999789237976
+    },
+    {
+      "title": "Supplementary Supply (FY2025) Bill",
+      "meta_topic_label": "Community Schemes & Senior Support",
+      "topic_id": 1,
+      "topic_probability": 0.41670000553131104
+    },
+    {
+      "title": "Supply Bill",
+      "meta_topic_label": "Trade, Energy & Consumer Affairs",
+      "topic_id": 10,
+      "topic_probability": 0.262800008058548
+    },
+    {
+      "title": "Tobacco (Control of Advertisements and Sale) (Amendment) and Other Matters Bill",
+      "meta_topic_label": "Law Enforcement & Online Safety",
+      "topic_id": 15,
+      "topic_probability": 0.43059998750686646
+    },
+    {
+      "title": "Training on Special Needs Recognition and Response in Mandatory WSQ Modules for Licensed Security Officers",
+      "meta_topic_label": "Law Enforcement & Online Safety",
+      "topic_id": 15,
+      "topic_probability": 0.22419999539852142
+    },
+    {
+      "title": "Tuberculosis Patients Who Have sought Financial Assistance to Cover Travel Expenses and Lost Income",
+      "meta_topic_label": "Healthcare & Mental Health",
+      "topic_id": 11,
+      "topic_probability": 0.37529999017715454
+    },
+    {
+      "title": "Usage of Data Collected from i-SMART Facial Recognition at NESST Tukang Dormitory",
+      "meta_topic_label": "Public Transport & Commuting",
+      "topic_id": 3,
+      "topic_probability": 0.2858999967575073
+    },
+    {
+      "title": "Wait Times for Pedestrians at Signalised Junctions",
+      "meta_topic_label": "Public Transport & Commuting",
+      "topic_id": 3,
+      "topic_probability": 0.32749998569488525
+    },
+    {
+      "title": "Wider Use for SG Culture Pass for Purchasing SingLit Books",
+      "meta_topic_label": "Household Finance & Income Support",
+      "topic_id": 4,
+      "topic_probability": 0.534600019454956
+    }
+  ]
+}

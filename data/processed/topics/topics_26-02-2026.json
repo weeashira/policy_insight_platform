@@ -1,0 +1,402 @@
+{
+  "success": true,
+  "date": "26-02-2026",
+  "results": [
+    {
+      "title": "Adjusting Labour and Urban Planning Policies to Mitigate Heat-related Productivity Losses",
+      "meta_topic_label": "Road Safety & Public Security",
+      "topic_id": 6,
+      "topic_probability": 0.6746000051498413
+    },
+    {
+      "title": "Analysis of Wealth Distribution Breakdown by Age Cohort",
+      "meta_topic_label": "Household Finance & Income Support",
+      "topic_id": 4,
+      "topic_probability": 0.694100022315979
+    },
+    {
+      "title": "Annual Report Publication of Non-Profit Healthcare Clusters for Public Access",
+      "meta_topic_label": "Healthcare & Mental Health",
+      "topic_id": 11,
+      "topic_probability": 0.948199987411499
+    },
+    {
+      "title": "Assessment of Progress in Placement of Fresh Graduates under Graduate Industry Traineeships Scheme",
+      "meta_topic_label": "Industry & Enterprise Development",
+      "topic_id": 7,
+      "topic_probability": 0.7300000190734863
+    },
+    {
+      "title": "Ban on Flavoured Tobacco to Curb Appeal to Youths",
+      "meta_topic_label": "Healthcare & Mental Health",
+      "topic_id": 11,
+      "topic_probability": 0.7371000051498413
+    },
+    {
+      "title": "Breakdown of Direct School Admission Intake by Household Income",
+      "meta_topic_label": "Household Finance & Income Support",
+      "topic_id": 4,
+      "topic_probability": 0.7572000026702881
+    },
+    {
+      "title": "Children of Unwed Mothers Excluded from Baby Bonus Cash Gift and Working Mother's Child Relief",
+      "meta_topic_label": "Education & Child Development",
+      "topic_id": 12,
+      "topic_probability": 0.490200012922287
+    },
+    {
+      "title": "Clarification by Minister of State for Health",
+      "meta_topic_label": "Healthcare & Mental Health",
+      "topic_id": 11,
+      "topic_probability": 0.5921000242233276
+    },
+    {
+      "title": "Clarification by Prime Minister and Minister for Finance",
+      "meta_topic_label": "Parliamentary Procedures & Foreign Affairs",
+      "topic_id": 5,
+      "topic_probability": 0.49300000071525574
+    },
+    {
+      "title": "Clarification by Senior Parliamentary Secretary to the Minister for Finance",
+      "meta_topic_label": "Workforce Support & Business Grants",
+      "topic_id": 2,
+      "topic_probability": 0.5716000199317932
+    },
+    {
+      "title": "Cost-benefit Analysis for Transitioning from Incinerating Recyclables to Smart-bin System",
+      "meta_topic_label": "Sports, Recreation & Community",
+      "topic_id": 14,
+      "topic_probability": 0.8246999979019165
+    },
+    {
+      "title": "Data Centres' Use of Fresh Water Supply",
+      "meta_topic_label": "Industry & Enterprise Development",
+      "topic_id": 7,
+      "topic_probability": 0.4465000033378601
+    },
+    {
+      "title": "Data Integrity of Bus Waiting Time and Occupancy in ETA System Following January 2026 Glitch",
+      "meta_topic_label": "Public Transport & Commuting",
+      "topic_id": 3,
+      "topic_probability": 0.680400013923645
+    },
+    {
+      "title": "Data on Premature Work Permit Cancellations in Last Five Years",
+      "meta_topic_label": "Housing & Property Policy",
+      "topic_id": 0,
+      "topic_probability": 0.7731999754905701
+    },
+    {
+      "title": "Debate on Annual Budget Statement",
+      "meta_topic_label": "Community Schemes & Senior Support",
+      "topic_id": 1,
+      "topic_probability": 0.8589000105857849
+    },
+    {
+      "title": "Difference in Requirements for European Third Language Versus Asian Third Language Options Offered to Secondary 1 Students",
+      "meta_topic_label": "Education & Child Development",
+      "topic_id": 12,
+      "topic_probability": 0.7074000239372253
+    },
+    {
+      "title": "Discriminatory Practices in Private Residential Rental Market and Measures to Address Discrimination",
+      "meta_topic_label": "Law Enforcement & Online Safety",
+      "topic_id": 15,
+      "topic_probability": 0.48260000348091125
+    },
+    {
+      "title": "Electric Vehicle Training for Bus Captains",
+      "meta_topic_label": "Public Transport & Commuting",
+      "topic_id": 3,
+      "topic_probability": 0.7214000225067139
+    },
+    {
+      "title": "Enhanced Funding or Subsidies for Elective Egg Freezing, IVF and Other Fertility Treatments for Older Couples",
+      "meta_topic_label": "Sports, Recreation & Community",
+      "topic_id": 14,
+      "topic_probability": 0.42239999771118164
+    },
+    {
+      "title": "Ensuring Increase in Goods Vehicle Permit Fees for Foreign-registered Goods Vehicles is Not Passed to Consumers and Producers",
+      "meta_topic_label": "Trade, Energy & Consumer Affairs",
+      "topic_id": 10,
+      "topic_probability": 0.888700008392334
+    },
+    {
+      "title": "Extension of TR76 E-commerce Guidelines for Social Commerce Transactions",
+      "meta_topic_label": "Healthcare & Mental Health",
+      "topic_id": 11,
+      "topic_probability": 0.4553000032901764
+    },
+    {
+      "title": "Extent of GenAI Use among Muslims to Obtain Religious Information and Instruction",
+      "meta_topic_label": "Education & Child Development",
+      "topic_id": 12,
+      "topic_probability": 0.6787999868392944
+    },
+    {
+      "title": "Facilitating Islamic Legacy Planning Workshops Tailored to Indian Muslim Community",
+      "meta_topic_label": "Education & Child Development",
+      "topic_id": 12,
+      "topic_probability": 0.9416999816894531
+    },
+    {
+      "title": "Factors Behind 36.2% Increase in Young Inmates in Singapore Prisons in 2025",
+      "meta_topic_label": "Law Enforcement & Online Safety",
+      "topic_id": 15,
+      "topic_probability": 0.703000009059906
+    },
+    {
+      "title": "Financial Assistance for Parents Whose Infants are Enrolled in ECDA's Childminding Pilot Programme",
+      "meta_topic_label": "Education & Child Development",
+      "topic_id": 12,
+      "topic_probability": 0.5108000040054321
+    },
+    {
+      "title": "Formal Training in Restorative Practices to Address Bullying in Schools",
+      "meta_topic_label": "Education & Child Development",
+      "topic_id": 12,
+      "topic_probability": 0.9912999868392944
+    },
+    {
+      "title": "Funding Support and Capability Building Initiatives for Muslim Student Societies in IHLs",
+      "meta_topic_label": "Education & Child Development",
+      "topic_id": 12,
+      "topic_probability": 0.9944999814033508
+    },
+    {
+      "title": "Government Funding in Lab-grown Seafood and Cultured Meat Sector",
+      "meta_topic_label": "Industry & Enterprise Development",
+      "topic_id": 7,
+      "topic_probability": 0.8098999857902527
+    },
+    {
+      "title": "Government Support Provided to Sino-Singapore Jilin Food Zone under Bilateral Cooperation Framework",
+      "meta_topic_label": "Trade, Energy & Consumer Affairs",
+      "topic_id": 10,
+      "topic_probability": 0.44620001316070557
+    },
+    {
+      "title": "Government's Assessment of Social Media's Efforts to Detect Child Sexual Exploitation and Abuse in Livestreams",
+      "meta_topic_label": "Law Enforcement & Online Safety",
+      "topic_id": 15,
+      "topic_probability": 0.9950000047683716
+    },
+    {
+      "title": "Homeowners who Have Taken Three or More HDB Loans",
+      "meta_topic_label": "Household Finance & Income Support",
+      "topic_id": 4,
+      "topic_probability": 0.5648999810218811
+    },
+    {
+      "title": "Implementing Additional Measures to Enhance Road Safety in Areas with High Pedestrian Footfall",
+      "meta_topic_label": "Road Safety & Public Security",
+      "topic_id": 6,
+      "topic_probability": 0.9824000000953674
+    },
+    {
+      "title": "Introducing Locally Offered Degree in Veterinary Science",
+      "meta_topic_label": "Industry & Enterprise Development",
+      "topic_id": 7,
+      "topic_probability": 0.5066999793052673
+    },
+    {
+      "title": "LPA Form 1 Applications Aborted Due To Office of the Public Guardian's Online Portal Issues",
+      "meta_topic_label": "Labour & Workplace Relations",
+      "topic_id": 9,
+      "topic_probability": 0.3862999975681305
+    },
+    {
+      "title": "Lessons Learnt from ETA System Disruption to Prevent System Failures to Other Critical Systems in Public Transport Infrastructure",
+      "meta_topic_label": "Road Safety & Public Security",
+      "topic_id": 6,
+      "topic_probability": 0.439300000667572
+    },
+    {
+      "title": "Linking Carbon Tax Increases to Technology Readiness or Regional Carbon Price Movements",
+      "meta_topic_label": "Trade, Energy & Consumer Affairs",
+      "topic_id": 10,
+      "topic_probability": 0.8794000148773193
+    },
+    {
+      "title": "Maintaining High Measles Vaccination Coverage Through Enhanced Vaccination Programmes",
+      "meta_topic_label": "Healthcare & Mental Health",
+      "topic_id": 11,
+      "topic_probability": 0.5271000266075134
+    },
+    {
+      "title": "NIE's Bachelor Programmes Acceptance Rate and Safeguarding Subject-specific Teacher Supply Shortages",
+      "meta_topic_label": "Education & Child Development",
+      "topic_id": 12,
+      "topic_probability": 0.673799991607666
+    },
+    {
+      "title": "Number of Overweight Students in Schools and Weight Management Programmes to Help Them",
+      "meta_topic_label": "Education & Child Development",
+      "topic_id": 12,
+      "topic_probability": 0.6154999732971191
+    },
+    {
+      "title": "Number of Preschools that Offer Care Services Beyond 7.00 pm",
+      "meta_topic_label": "Caregiving & Family Leave",
+      "topic_id": 13,
+      "topic_probability": 0.9210000038146973
+    },
+    {
+      "title": "Operational Protocols to Safeguard Local Healthcare Workers in Light of Overseas Nipah Virus Infections",
+      "meta_topic_label": "Healthcare & Mental Health",
+      "topic_id": 11,
+      "topic_probability": 0.6931999921798706
+    },
+    {
+      "title": "Otter Population Control and Management Strategies in Residential Estates",
+      "meta_topic_label": "Road Safety & Public Security",
+      "topic_id": 6,
+      "topic_probability": 0.6904000043869019
+    },
+    {
+      "title": "Oversight of Wakaf Management",
+      "meta_topic_label": "Law Enforcement & Online Safety",
+      "topic_id": 15,
+      "topic_probability": 0.6294999718666077
+    },
+    {
+      "title": "Population Threshold Parameters for Placement of HDB Estate Dialysis Centres Across Singapore",
+      "meta_topic_label": "Urban Planning & Estate Development",
+      "topic_id": 8,
+      "topic_probability": 0.8184000253677368
+    },
+    {
+      "title": "Positive Outcomes from Restriction Orders Issued since July 2025 and Expanding Scope to Other Financial Service Providers",
+      "meta_topic_label": "Parliamentary Procedures & Foreign Affairs",
+      "topic_id": 5,
+      "topic_probability": 0.5763999819755554
+    },
+    {
+      "title": "Proportion and Career Progression of Female Foreign Service Officers, and Request for Publication of Gender-disaggregated Appointment Data",
+      "meta_topic_label": "Healthcare & Mental Health",
+      "topic_id": 11,
+      "topic_probability": 0.44929999113082886
+    },
+    {
+      "title": "Proportion of Advanced Practice Nurses in Workforce and Plans for Their Development",
+      "meta_topic_label": "Sports, Recreation & Community",
+      "topic_id": 14,
+      "topic_probability": 0.7576000094413757
+    },
+    {
+      "title": "Proportion of Muslim Couples Attending Marriage Preparation Programme",
+      "meta_topic_label": "Education & Child Development",
+      "topic_id": 12,
+      "topic_probability": 0.9279000163078308
+    },
+    {
+      "title": "Protection Measures for Vaccination-ineligible Infants Against Measles Outbreak in Singapore",
+      "meta_topic_label": "Healthcare & Mental Health",
+      "topic_id": 11,
+      "topic_probability": 0.6247000098228455
+    },
+    {
+      "title": "Public Complaints Towards Festive Surcharge Pricings by F&B Establishments over Past Five Years",
+      "meta_topic_label": "Trade, Energy & Consumer Affairs",
+      "topic_id": 10,
+      "topic_probability": 0.4269999861717224
+    },
+    {
+      "title": "Reason for Change in Government's Definition of Household Income in Key Household Income Trends Report",
+      "meta_topic_label": "Household Finance & Income Support",
+      "topic_id": 4,
+      "topic_probability": 0.6855999827384949
+    },
+    {
+      "title": "Registering Employees Affected by Sudden Business Closures as Creditors to Recover Owed Salaries",
+      "meta_topic_label": "Law Enforcement & Online Safety",
+      "topic_id": 15,
+      "topic_probability": 0.4788999855518341
+    },
+    {
+      "title": "Retention of International Carbon Credits Limit and Risks of Industrial Relocation",
+      "meta_topic_label": "Trade, Energy & Consumer Affairs",
+      "topic_id": 10,
+      "topic_probability": 0.637499988079071
+    },
+    {
+      "title": "Review of Alternative Pathways and Bridging Nursing Programmes for Qualified Singaporean Applicants",
+      "meta_topic_label": "Sports, Recreation & Community",
+      "topic_id": 14,
+      "topic_probability": 0.5443999767303467
+    },
+    {
+      "title": "Reviewing Structural Load Capacity of Multi-storey Car Parks Given Greater Adoption of EVs which are Generally Heavier",
+      "meta_topic_label": "Housing & Property Policy",
+      "topic_id": 0,
+      "topic_probability": 0.49380001425743103
+    },
+    {
+      "title": "Rising AI Automation Concerns Over Job Losses and Long-Term Livelihood and Job Preservation Measures for Singaporeans",
+      "meta_topic_label": "Labour & Workplace Relations",
+      "topic_id": 9,
+      "topic_probability": 0.6377999782562256
+    },
+    {
+      "title": "Role for Singapore in Global Space Economy and Developing Local Talent Pipeline for Space Systems and Satellite Operations",
+      "meta_topic_label": "Industry & Enterprise Development",
+      "topic_id": 7,
+      "topic_probability": 0.8608999848365784
+    },
+    {
+      "title": "SG Enable's Support for ITE Graduates with Disabilities to Access Host Companies under Work-Study Diploma Programme",
+      "meta_topic_label": "Industry & Enterprise Development",
+      "topic_id": 7,
+      "topic_probability": 0.7940000295639038
+    },
+    {
+      "title": "Securing Singapore’s Critical Information Infrastructure Dependent on Satellite and Space Systems",
+      "meta_topic_label": "Road Safety & Public Security",
+      "topic_id": 6,
+      "topic_probability": 0.777999997138977
+    },
+    {
+      "title": "Show of Proof of Vaccination against Diseases by S Pass Holders",
+      "meta_topic_label": "Healthcare & Mental Health",
+      "topic_id": 11,
+      "topic_probability": 0.9085000157356262
+    },
+    {
+      "title": "Strengthening Hub-and-spoke Models for Mental Health Triaging in Hospitals",
+      "meta_topic_label": "Healthcare & Mental Health",
+      "topic_id": 11,
+      "topic_probability": 0.9948999881744385
+    },
+    {
+      "title": "Take-up Rate for LPA since August 2025 and Proposed Extension of Fee Waiver",
+      "meta_topic_label": "Labour & Workplace Relations",
+      "topic_id": 9,
+      "topic_probability": 0.6086000204086304
+    },
+    {
+      "title": "Timeline of Hydrogen-Ready Power Plant Adoption and Resulting Impact on Household and Business Electricity Tariffs",
+      "meta_topic_label": "Trade, Energy & Consumer Affairs",
+      "topic_id": 10,
+      "topic_probability": 0.9422000050544739
+    },
+    {
+      "title": "Total Amount Paid to Foreign University Partners on Curriculum Development and Licensing in Past 25 years",
+      "meta_topic_label": "Industry & Enterprise Development",
+      "topic_id": 7,
+      "topic_probability": 0.5325999855995178
+    },
+    {
+      "title": "Total Fees Collected for Vehicle Entry and Goods Vehicle Permits in 2025 and Estimated Annual Collection after Fee Increase in 2027",
+      "meta_topic_label": "Trade, Energy & Consumer Affairs",
+      "topic_id": 10,
+      "topic_probability": 0.8637999892234802
+    },
+    {
+      "title": "Tracking Singapore-headquartered Global Technology Champions, Strategic National Capabilities and Locally Anchored IP as Outcomes from Government's R&D Spending",
+      "meta_topic_label": "Industry & Enterprise Development",
+      "topic_id": 7,
+      "topic_probability": 0.7524999976158142
+    }
+  ]
+}
