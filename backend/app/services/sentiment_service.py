@@ -205,6 +205,9 @@ def run_sentiment_inference(date):
     input_csv   = IN_DIR / f"speaker_turns_{date}.csv"
     output_json = OUT_DIR / f"sentiments_{date}.json"
 
+    if output_json.exists():
+        return {"success": True, "date": date,"sentiment_path": str(output_json)}
+
     if not input_csv.exists():
         return {"success": False, "date": date, "error": f"Input file not found: {input_csv}"}
 
