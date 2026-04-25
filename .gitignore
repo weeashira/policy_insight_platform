@@ -3,3 +3,10 @@
 
 # Python cache
 __pycache__/
+
+# Training output directories (checkpoints produced during training)
+longformer_output/
+plp_checkpoint/
+
+# Data splits (reproducible from source data)
+backend/models/longformer_sentiment/split_*.csv
