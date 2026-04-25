@@ -668,33 +668,33 @@
     },
     {
       "title": "Validity Checks, Automated Reminders and Tracking of Repeat Offences to Ensure Doctors and Dentists Practise with Valid Credentials",
-      "success": false,
-      "error": "Model returned empty summary in single-pass mode."
+      "summary": "Between 1 January 2023 and 31 December 2025, three practitioners aged 65 and above were investigated for practising without valid credentials; none were foreigners or repeat offenders. The Secretariat of healthcare Professional Boards (SPB) informs all registered practitioners of their Practising Certificate validity via electronic copies and sends regular reminders at least two months before renewal. Upon expiry, SPB requires practitioners to cease clinical practice until a new certificate is issued. To support senior solo practitioners, SPB accommodates requests to direct communications to family members assisting with administrative matters for certificate renewal notifications.",
+      "success": true
     },
     {
       "title": "Utilisation Rates of Parent Care Leave by Public Servants from 2023",
-      "success": false,
-      "error": "Model returned empty summary in single-pass mode."
+      "summary": "From 1 January 2025, the Civil Service expanded Parent Care Leave to Family Care Leave, covering grandparents, siblings, and grandchildren. Between 2023 and 2025, approximately 42,300 officers (46% of eligible staff) took at least one day of leave annually. The average duration was 1.74 days, with a median of two days. This data reflects usage trends for immediate family members under the updated leave framework.",
+      "success": true
     },
     {
       "title": "Update on Efforts of Mercury Task Force to Tackle Heatwaves",
-      "success": false,
-      "error": "Model returned empty summary in single-pass mode."
+      "summary": "The Mercury Task Force coordinates a multi-agency heatwave response plan activated upon Meteorological Service Singapore forecasts. Measures include islandwide cooling centres, public advisories, and targeted support for high-risk groups like outdoor workers. Agencies refresh protocols annually from March to May to ensure stakeholder readiness. A heatwave is officially declared when the daily maximum temperature averages at least 35°C across all stations for three consecutive days, with a mean temperature of at least 29°C. The Minister stated this definition remains relevant to Singapore's current climate. No review of the declaration criteria was indicated in the response.",
+      "success": true
     },
     {
       "title": "Workload with 2% to 9% Salary Increase for Teachers",
-      "success": false,
-      "error": "Model returned empty summary in single-pass mode."
+      "summary": "The Ministry of Education confirmed that the planned teacher salary revision of 2% to 9% is not tied to additional duties. This measure aims to maintain market competitiveness for the teaching corps without increasing workload. The salary review is part of periodic assessments to ensure the overall package remains competitive. No new operational constraints or eligibility conditions were stated regarding this specific salary adjustment.",
+      "success": true
     },
     {
       "title": "Water Loss Rate in 2025 in National Water Distribution System",
-      "success": false,
-      "error": "Model returned empty summary in single-pass mode."
+      "summary": "In 2025, Singapore achieved a potable water loss rate of 7.2% within the national distribution system, ranking among the lowest globally. Six reported pipe damage cases occurred near land transport construction sites that year. Since 2023, the Public Utilities Board (PUB) has mandated GPS tagging for specific machinery to monitor high-risk works adjacent to critical pipelines, aiming to reduce damage risks and enhance network resilience. The Minister noted these figures are published in PUB's Annual and Sustainability Report.",
+      "success": true
     },
     {
       "title": "Veterinary Practice Bill",
-      "success": false,
-      "error": "No extraction notes generated from transcript chunks."
+      "summary": "The Veterinary Practice Bill establishes the Veterinary Council to replace the Animals and Birds Act framework, aiming to raise professional standards, ensure public trust, and regulate allied animal-care providers. The new body will register veterinarians, including existing AVS-licensed practitioners granted a transition grace period, while introducing stricter penalties for unauthorised practice and a robust disciplinary system aligned with human healthcare. Speakers emphasised that affordability, cost transparency, and talent retention must be central objectives, calling for local degree pathways, subsidies, and clear guidelines on pricing and restricted practice scopes. The Bill also incorporates safeguards against frivolous complaints, defines the Council's composition with layperson representation, and sets out mechanisms for independent investigation and consumer protection measures.",
+      "success": true
     }
   ]
 }

@@ -1,0 +1,396 @@
+{
+  "success": true,
+  "date": "03-03-2026",
+  "results": [
+    {
+      "title": "Accident Risk for Taxi and Private Hire Car Drivers As a Result of Distance Travelled and Driver Fatigue",
+      "meta_topic_label": "Public Transport & Commuting",
+      "topic_id": 3,
+      "topic_probability": 0.3582000136375427
+    },
+    {
+      "title": "Achieving Zero Road Fatalities Through Urban Design Adaptation and International Best Practices",
+      "meta_topic_label": "Road Safety & Public Security",
+      "topic_id": 6,
+      "topic_probability": 0.7391999959945679
+    },
+    {
+      "title": "Addressing Migrant Worker Passport Retention Violations and Ensuring Compliance with Passports Act",
+      "meta_topic_label": "Law Enforcement & Online Safety",
+      "topic_id": 15,
+      "topic_probability": 0.3896999955177307
+    },
+    {
+      "title": "Approval Process and Project Realisation Timelines for Low-carbon Electricity Imports Approved by Energy Market Authority",
+      "meta_topic_label": "Trade, Energy & Consumer Affairs",
+      "topic_id": 10,
+      "topic_probability": 0.810699999332428
+    },
+    {
+      "title": "Breakdown of Cases Reported under Tripartite Framework for the Prevention of Abuse and Harassment in Healthcare by Severity and Sector",
+      "meta_topic_label": "Law Enforcement & Online Safety",
+      "topic_id": 15,
+      "topic_probability": 0.5066999793052673
+    },
+    {
+      "title": "Breakdown of Early Termination of Work Permit Holders by Sector and Reason for Termination and Tracking Premature Attrition Patterns in Last Five Years",
+      "meta_topic_label": "Housing & Property Policy",
+      "topic_id": 0,
+      "topic_probability": 0.4975999891757965
+    },
+    {
+      "title": "Breakdown of SME Employment Size Distribution Across by Employment Band in 2025",
+      "meta_topic_label": "Labour & Workplace Relations",
+      "topic_id": 9,
+      "topic_probability": 0.7832000255584717
+    },
+    {
+      "title": "Breakthroughs and Successes Attributed to A*STAR and Considerations to Reform Operational Model and Policies",
+      "meta_topic_label": "Industry & Enterprise Development",
+      "topic_id": 7,
+      "topic_probability": 0.6359999775886536
+    },
+    {
+      "title": "Cancer Drug Claims That Required Additional Documentation Beyond National Claims Processing System",
+      "meta_topic_label": "Healthcare & Mental Health",
+      "topic_id": 11,
+      "topic_probability": 0.8585000038146973
+    },
+    {
+      "title": "Clarification by Minister of State for Manpower",
+      "meta_topic_label": "Workforce Support & Business Grants",
+      "topic_id": 2,
+      "topic_probability": 0.6771000027656555
+    },
+    {
+      "title": "Commercial Landlords Imposing Utilities Surcharges on Tenants beyond Base Rent and Gross Turnover Rent",
+      "meta_topic_label": "Trade, Energy & Consumer Affairs",
+      "topic_id": 10,
+      "topic_probability": 0.666100025177002
+    },
+    {
+      "title": "Completion Timeline of Bus Fleet Management System Upgrade and Penalties Enforced for Agreement Breaches",
+      "meta_topic_label": "Public Transport & Commuting",
+      "topic_id": 3,
+      "topic_probability": 0.5493000149726868
+    },
+    {
+      "title": "Consolidation of Small Medical Practices by Corporate Chains and Supporting Viability of Independent Clinics",
+      "meta_topic_label": "Healthcare & Mental Health",
+      "topic_id": 11,
+      "topic_probability": 0.3653999865055084
+    },
+    {
+      "title": "Criteria for Implementation Timeline of Distance-based Charging under ERP 2.0",
+      "meta_topic_label": "Urban Planning & Estate Development",
+      "topic_id": 8,
+      "topic_probability": 0.3546999990940094
+    },
+    {
+      "title": "Data on Appeals Related to Ethnic Integration Policy, Appeals Approved and Appeals That Led to Units Being Acquired by HDB",
+      "meta_topic_label": "Housing & Property Policy",
+      "topic_id": 0,
+      "topic_probability": 0.5019000172615051
+    },
+    {
+      "title": "Data on Mediation, Warning and Police Escalation for Internally Reported Cases of Harassment of Healthcare Workers Under Tripartite Framework",
+      "meta_topic_label": "Law Enforcement & Online Safety",
+      "topic_id": 15,
+      "topic_probability": 0.6162999868392944
+    },
+    {
+      "title": "Data on Missing Persons Cases Resolved Through Public Information, Social Media Appeals and Digital Tracking in 2024 and 2025",
+      "meta_topic_label": "Law Enforcement & Online Safety",
+      "topic_id": 15,
+      "topic_probability": 0.5157999992370605
+    },
+    {
+      "title": "Data on Submission and Approval Rates of Maintenance Schedule Waiver Requests Submitted by Operators",
+      "meta_topic_label": "Road Safety & Public Security",
+      "topic_id": 6,
+      "topic_probability": 0.33230000734329224
+    },
+    {
+      "title": "Differences in Mandate and Work Scope between Small- and Medium-sized Enterprise Pro-Enterprise Office and Pro-Enterprise Panel",
+      "meta_topic_label": "Industry & Enterprise Development",
+      "topic_id": 7,
+      "topic_probability": 0.1842000037431717
+    },
+    {
+      "title": "Early SkillsFuture Support Top-up for Retrenched Individuals under Age 40",
+      "meta_topic_label": "Workforce Support & Business Grants",
+      "topic_id": 2,
+      "topic_probability": 0.725600004196167
+    },
+    {
+      "title": "Effort and Resources Expended for 2016 Separation of Workforce Development Agency into Two Agencies, and Current Re-merger Plan",
+      "meta_topic_label": "Workforce Support & Business Grants",
+      "topic_id": 2,
+      "topic_probability": 0.21170000731945038
+    },
+    {
+      "title": "Efforts to Alleviate Traffic Congestion During Peak Hours along Loyang Avenue and Adjacent Roads",
+      "meta_topic_label": "Road Safety & Public Security",
+      "topic_id": 6,
+      "topic_probability": 0.5595999956130981
+    },
+    {
+      "title": "Efforts to Increase Availability and Uptake of Screening for Common Types of Cancer",
+      "meta_topic_label": "Healthcare & Mental Health",
+      "topic_id": 11,
+      "topic_probability": 0.6626999974250793
+    },
+    {
+      "title": "Engaging Camp Vendors or Other Service Providers to Take Care of Children in Affected Little Professors Learning Student Care Centres",
+      "meta_topic_label": "Education & Child Development",
+      "topic_id": 12,
+      "topic_probability": 0.44269999861717224
+    },
+    {
+      "title": "Evaluating Platform Delivery Work-Related Risks and Code of Practice for Platform Service to Ensure Riders' Safety",
+      "meta_topic_label": "Road Safety & Public Security",
+      "topic_id": 6,
+      "topic_probability": 0.29120001196861267
+    },
+    {
+      "title": "Evaluation of Patient Care Outcomes for Community Mental Health Model Across Tiers and Refining Results for Community Services",
+      "meta_topic_label": "Healthcare & Mental Health",
+      "topic_id": 11,
+      "topic_probability": 0.5889999866485596
+    },
+    {
+      "title": "Expanding myResponder App’s Scope to Include Alerts for All HDB Residential Fires",
+      "meta_topic_label": "Housing & Property Policy",
+      "topic_id": 0,
+      "topic_probability": 0.5541999936103821
+    },
+    {
+      "title": "Explicit Age-based and Marketing Restrictions in Upcoming Regulations for Blind Boxes",
+      "meta_topic_label": "Parliamentary Procedures & Foreign Affairs",
+      "topic_id": 5,
+      "topic_probability": 0.7615000009536743
+    },
+    {
+      "title": "Extent of Quota Circumvention through Phantom Worker Arrangements",
+      "meta_topic_label": "Labour & Workplace Relations",
+      "topic_id": 9,
+      "topic_probability": 0.5011000037193298
+    },
+    {
+      "title": "Feedback from Public and MPs Sought by Committee Tasked to Review Political Office Holders' Salaries",
+      "meta_topic_label": "Community Schemes & Senior Support",
+      "topic_id": 1,
+      "topic_probability": 0.2506999969482422
+    },
+    {
+      "title": "Impact of ERP Gantry Removal on Motorist Behaviours and Reducing Congestion",
+      "meta_topic_label": "Labour & Workplace Relations",
+      "topic_id": 9,
+      "topic_probability": 0.38830000162124634
+    },
+    {
+      "title": "Impact of Social Media Use on Students' Learning Outcomes, Attention Span and Social Development",
+      "meta_topic_label": "Education & Child Development",
+      "topic_id": 12,
+      "topic_probability": 0.7807999849319458
+    },
+    {
+      "title": "Impact on Inflation with CDC Vouchers Given to Singapore Households Regardless of Socio-economic Status",
+      "meta_topic_label": "Community Schemes & Senior Support",
+      "topic_id": 1,
+      "topic_probability": 0.5098000168800354
+    },
+    {
+      "title": "Impact on Line Availability from North-East Line Power Supply System Renewal",
+      "meta_topic_label": "Trade, Energy & Consumer Affairs",
+      "topic_id": 10,
+      "topic_probability": 0.33219999074935913
+    },
+    {
+      "title": "Increasing Enforcement against Cyclists and E-bike Users for Riding without Helmets, Front and Rear Lights, and Rising against Traffic Flow",
+      "meta_topic_label": "Road Safety & Public Security",
+      "topic_id": 6,
+      "topic_probability": 0.8680999875068665
+    },
+    {
+      "title": "Language Distribution of NLB Children's Book Collection and Proportion of Malay Children's Books Published in Bahasa Indonesia",
+      "meta_topic_label": "Education & Child Development",
+      "topic_id": 12,
+      "topic_probability": 0.3433000147342682
+    },
+    {
+      "title": "Limits on Singapore's Total Data Centre Capacity",
+      "meta_topic_label": "Industry & Enterprise Development",
+      "topic_id": 7,
+      "topic_probability": 0.3050999939441681
+    },
+    {
+      "title": "Mandating that Businesses Must Continue to Accept Cash as Payment Option",
+      "meta_topic_label": "Community Schemes & Senior Support",
+      "topic_id": 1,
+      "topic_probability": 0.3312000036239624
+    },
+    {
+      "title": "Measures to Address Existing Skill Gaps of Singaporean Workers in Government Agencies and Statutory Boards",
+      "meta_topic_label": "Labour & Workplace Relations",
+      "topic_id": 9,
+      "topic_probability": 0.39899998903274536
+    },
+    {
+      "title": "More Outcome-based Work Arrangements, Rather Than Time-based Models",
+      "meta_topic_label": "Caregiving & Family Leave",
+      "topic_id": 13,
+      "topic_probability": 0.4262000024318695
+    },
+    {
+      "title": "Mother Tongue Exemption or Replacement for Students with Conditions Such As Autism Spectrum Disorder or Dyslexia",
+      "meta_topic_label": "Education & Child Development",
+      "topic_id": 12,
+      "topic_probability": 0.6794000267982483
+    },
+    {
+      "title": "Participation Rate of Tamil Language Elective Programme Teaching Internship in Past Five Years and Subsequent Enrolment at NIE",
+      "meta_topic_label": "Education & Child Development",
+      "topic_id": 12,
+      "topic_probability": 0.5794000029563904
+    },
+    {
+      "title": "Percentage of HDB BTO Homeowners Reporting Defects that Required Rectification after Key Collection",
+      "meta_topic_label": "Housing & Property Policy",
+      "topic_id": 0,
+      "topic_probability": 0.6546000242233276
+    },
+    {
+      "title": "Percentage of Households with Utility Bill Arrears",
+      "meta_topic_label": "Housing & Property Policy",
+      "topic_id": 0,
+      "topic_probability": 0.3212999999523163
+    },
+    {
+      "title": "Placing Road Works Signs at Sufficient Distances to Allow Drivers Time to Safely Change Lanes",
+      "meta_topic_label": "Road Safety & Public Security",
+      "topic_id": 6,
+      "topic_probability": 0.7050999999046326
+    },
+    {
+      "title": "Police Call-outs to Attend to Public Nuisance and Average Time Taken to Resolve Such Disturbances",
+      "meta_topic_label": "Law Enforcement & Online Safety",
+      "topic_id": 15,
+      "topic_probability": 0.7767999768257141
+    },
+    {
+      "title": "Primary Students on Waitlists for Places in Student Care Centres",
+      "meta_topic_label": "Education & Child Development",
+      "topic_id": 12,
+      "topic_probability": 0.6629999876022339
+    },
+    {
+      "title": "Projected Domestic Demand for Critical Minerals and Strategies to Ensure Supply Security",
+      "meta_topic_label": "Trade, Energy & Consumer Affairs",
+      "topic_id": 10,
+      "topic_probability": 0.5708000063896179
+    },
+    {
+      "title": "Proportion of HDB Solar Panel Installation Under SolarNova Programme and Future Expansion Plans",
+      "meta_topic_label": "Housing & Property Policy",
+      "topic_id": 0,
+      "topic_probability": 0.7214000225067139
+    },
+    {
+      "title": "Reforming CCA Access in Our Schools",
+      "meta_topic_label": "Education & Child Development",
+      "topic_id": 12,
+      "topic_probability": 0.436599999666214
+    },
+    {
+      "title": "Relationship-based Support to Help Seniors Rebuild Daily Routines and Social Connections",
+      "meta_topic_label": "Healthcare & Mental Health",
+      "topic_id": 11,
+      "topic_probability": 0.3905999958515167
+    },
+    {
+      "title": "Review Vetting Process of Student and Kindergarten Care Service Providers and Enhance Financial Safeguards and Monitoring Mechanisms",
+      "meta_topic_label": "Education & Child Development",
+      "topic_id": 12,
+      "topic_probability": 0.3050000071525574
+    },
+    {
+      "title": "Review of SG Heritage Business Scheme Eligibility Criteria and Total Amount of Funds Disbursed",
+      "meta_topic_label": "Household Finance & Income Support",
+      "topic_id": 4,
+      "topic_probability": 0.33480000495910645
+    },
+    {
+      "title": "Reviewing CDC Vouchers Eligibility in View of Distinct Family Nuclei Residing in Same Address for Caregiving Purposes",
+      "meta_topic_label": "Community Schemes & Senior Support",
+      "topic_id": 1,
+      "topic_probability": 0.41530001163482666
+    },
+    {
+      "title": "Risk Assessments of Bus Arrival Timing System Prior to January 2026 System Glitch",
+      "meta_topic_label": "Road Safety & Public Security",
+      "topic_id": 6,
+      "topic_probability": 0.4496999979019165
+    },
+    {
+      "title": "Segregated Account Requirements for Businesses that Collect Client Monies through Prepayment Packages",
+      "meta_topic_label": "Trade, Energy & Consumer Affairs",
+      "topic_id": 10,
+      "topic_probability": 0.30230000615119934
+    },
+    {
+      "title": "Special Educational Needs Examination Access Arrangement Timelines and Study of Information-sharing Streamlining",
+      "meta_topic_label": "Education & Child Development",
+      "topic_id": 12,
+      "topic_probability": 0.4595000147819519
+    },
+    {
+      "title": "Standard Protocols for ComLink+ Family Coaches to Contact Disengaged Households",
+      "meta_topic_label": "Education & Child Development",
+      "topic_id": 12,
+      "topic_probability": 0.4661000072956085
+    },
+    {
+      "title": "Strengthening Long-term Healthcare Workforce Sustainability while Maintaining Care Standards",
+      "meta_topic_label": "Healthcare & Mental Health",
+      "topic_id": 11,
+      "topic_probability": 0.27639999985694885
+    },
+    {
+      "title": "Timeline of Culture Pass Platform Onboarding Process and Price Review Mechanism for Events",
+      "meta_topic_label": "Household Finance & Income Support",
+      "topic_id": 4,
+      "topic_probability": 0.45660001039505005
+    },
+    {
+      "title": "Tracking User Satisfaction with ComLink+, Including Experience with Family Coaches",
+      "meta_topic_label": "Education & Child Development",
+      "topic_id": 12,
+      "topic_probability": 0.6793000102043152
+    },
+    {
+      "title": "Tracking of Singaporean Banks' Revenue from Payment Networks and Evaluation of Contractual Risks in Past Four Years",
+      "meta_topic_label": "Trade, Energy & Consumer Affairs",
+      "topic_id": 10,
+      "topic_probability": 0.24549999833106995
+    },
+    {
+      "title": "Use of Foreign Worker Levy to Improve Transport Safety for Migrant Workers over Past Three Years",
+      "meta_topic_label": "Workforce Support & Business Grants",
+      "topic_id": 2,
+      "topic_probability": 0.3091999888420105
+    },
+    {
+      "title": "Utilisation Rates of Edusave and PSEA Savings Account in Past 10 Years",
+      "meta_topic_label": "Household Finance & Income Support",
+      "topic_id": 4,
+      "topic_probability": 0.3725000023841858
+    },
+    {
+      "title": "Utilisation Rates of SG60 Vouchers by Age Group and Additional Measures to Encourage Greater Utilisation",
+      "meta_topic_label": "Community Schemes & Senior Support",
+      "topic_id": 1,
+      "topic_probability": 0.7976999878883362
+    }
+  ]
+}
