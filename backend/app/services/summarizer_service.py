@@ -389,11 +389,12 @@ def summarize_all_debates(date, max_workers=2):
             if title not in completed_titles
         ]
 
-        print(
-            f"Total debates: {len(debates)} | "
-            f"Completed: {len(completed_titles)} | "
-            f"Remaining: {len(remaining)}"
-        )
+        if len(remaining) > 0:
+            print(
+                f"Total debates: {len(debates)} | "
+                f"Completed: {len(completed_titles)} | "
+                f"Remaining: {len(remaining)}"
+            )
 
         if not remaining:
             return {
