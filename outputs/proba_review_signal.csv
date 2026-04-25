@@ -1,0 +1,406 @@
+debate_id,title,sector_label,confidence,predicted,max_predicted_proba,is_correct,error_type,review_flag
+D001,Approval Process for Requests for Air-conditioners to be Installed in HDB Rental Flats,Housing & Property,HIGH,Housing & Property,0.2899158115269832,True,Correct,Auto-label OK
+D002,Data on Out-of-Pocket Spending for Chronic Diseases by CHAS Card Tier and Income Decile and Plans for Further Subsidies,Healthcare,HIGH,Healthcare,0.211804535887127,True,Correct,Auto-label OK
+D003,Discrepancies in Immigration Entry and Exit Records,Defence & Home Affairs,HIGH,Defence & Home Affairs,0.2252744455333009,True,Correct,Auto-label OK
+D004,Implications for Singapore from Disputes over US Claim on Greenland,Defence & Home Affairs,MEDIUM,Defence & Home Affairs,0.11349071048019348,True,Correct,Needs Review
+D005,Evaluating Risky and Ineffective Airdrops of Humanitarian Aid to Intended Recipients,Defence & Home Affairs,MEDIUM,Transport,0.12279076797230955,False,Misclassified,Needs Review
+D006,Update on Review to Remove 15-month Wait-out Requirement for Private Property Owners Downgrading to HDB Flats,Housing & Property,HIGH,Housing & Property,0.4290677882838969,True,Correct,Auto-label OK
+D007,Strengthening Resources for Peer Support of Mental Health in Community Settings and Workplaces,Healthcare,HIGH,Healthcare,0.19743187177353166,True,Correct,Auto-label OK
+D008,Mitigation Actions Taken to Protect At-risk Children from Abusive Situations against Potential System Lapses,Social & Family Policy,HIGH,Social & Family Policy,0.16897568331539758,True,Correct,Auto-label OK
+D009,Update on Food Security Strategy with Revised 2035 Fibre and Protein Production Targets,Environment,HIGH,Environment,0.28676049293582656,True,Correct,Auto-label OK
+D010,Compatibility Issues between ERP 2.0 On-board Units and Some Car Park Gantry Systems,Transport,HIGH,Transport,0.2090251909266568,True,Correct,Auto-label OK
+D011,Implication of Aquaculture Plan on Singapore Food Story 2.0,Environment,HIGH,Environment,0.24663346080214915,True,Correct,Auto-label OK
+D012,Guidelines for Approval of Renovation Works for Older HDB Flats to Ensure Structural Integrity and Prevent Damages,Housing & Property,HIGH,Housing & Property,0.3454072782135408,True,Correct,Auto-label OK
+D013,Extension of Enhanced MRSS for Vulnerable Workers with Career Interruptions Due to Caregiving Reasons,Labour & Workforce,HIGH,Social & Family Policy,0.2564208786368797,False,Misclassified,Auto-label OK
+D014,Security Implications for Singapore and Region Given Policy Shifts in 2025 US National Security Strategy Paper,Defence & Home Affairs,HIGH,Defence & Home Affairs,0.2535183143984235,True,Correct,Auto-label OK
+D015,"Number of Vape-related Arrests Made, and Update on Enforcement, Preventive and Rehabilitative Measures for Tackling Vaping",Healthcare,HIGH,Healthcare,0.27163451128941823,True,Correct,Auto-label OK
+D016,Impact of Marginal Bidders in COE Auctions Disproportionately Influencing Clearing Prices across Categories A and B,Transport,HIGH,Transport,0.13641172611161373,True,Correct,Needs Review
+D017,Reintegration of Platform Workers to Traditional Employment through Support for Job Redesign Programme,Labour & Workforce,HIGH,Labour & Workforce,0.43420252268913834,True,Correct,Auto-label OK
+D018,Impact on Singapore from Shutdown Affecting Operations and Inspective Services at US Food and Drug Administration,Healthcare,MEDIUM,Environment,0.4139855395386747,False,Misclassified,Auto-label OK
+D019,Weekday Commute Times Based on LTA's Latest Household Travel Survey Separated by Household Types and Income,Transport,HIGH,Transport,0.13155070451412762,True,Correct,Needs Review
+D020,Completion Timeline of Bus Fleet Management System Upgrade and Penalties Enforced for Agreement Breaches,Transport,HIGH,Transport,0.34146951500944434,True,Correct,Auto-label OK
+D021,Reasonable Asking Price for Flats in EIP Buyback Scheme,Housing & Property,HIGH,Housing & Property,0.4417019007618817,True,Correct,Auto-label OK
+D022,Regulation for Protection of Consumers Affected by Fraudulent Transactions Involving Third-party Payment Platforms,Financial Services,HIGH,Financial Services,0.2247400405216483,True,Correct,Auto-label OK
+D023,Land Transport and Related Matters Bill,Transport,HIGH,Transport,0.2403242024703084,True,Correct,Auto-label OK
+D024,Standardised Diagnosis and Care Pathway for Elderly Residents with Possible Hearing Loss,Healthcare,HIGH,Healthcare,0.2520084401744031,True,Correct,Auto-label OK
+D025,"Effectiveness of Noise Barriers, Low-noise Pavement and Rail Modifications on Residential Noise Level Reductions",Transport,HIGH,Transport,0.24997226763168873,True,Correct,Auto-label OK
+D026,Measures to Stop Active Mobility Users on Park Connector Networks from Blasting Music When Close To Housing Estates,Environment,HIGH,Transport,0.15101947347215772,False,Misclassified,Needs Review
+D027,Updated School Guidelines on Adverse Climate Events to Safeguard Student Safety and Well-being,Education,HIGH,Education,0.21307492754241714,True,Correct,Auto-label OK
+D028,"Impact of Bus Arrival Timing System Faults on Bus Services and Commuters, and Corrective Measures Taken",Transport,HIGH,Transport,0.4174472645963386,True,Correct,Auto-label OK
+D029,Rejected Flexible Work Arrangement Requests Since December 2024,Labour & Workforce,HIGH,Labour & Workforce,0.1677710330240778,True,Correct,Auto-label OK
+D030,Data on Composition and Distribution of Household Income Changes Across Different Income Deciles,Labour & Workforce,HIGH,Digital Economy & Tech,0.13925766915797613,False,Misclassified,Needs Review
+D031,Directing Graduates towards Sectors Maintaining Active Hiring and Wage Growth,Labour & Workforce,HIGH,Labour & Workforce,0.27190853855115993,True,Correct,Auto-label OK
+D032,Proposal for Additional Primary Schools in Bishan East-Sin Ming Region,Education,HIGH,Education,0.2857377054042693,True,Correct,Auto-label OK
+D033,Appeals for Additional CDC Vouchers from Different Households Sharing Same Address,Social & Family Policy,HIGH,Other / Cross-cutting,0.2218332811188801,False,Misclassified,Auto-label OK
+D034,Probe into Similarities between Roles of Recently Retrenched Staff and Graduate Trainees of Digital Bank,Labour & Workforce,HIGH,Labour & Workforce,0.21391213078493093,True,Correct,Auto-label OK
+D035,Factors Considered When Pritorising Rail Line Upgrades,Transport,HIGH,Transport,0.1857586840937502,True,Correct,Auto-label OK
+D036,"Managing National Food Stockpile while Being Mindful of Wastage, Nutritional Value and Food Prices",Environment,HIGH,Environment,0.5149868131939305,True,Correct,Auto-label OK
+D037,Tracking Tenure Duration and Ethnicity of Tenants for Open-market Rental of HDB Flats,Housing & Property,HIGH,Housing & Property,0.562901679324682,True,Correct,Auto-label OK
+D038,Cumulative Noise Cap Implementation for Concurrent Infrastructure Projects with North-South Corridor Project,Other / Cross-cutting,LOW,Transport,0.2715966720086013,False,Misclassified,Auto-label OK
+D039,Mother Tongue Exemption or Replacement for Students with Conditions Such As Autism Spectrum Disorder or Dyslexia,Education,HIGH,Education,0.41565367917694623,True,Correct,Auto-label OK
+D040,Enhancement of Annual Disbursement of LifeSG Credits under Large Families Scheme to Eligible Children,Social & Family Policy,HIGH,Social & Family Policy,0.24678384946406362,True,Correct,Auto-label OK
+D041,"Extending Concession Pass Price Reductions beyond Adults, Seniors and PwDs in view of Transport Fare Increase in December 2025",Transport,HIGH,Transport,0.19960588123790055,True,Correct,Auto-label OK
+D042,First Responder Agency for Enforcing Late Night Noise Violations,Defence & Home Affairs,HIGH,Housing & Property,0.16203396399277542,False,Misclassified,Auto-label OK
+D043,Data on Pilgrims Who Have Cleared Medical Screening for Upcoming Haj,Healthcare,HIGH,Healthcare,0.16259291888393906,True,Correct,Auto-label OK
+D044,Including Input from Singaporeans Who Graduated Overseas in Fresh Graduates Employment Data,Labour & Workforce,HIGH,Labour & Workforce,0.3087555491209987,True,Correct,Auto-label OK
+D045,Enhancing Vape Detection in Schools and Counselling for Students Caught Vaping,Education,HIGH,Education,0.440704018113009,True,Correct,Auto-label OK
+D046,Assessments to Determine Adequacy of Childcare Capacity within Pasir Ris-Changi GRC,Social & Family Policy,HIGH,Social & Family Policy,0.12315346974832707,True,Correct,Needs Review
+D047,Breakdown of Property Ownership Value across Income Groups by Singaporean and Non-Singaporean Households in Last 10 Years,Housing & Property,HIGH,Housing & Property,0.18058843576628458,True,Correct,Auto-label OK
+D048,Data on Employment of Local Graduates of IHLs and Aquaculture CET Programmes in Sea-based Fish Farm Industry,Labour & Workforce,HIGH,Environment,0.1731774772902724,False,Misclassified,Auto-label OK
+D049,Workplace Fairness (Dispute Resolution) Bill,Labour & Workforce,HIGH,Labour & Workforce,0.22409349158683833,True,Correct,Auto-label OK
+D050,"Tracking Employment Outcomes, Job Transitions and Promotions of Individuals who Have Completed SkillsFuture-funded Training",Labour & Workforce,HIGH,Labour & Workforce,0.17807997197877234,True,Correct,Auto-label OK
+D051,Criteria for Location of Active Ageing Centres in New BTO Estates,Housing & Property,HIGH,Healthcare,0.1935578425815417,False,Misclassified,Auto-label OK
+D052,Digital Parenting Survey's Representation of Resident Parent Population's Income Levels,Digital Economy & Tech,MEDIUM,Digital Economy & Tech,0.1694403094222848,True,Correct,Auto-label OK
+D053,Assessing Trend of Declining Job Creation Per Dollar of Investment,Labour & Workforce,HIGH,Labour & Workforce,0.18192617344146314,True,Correct,Auto-label OK
+D054,Impact of Acquisition of RSAF P-8A Poseidon and F-35 Jets on Maritime Security Capabilities,Defence & Home Affairs,HIGH,Defence & Home Affairs,0.16244619073500277,True,Correct,Auto-label OK
+D055,Possible Amendment of Prevention of Corruption Act to Prevent Liability Evasion by Senior Management of Large Corporations,Labour & Workforce,MEDIUM,Social & Family Policy,0.10945059726212837,False,Misclassified,Needs Review
+D056,Projected Demand for Childminding Services over Three-year Pilot Period,Social & Family Policy,HIGH,Social & Family Policy,0.13931554736347945,True,Correct,Needs Review
+D057,Proportion of HDB Solar Panel Installation Under SolarNova Programme and Future Expansion Plans,Housing & Property,HIGH,Housing & Property,0.3800443312737847,True,Correct,Auto-label OK
+D058,Strengthening SCDF's Emergency Response Capabilities and Enhancing Community Engagement for Fire Outbreaks,Defence & Home Affairs,HIGH,Housing & Property,0.19495729127450342,False,Misclassified,Auto-label OK
+D059,Number of Carbon Offset Credits Purchased by Singapore Annually,Environment,HIGH,Environment,0.14363518888025723,True,Correct,Needs Review
+D060,Noise-related Feedback and Complaints Lodged for Construction Works Near Loyang Viaduct and Cross Island Line Stations,Transport,HIGH,Transport,0.22285031365598712,True,Correct,Auto-label OK
+D061,"Electric Vehicle Charging Rates at HDB and Private Car Parks, and Impact of Mandating Dual-operators",Transport,HIGH,Housing & Property,0.1598880298231461,False,Misclassified,Needs Review
+D062,Longer-term Support for SMEs to Maintain Employment and Wages of Older Workers,Labour & Workforce,HIGH,Labour & Workforce,0.35049625309974713,True,Correct,Auto-label OK
+D063,Speech Time for the Leader of the Opposition,Other / Cross-cutting,LOW,Other / Cross-cutting,0.12834068534881338,True,Correct,Needs Review
+D064,Number of Dementia-afflicted Patients Over Five-Year Period and Future Projections for Singapore,Healthcare,MEDIUM,Healthcare,0.24441156544608894,True,Correct,Auto-label OK
+D065,Update on Study on Effectiveness of Mandating Age Limits for Social Media Access,Digital Economy & Tech,LOW,Digital Economy & Tech,0.3015795504619342,True,Correct,Auto-label OK
+D066,Justification for Higher Fare Increase for Express Buses and Potential Impacts of Pricing Strategy on Ridership,Transport,HIGH,Transport,0.37649693610868196,True,Correct,Auto-label OK
+D067,Effectiveness of Measures to Prevent and Deter Scams,Defence & Home Affairs,HIGH,Defence & Home Affairs,0.25991184280083884,True,Correct,Auto-label OK
+D068,Background Checks on Educators and Non-teaching Staff in Government Schools,Education,HIGH,Education,0.2302235511834468,True,Correct,Auto-label OK
+D069,Time Limit for Senior Minister of State's Speech,Other / Cross-cutting,LOW,Labour & Workforce,0.1261719512008223,False,Misclassified,Needs Review
+D070,Measures to Enhance Protection against Fraudulent Bulk Order Scams Targeting Small Businesses,Defence & Home Affairs,HIGH,Defence & Home Affairs,0.1995951903412804,True,Correct,Auto-label OK
+D071,Tracking and Issuing Guidelines on Listed Prices for Subsidised Procedures at Public Hospitals,Healthcare,HIGH,Healthcare,0.3616265092594962,True,Correct,Auto-label OK
+D072,Increasing Quantum of Benefits and Grants for Large-family Households,Social & Family Policy,HIGH,Social & Family Policy,0.27317447636677955,True,Correct,Auto-label OK
+D073,Reintroducing Larger-format HDB Flats for Younger Families to Encourage Parenthood and Space Needs Strategies,Housing & Property,HIGH,Housing & Property,0.43577379704021973,True,Correct,Auto-label OK
+D074,Data on Foreigners with Valid In-Principle Approvals Who Were Denied Entry,Defence & Home Affairs,HIGH,Defence & Home Affairs,0.17746373750175198,True,Correct,Auto-label OK
+D075,More Support for Workplace Leaders and Managers to Develop Competencies in Workplace Mental Well-being,Labour & Workforce,MEDIUM,Healthcare,0.15927286674248467,False,Misclassified,Needs Review
+D076,Take-up Rate for Physical CDC Vouchers and Reasons for Cessation of Physical Vouchers Issuance,Social & Family Policy,HIGH,Other / Cross-cutting,0.22219499527480369,False,Misclassified,Auto-label OK
+D077,Old Voting District Reflected with Change of Physical Identity Card,Defence & Home Affairs,MEDIUM,Financial Services,0.12141528897126395,False,Misclassified,Needs Review
+D078,Factors Determining Requirement of Shadow Teacher or In-class Support Aide for Students and Financial Assistance for Lower-income Families,Education,HIGH,Education,0.44419311942335427,True,Correct,Auto-label OK
+D079,Plans for Mandatory PMD Insurance to Protect Pedestrians and PMD Users,Transport,HIGH,Transport,0.16609106336443327,True,Correct,Auto-label OK
+D080,Investigation into Firms under Transboundary Haze Pollution Act for Recent Haze Due To Peat Fires in Johor,Environment,HIGH,Environment,0.19443082681073848,True,Correct,Auto-label OK
+D081,Tracking of Food Insecurity Prevalence in Singapore,Social & Family Policy,HIGH,Environment,0.24790393363918997,False,Misclassified,Auto-label OK
+D082,Increasing Healthy Food Options at Hawker Centres and Food Courts,Healthcare,HIGH,Healthcare,0.19757254395106053,True,Correct,Auto-label OK
+D083,Data on Singaporeans Using MediSave for Family Members by Income Profile and Potential Risk of Insufficient MediSave Funds,Healthcare,MEDIUM,Healthcare,0.19719288250363953,True,Correct,Auto-label OK
+D084,Extending Silver Support Scheme Eligibility to Senior Residents in Executive Apartments with Low Per Capita Household Income,Social & Family Policy,HIGH,Social & Family Policy,0.30846569200593577,True,Correct,Auto-label OK
+D085,"Capture of Data Based on Retiree, Disabled Persons and Single-parent Households, and on Housing Categories Despite Change in Government's Income Trends Report",Housing & Property,HIGH,Digital Economy & Tech,0.14130455044002493,False,Misclassified,Needs Review
+D086,Salaries and Retention Rates of Mid-career Professionals in TeSA Programme,Labour & Workforce,HIGH,Labour & Workforce,0.184636455872084,True,Correct,Auto-label OK
+D087,Expected Layoffs in Petrochemical Industries following Retrenchment by US Energy Company of 500 Staff in Singapore,Labour & Workforce,HIGH,Labour & Workforce,0.33365990875023666,True,Correct,Auto-label OK
+D088,Tackling Food Safety Incidence at Schools and Institutes of Higher Learning,Education,HIGH,Environment,0.27516510884720075,False,Misclassified,Auto-label OK
+D089,NRF to Conduct National Research Challenge towards Cost-Effective Elderly Access Solutions for Older HDB Estates with Shortage of Direct Lift Access,Housing & Property,HIGH,Housing & Property,0.32555021940726897,True,Correct,Auto-label OK
+D090,Noise Dispute Resolution and Enforcement Measures in Residential Developments,Housing & Property,HIGH,Housing & Property,0.18389059824173612,True,Correct,Auto-label OK
+D091,Braking Procedures for Bus Captains to Ensure Safety of Elderly and Pregnant Commuters,Transport,HIGH,Transport,0.3700371691150325,True,Correct,Auto-label OK
+D092,Measures to Boost and Improve Paper and Domestic Recycling Rate,Environment,HIGH,Environment,0.16217440776458258,True,Correct,Auto-label OK
+D093,Allocating Students to Junior College Courses Before Knowing if They Qualify under Joint Admissions Exercise,Education,HIGH,Education,0.25234490439668344,True,Correct,Auto-label OK
+D094,Data on Food Poisoning Cases in Preschools under Anchor and Partner Operator Schemes and Private Operators over Last Nine Months,Education,MEDIUM,Social & Family Policy,0.159987605507277,False,Misclassified,Needs Review
+D095,Data on Individuals Who Have Left Workforce Due To Caregiving Responsibilities and Long-term Financial Impact of Caregiving-related Unemployment,Labour & Workforce,HIGH,Social & Family Policy,0.23735370728933475,False,Misclassified,Auto-label OK
+D096,Disciplinary Actions and Improvement Measures Taken Following PUB Document Falsification Incident,Environment,HIGH,Environment,0.18969466356465098,True,Correct,Auto-label OK
+D097,Operational Protocols to Safeguard Local Healthcare Workers in Light of Overseas Nipah Virus Infections,Healthcare,HIGH,Healthcare,0.2555111519883557,True,Correct,Auto-label OK
+D098,Regulation on Freelance Confinement Nannies Working in Singapore Without an Employment Agency Contract,Labour & Workforce,HIGH,Labour & Workforce,0.3203840846747415,True,Correct,Auto-label OK
+D099,Extending Age Limit for PHV Driver's Licence to Beyond 75 Years,Transport,MEDIUM,Transport,0.16245252234708055,True,Correct,Auto-label OK
+D100,Monitoring of Cases and Actions Taken against Errant Insurance Companies Preventing Legitimate Claims,Financial Services,HIGH,Financial Services,0.28429186465607026,True,Correct,Auto-label OK
+D101,Emergency Evacuation Protocols for High-rise Fires Involving Seniors or Residents with Mobility Impairments,Defence & Home Affairs,HIGH,Defence & Home Affairs,0.21304742389182826,True,Correct,Auto-label OK
+D102,Plans for Onboarding Traditional Chinese Medicine Practitioners to National Electronic Health Record,Healthcare,HIGH,Healthcare,0.3061557900600951,True,Correct,Auto-label OK
+D103,Breakdown of BTO and Sales of Balance Flats by Applicant Category over Past 10 Years,Housing & Property,HIGH,Housing & Property,0.31884632542927716,True,Correct,Auto-label OK
+D104,Impact of Rise of AI on Gender Employment Gap,Labour & Workforce,HIGH,Labour & Workforce,0.23707671391980373,True,Correct,Auto-label OK
+D105,e2i’s Effectiveness in Supporting Retrenched Persons with Placement and Wage Matters,Labour & Workforce,HIGH,Labour & Workforce,0.28172763842527526,True,Correct,Auto-label OK
+D106,Individuals Who Exceed Eligibility Criteria for Silver Support Scheme Based on Household Income Per Capita,Social & Family Policy,HIGH,Social & Family Policy,0.34709578219108944,True,Correct,Auto-label OK
+D107,Usage Statistics of AEDs in HDB Towns and Plans for Expansion to Private Developments,Defence & Home Affairs,MEDIUM,Housing & Property,0.21629846777349931,False,Misclassified,Auto-label OK
+D108,Impact of Increased Volatility in GIC's Returns on Interest Rates of Special Singapore Government Securities,Financial Services,HIGH,Social & Family Policy,0.17566758560485357,False,Misclassified,Auto-label OK
+D109,Discrepancy between Amount Budgeted for Voucher Schemes and Actual Amount Disbursed,Social & Family Policy,HIGH,Social & Family Policy,0.1573450043392986,True,Correct,Needs Review
+D110,Inclusion of Expected Child in Calculation of Per Capita Income for Determining Rental Rates under Parenthood Provisional Housing Scheme,Housing & Property,MEDIUM,Social & Family Policy,0.169417426525347,False,Misclassified,Auto-label OK
+D111,Migrant Domestic Workers Fined for Illegal Moonlighting and Take-up Rate of Household Services Scheme,Labour & Workforce,HIGH,Labour & Workforce,0.2695531114069604,True,Correct,Auto-label OK
+D112,Statistics on Private Property Purchases by Permanent Residents and Impact of Such Purchases on Housing Prices,Housing & Property,HIGH,Housing & Property,0.17326722787496965,True,Correct,Auto-label OK
+D113,Tiered Foreign Manpower and Levy Thresholds for Hawkers and Small F&B Operators,Labour & Workforce,HIGH,Labour & Workforce,0.18413055644857468,True,Correct,Auto-label OK
+D114,Existing Limits and Proposed Standards for Regulation of Emergency Vehicle Siren Noise Levels,Transport,HIGH,Transport,0.16454867547304483,True,Correct,Auto-label OK
+D115,Assessment of Traffic Noise Exposure in Residential Areas and Plans to Mitigate Long-Term Impacts of Environmental Noise on Residents,Environment,HIGH,Environment,0.23959879331433073,True,Correct,Auto-label OK
+D116,Appeals Received for Silver Support Scheme and Publicity Effort to Raise Awareness for Scheme's Intentions,Social & Family Policy,HIGH,Social & Family Policy,0.25601043970955883,True,Correct,Auto-label OK
+D117,Takedown of Self-harm and Suicidal Content on Social Media Channels,Digital Economy & Tech,HIGH,Digital Economy & Tech,0.3628014431280541,True,Correct,Auto-label OK
+D118,Ensuring Residential Liveability Near Expressways and MRT Corridors in Long-term Transport Expansion Plans,Transport,HIGH,Transport,0.2854231187250672,True,Correct,Auto-label OK
+D119,Differentiating Validity Periods of HDB Flat Eligibility (HFE) System and Enhancing HFE Letter with Personalised Information and Resources,Housing & Property,HIGH,Housing & Property,0.3518191316603767,True,Correct,Auto-label OK
+D120,Installation of One Fire Extinguisher at Lift Lobby of Every Two HDB Blocks,Housing & Property,HIGH,Housing & Property,0.2630716480862763,True,Correct,Auto-label OK
+D121,Guidelines for Pickleball Play in HDB Public Courts Given Its Rising Popularity and Potential Noise Disamenities,Housing & Property,HIGH,Housing & Property,0.26263774430347225,True,Correct,Auto-label OK
+D122,Impact of Rising Healthcare and Daily Living Costs on Retirement Adequacy,Social & Family Policy,HIGH,Social & Family Policy,0.36658686981652483,True,Correct,Auto-label OK
+D123,Statistics on Beds for Homeless within Shelters and Measures to Support Transition into Long-term Residences,Social & Family Policy,HIGH,Social & Family Policy,0.1751424682035611,True,Correct,Auto-label OK
+D124,Supporting Severe Hoarding Cases with Referrals to Relevant Healthcare Such As Cognitive Behavioural Therapy,Social & Family Policy,MEDIUM,Healthcare,0.19401413645225027,False,Misclassified,Auto-label OK
+D125,Verifying that Subsidised Courses for Licensed Professions are Aligned with Prerequisite Qualifications,Education,HIGH,Education,0.17047321887785966,True,Correct,Auto-label OK
+D126,Reviewing Merchant Eligibility Criteria of CDC Voucher Scheme to Ensure Fairness for Small Businesses,Social & Family Policy,HIGH,Social & Family Policy,0.19352534666813903,True,Correct,Auto-label OK
+D127,Benefits from Strategic Food Partnership with New Zealand for Singaporeans and Local Businesses,Environment,HIGH,Environment,0.35015432641609295,True,Correct,Auto-label OK
+D128,Increasing Public Transport Vouchers for Lower-income Households to Defray Recent Fare Hike,Transport,HIGH,Transport,0.16370427126906392,True,Correct,Auto-label OK
+D129,Enhancing Accountability Measures for Errant Assisted Mobility Device Users Involved in Fire Incidents,Transport,HIGH,Transport,0.22378578135841595,True,Correct,Auto-label OK
+D130,Data on Mental Health History of Arrested Drug Abusers and Breakdown of First-time Drug Abusers with Prior Diagnosis of Mental Health Disorders since 2021,Defence & Home Affairs,MEDIUM,Healthcare,0.23848454449004786,False,Misclassified,Auto-label OK
+D131,Evaluation of Major Train Delay on North-South Line and Frequency of Similar Train Faults in Past Three Years,Transport,HIGH,Transport,0.18155581152017844,True,Correct,Auto-label OK
+D132,Studying Correlation between Lower-income Households and Diet-related Chronic Diseases,Healthcare,HIGH,Healthcare,0.3211029212662843,True,Correct,Auto-label OK
+D133,Unpaid Medical Bills Incurred by Work Permit and S Pass Holders in Public Healthcare Institutions,Labour & Workforce,HIGH,Labour & Workforce,0.19437919124847633,True,Correct,Auto-label OK
+D134,Piloting Installation of Fire-rated Outdoor Charging Cabinets within Communal Facilities for PMDs,Other / Cross-cutting,LOW,Housing & Property,0.1633673662103536,False,Misclassified,Auto-label OK
+D135,Usage of CPF Savings to Fund Children's Overseas Tertiary Education,Education,MEDIUM,Education,0.21984389139783767,True,Correct,Auto-label OK
+D136,Formal Accreditation or Integration of GRaduate Industry Traineeship Programme with Existing Academic Programmes at IHLs,Labour & Workforce,LOW,Labour & Workforce,0.17981457654203697,True,Correct,Auto-label OK
+D137,Improving Accessibility for Seniors Commuting between Hougang Avenue 5 and Hougang Polyclinic by Adjusting Bus Routes,Transport,HIGH,Transport,0.2942513463788897,True,Correct,Auto-label OK
+D138,Preventing Spill-over Effects of Unsustainable Private Insurance Practices into Public Hospital Charges and Keeping Premiums Affordable,Healthcare,HIGH,Healthcare,0.350028959946561,True,Correct,Auto-label OK
+D139,Average Waiting Time for Late-stage Cancer Patients to Commence Chemotherapy in Public Hospitals,Healthcare,HIGH,Healthcare,0.22262542883813327,True,Correct,Auto-label OK
+D140,Reducing Breast Cancer Screening Age Limit for Early Detection and Subsidies for Women under 50,Healthcare,HIGH,Healthcare,0.2567947245329064,True,Correct,Auto-label OK
+D141,Awareness of Community Relations Unit in Handling Neighbour Disputes and Preventing Noise-related Disputes through New BTO Housing Design,Housing & Property,HIGH,Housing & Property,0.2669164299584591,True,Correct,Auto-label OK
+D142,Sufficiency of Public Sports Facilities for Kolam Ayer and Jalan Besar Residents Following Closure of Nearby Sports Centres,Housing & Property,HIGH,Other / Cross-cutting,0.12893870114415368,False,Misclassified,Needs Review
+D143,Use of AI Chatbots for Counselling and Mental Health Support by Teenagers and Young Adults,Digital Economy & Tech,MEDIUM,Healthcare,0.21955735532984616,False,Misclassified,Auto-label OK
+D144,Establishing Government-operated Adult Disability Homes and Day Activity Centres to Complement Social Service Agency-run Ones,Social & Family Policy,HIGH,Social & Family Policy,0.16315377832450711,True,Correct,Auto-label OK
+D145,Measures to Diversify Food Imports and Moderate Food Prices in View of Volatile Global Food Prices,Environment,HIGH,Environment,0.3666582650847128,True,Correct,Auto-label OK
+D146,Transport Sector (Miscellaneous Amendments) Bill,Transport,HIGH,Transport,0.45483676947800666,True,Correct,Auto-label OK
+D147,Supporting Home Hospice Services,Healthcare,HIGH,Healthcare,0.24693162438481947,True,Correct,Auto-label OK
+D148,Review of HDB's Current Homeowner Insurance Coverage,Housing & Property,HIGH,Housing & Property,0.3063447109272379,True,Correct,Auto-label OK
+D149,"Number, Profile and Success Rate of Applications for SkillsFuture Jobseeker Support Scheme",Labour & Workforce,HIGH,Labour & Workforce,0.14350818753448608,True,Correct,Needs Review
+D150,Proposal for One Budget Meal Option Per Hawker Stall at Centres Managed by NEA and Town Councils,Environment,HIGH,Environment,0.22118049713634283,True,Correct,Auto-label OK
+D151,Protection for Employees and Whistle-blowers during Workplace Bullying Investigations,Labour & Workforce,HIGH,Labour & Workforce,0.22880094988473215,True,Correct,Auto-label OK
+D152,Affordability of Utility Bills for Singaporeans Given Rising Energy Costs and Push Towards Green Energy Alternatives,Environment,HIGH,Environment,0.172948369735311,True,Correct,Auto-label OK
+D153,Regulatory Measures against Systematic Base Fare Cuts by Platform Companies after Implementation of CPF Contribution Scheme,Labour & Workforce,HIGH,Labour & Workforce,0.28450384181494975,True,Correct,Auto-label OK
+D154,"Implementation of Differentiated, Age-tiered Payout Ratios under Workfare Income Supplement Scheme",Labour & Workforce,HIGH,Social & Family Policy,0.2506716948795297,False,Misclassified,Auto-label OK
+D155,Data on Physical and Mental Health of Caregivers,Healthcare,HIGH,Healthcare,0.3674592575183356,True,Correct,Auto-label OK
+D156,Excessive Price Pass-through to Essential Goods from Global Supply Chain Disruptions and Rising Rentals,Social & Family Policy,HIGH,Other / Cross-cutting,0.16032529422754593,False,Misclassified,Auto-label OK
+D157,Data on School Bus Fares for Primary School Children and Ensuring Affordability of Fares,Education,HIGH,Transport,0.28385199189857857,False,Misclassified,Auto-label OK
+D158,"Clarification by Minister, Prime Minister's Office",Education,HIGH,Education,0.13743286395181206,True,Correct,Needs Review
+D159,Successful Applicants of Phase 2B with No Prior School Affiliation and Proportion of Children of Alumni,Education,HIGH,Education,0.3073672193686351,True,Correct,Auto-label OK
+D160,Further Professionalising Bus Captain Roles to Attract Younger Singaporeans,Transport,HIGH,Transport,0.44326457630950256,True,Correct,Auto-label OK
+D161,Evaluating Platform Delivery Work-Related Risks and Code of Practice for Platform Service to Ensure Riders' Safety,Labour & Workforce,HIGH,Labour & Workforce,0.2893519342716155,True,Correct,Auto-label OK
+D162,Connectivity Dead-zones and Weak Signal Strength in Bidadari Estate in Past Five Years and Measures to Address Connectivity Gaps,Digital Economy & Tech,LOW,Digital Economy & Tech,0.12378608769101158,True,Correct,Needs Review
+D163,Electric Vehicle Training for Bus Captains,Transport,HIGH,Transport,0.5067196363658928,True,Correct,Auto-label OK
+D164,Construction Status and Expected Completion for Tampines North Integrated Transport Hub,Transport,HIGH,Transport,0.21299662702593794,True,Correct,Auto-label OK
+D165,Lowering Speed Limit for Bicycles on Shared Paths to Enhance Safety,Transport,HIGH,Transport,0.27390511104147464,True,Correct,Auto-label OK
+D166,Number of Migrant Domestic Workers with Caregiving Responsibilities at Secondary Residential Address,Labour & Workforce,HIGH,Labour & Workforce,0.2511639735121408,True,Correct,Auto-label OK
+D167,Providing Stronger Incentives and Safeguards for Schools to Open Facilities for Community Use,Education,HIGH,Education,0.26138564813153375,True,Correct,Auto-label OK
+D168,Development of Assistive Technology for Visually Impaired Public Transport Users,Transport,HIGH,Transport,0.4376429840034944,True,Correct,Auto-label OK
+D169,Safeguards for Employees whose Organisations Enforce Work-in-office Arrangements,Labour & Workforce,HIGH,Labour & Workforce,0.2277589519150505,True,Correct,Auto-label OK
+D170,Strategies to Encourage Singaporeans to Update COVID-19 Vaccinations amid Dominance of XFG Variant,Healthcare,HIGH,Healthcare,0.18089020357303384,True,Correct,Auto-label OK
+D171,"Increasing Financial Support for Seniors Living Alone for Healthcare, Social Services and Housing",Social & Family Policy,HIGH,Social & Family Policy,0.2508462241717558,True,Correct,Auto-label OK
+D172,Special Educational Needs Examination Access Arrangement Timelines and Study of Information-sharing Streamlining,Education,HIGH,Education,0.30093968555178363,True,Correct,Auto-label OK
+D173,Robustness of Trials Where Nets Were Placed in 35 Flats in Punggol and Toa Payoh to Prevent Pigeon Nesting Behaviour,Housing & Property,HIGH,Housing & Property,0.33635077319054496,True,Correct,Auto-label OK
+D174,Expanding SkillsFuture Credit Eligibility for Subscription to AI Productivity Tools,Education,HIGH,Education,0.15902954955267196,True,Correct,Needs Review
+D175,Guidance to Schools to Encourage Students to Speak up about School-related Issues through Appropriate Channels,Education,HIGH,Education,0.4998991529554899,True,Correct,Auto-label OK
+D176,Health Risks Arising from Non-prescribed Performance-enhancing Drug Use,Healthcare,HIGH,Healthcare,0.17225803243187982,True,Correct,Auto-label OK
+D177,Recurring Complaints about Night-time Noise from Delivery Trucks in HDB Estates,Environment,LOW,Housing & Property,0.22395170845864895,False,Misclassified,Auto-label OK
+D178,Balancing Employability Preparation with Youths' Well-being and Preventing Excessive Internship Stacking,Education,HIGH,Education,0.4246626788169908,True,Correct,Auto-label OK
+D179,"Data on Post-natal Care Services and Costs, and Use of MediSave for Post-delivery Complications at Public and Private Hospitals",Healthcare,HIGH,Healthcare,0.27936967762434417,True,Correct,Auto-label OK
+D180,HDB Design Improvements for Enhanced Privacy Amid Declining Satisfaction Levels on Noise and Cleanliness,Housing & Property,HIGH,Housing & Property,0.49250415538111003,True,Correct,Auto-label OK
+D181,Refund Demands on Ineligible Recipients of Self-Employed Person Income Relief Scheme,Labour & Workforce,HIGH,Social & Family Policy,0.15265159309247975,False,Misclassified,Needs Review
+D182,Statistics on SG Culture Pass Usage and Further Plans to Encourage Redemption Rates,Other / Cross-cutting,HIGH,Other / Cross-cutting,0.11450091486116236,True,Correct,Needs Review
+D183,Possible Integration of Lifestyle Medicine as Preventive Care under Healthier SG,Healthcare,HIGH,Healthcare,0.3581103603304745,True,Correct,Auto-label OK
+D184,Utilisation Rates of SkillsFuture Enterprise Credit (SFEC) and Measures to Encourage SFEC Use before Expiry in 2026,Labour & Workforce,HIGH,Labour & Workforce,0.13764745210921442,True,Correct,Needs Review
+D185,Timeline for Public Bus Accessibility Feature Upgrades to Support Visually Impaired and Deaf Commuters,Transport,HIGH,Transport,0.3409312921580641,True,Correct,Auto-label OK
+D186,Statistics on Discrimination Complaints Received from 2021 to 2025 with Breakdown of Types of Discrimination,Labour & Workforce,HIGH,Labour & Workforce,0.18650218690501735,True,Correct,Auto-label OK
+D187,Monitoring Frequency and Severity of Recurring Water Leakage in HDB Flats and Prevention Measures,Housing & Property,HIGH,Housing & Property,0.47585165336820295,True,Correct,Auto-label OK
+D188,Enhanced Consumer Protection and Standardised Credit Card Dispute Resolution across Financial Institutions,Financial Services,HIGH,Financial Services,0.2710868157653688,True,Correct,Auto-label OK
+D189,Imposing Limits to Credit Facilities and Charges by Platform Operators to Platform Workers Under Financing Programme,Financial Services,MEDIUM,Labour & Workforce,0.2820340524214138,False,Misclassified,Auto-label OK
+D190,Transfer of Patients between Hospitals Operated by Different Healthcare Groups Without Polyclinic Referral to Maintain Subsidies,Healthcare,HIGH,Healthcare,0.3343559315652797,True,Correct,Auto-label OK
+D191,Bass Noise Assessment of Shophouse Pubs and Discos to Address Disturbance Reports by Surrounding Units,Environment,HIGH,Environment,0.22117964429253933,True,Correct,Auto-label OK
+D192,Current Healthcare Workforce Strength Compared against Projected Service Demand,Healthcare,MEDIUM,Healthcare,0.2690580552838626,True,Correct,Auto-label OK
+D193,Factors for Continued Decline in Full-time Permanent Employment Rate for Polytechnic Graduates Since 2022,Labour & Workforce,HIGH,Labour & Workforce,0.34047811422802676,True,Correct,Auto-label OK
+D194,CareShield Life Statistics and Severe Disability Prevention Measures,Healthcare,HIGH,Healthcare,0.24134416244116713,True,Correct,Auto-label OK
+D195,Waiving Polyclinic Doctors' Memo Fees for SG Enable Schemes and Grants Applications,Healthcare,MEDIUM,Healthcare,0.23704718961215293,True,Correct,Auto-label OK
+D196,"Number of Students Switching Courses of Study in Polytechnics and ITEs, and Costs Incurred",Education,HIGH,Education,0.417706279344302,True,Correct,Auto-label OK
+D197,Extending Use of Pro-family Leave to Provide Caregiving to Spouses,Labour & Workforce,MEDIUM,Education,0.16891388649569083,False,Misclassified,Auto-label OK
+D198,"Assessing Noise Generated by Roads, MRT Lines and Airport as Part of Transport System Design",Transport,HIGH,Transport,0.2583136172364749,True,Correct,Auto-label OK
+D199,Enhancing Statutory Penalties to Minimise Impact of Sudden Closures of Early Childhood Development Centres,Social & Family Policy,HIGH,Education,0.14517098100480633,False,Misclassified,Needs Review
+D200,Feasibility Assessment of Existing Bus Service along Buangkok Green to Connect Buangkok Crescent to Ang Mo Kio MRT Station,Transport,HIGH,Transport,0.346570875171228,True,Correct,Auto-label OK
+D201,Factors Leading to Reduction of MRT Reliability between June 2024 and June 2025,Transport,HIGH,Transport,0.16540864013268636,True,Correct,Auto-label OK
+D202,Finding on Consumption of Infant Formula Products Contaminated with Cereulide Toxins,Environment,HIGH,Environment,0.18947675460472055,True,Correct,Auto-label OK
+D203,Data on Distribution of Singaporean Workers in Outward- and Domestic-Oriented Sectors of Years 2015 with 2025,Labour & Workforce,HIGH,Labour & Workforce,0.19304689275691722,True,Correct,Auto-label OK
+D204,Information and Breakdown of Local Sea-based Fish Farm Sector Workforce,Environment,MEDIUM,Environment,0.21566363017417892,True,Correct,Auto-label OK
+D205,Extension of Tuition Fee Loans and CPF Education Loan Scheme to Working Adults who Take Up Part-time Degrees,Education,HIGH,Education,0.30257334041199047,True,Correct,Auto-label OK
+D206,Decision and Disbursement Duration of Withdrawal Applications for CPF Reduced Life Expectancy Scheme,Social & Family Policy,LOW,Social & Family Policy,0.14856023310261504,True,Correct,Needs Review
+D207,Oversight of Issues Related To Payment and Incentive Schemes between Platform Operators and Platform Worker Associations,Labour & Workforce,HIGH,Labour & Workforce,0.22709562247444384,True,Correct,Auto-label OK
+D208,Unutilised SkillsFuture Credits and Transfer Options to Immediate Family Members,Education,HIGH,Education,0.15767592042880926,True,Correct,Needs Review
+D209,Impact of US Tariff Increases and US Export Declines on Price Pressures for Singaporeans,Other / Cross-cutting,MEDIUM,Other / Cross-cutting,0.16361103643047398,True,Correct,Auto-label OK
+D210,"25th Percentile, Median and 75th Percentile Income of Top 1,000 Earners Who Are Singapore Citizens",Other / Cross-cutting,MEDIUM,Labour & Workforce,0.1210834118693767,False,Misclassified,Needs Review
+D211,Data on Efficacy of Masks and Spit Guards Leading to Removal from Food Handlers' Requirement from 1 January 2026,Environment,MEDIUM,Environment,0.43619211925664464,True,Correct,Auto-label OK
+D212,Breakdown of SME Employment Size Distribution Across by Employment Band in 2025,Labour & Workforce,HIGH,Labour & Workforce,0.29231954437345326,True,Correct,Auto-label OK
+D213,Clarification by Minister of State for Health,Healthcare,HIGH,Healthcare,0.1692813358663559,True,Correct,Auto-label OK
+D214,Dedicated Support for Singaporeans to Work Abroad to Help Develop Global Leadership Pipeline,Labour & Workforce,HIGH,Labour & Workforce,0.16812044524663985,True,Correct,Auto-label OK
+D215,"Cases where MDW's Medical Fees Exceeded $60,000 and Proposal to Enhance Coverage Sums in MDW Insurance Policies",Labour & Workforce,LOW,Labour & Workforce,0.18738088576183456,True,Correct,Auto-label OK
+D216,"Review of Animals and Birds Act, and Factors Determining Form of Punishment for Alleged Animal Cruelty or Neglect",Environment,HIGH,Housing & Property,0.15492147185238228,False,Misclassified,Needs Review
+D217,CPF Basic Retirement Sum Growth Projections beyond 2027 and Potential Five-Year Advance Planning Timeline,Social & Family Policy,MEDIUM,Social & Family Policy,0.18982411304017083,True,Correct,Auto-label OK
+D218,Strengthening Support and Dignity for Migrant Domestic Workers and Singapore Families,Labour & Workforce,HIGH,Social & Family Policy,0.1791642223123966,False,Misclassified,Auto-label OK
+D219,Ten-Year Statistics on Employment Pass Exception Approvals and Assessment Criteria,Labour & Workforce,HIGH,Labour & Workforce,0.21547358421488555,True,Correct,Auto-label OK
+D220,Expansion of Microplastics and PFAS Monitoring Programme from Water to Sediments and Food,Environment,HIGH,Environment,0.3984524458997261,True,Correct,Auto-label OK
+D221,Reason Not Allowing Tax-deductible CPF Top-ups to CPF LIFE Going toward Retirement Sum Scheme Payouts,Social & Family Policy,LOW,Social & Family Policy,0.2853033801842268,True,Correct,Auto-label OK
+D222,Amount Recovered from Scams in 1H2025,Defence & Home Affairs,HIGH,Defence & Home Affairs,0.26433523584681456,True,Correct,Auto-label OK
+D223,Demographics of Food Delivery Platform Workers and Foreign Worker Impact on Incomes of Local Platform Workers,Labour & Workforce,HIGH,Labour & Workforce,0.468330176268712,True,Correct,Auto-label OK
+D224,"Effect of Rising Geopolitical Tensions, Climate Volatility and Export Restrictions on Strategies in Singapore Food Story 2.0",Environment,HIGH,Environment,0.345379444187381,True,Correct,Auto-label OK
+D225,Companies that Have Retrenched Employees Without Mandatory Retrenchment Notification of Authorities,Labour & Workforce,HIGH,Labour & Workforce,0.22975288288900303,True,Correct,Auto-label OK
+D226,Proposal For Highest Tier of Silver Support for Seniors Above 80 Who Live in Smaller HDB Flats,Social & Family Policy,HIGH,Social & Family Policy,0.36996573421587314,True,Correct,Auto-label OK
+D227,Data on PREDICT Programme Screening and Plans to Expand Outreach of Programme,Healthcare,HIGH,Healthcare,0.261250657665849,True,Correct,Auto-label OK
+D228,Stronger Penalties for Importers and Distributors of Vapes,Healthcare,MEDIUM,Healthcare,0.2028273851628555,True,Correct,Auto-label OK
+D229,Citizenship Demographics of Hired Bus Captains and Drivers,Transport,HIGH,Transport,0.3229361369916418,True,Correct,Auto-label OK
+D230,Complaints Received on Inaccurate Bus Arrival Information on LTA's Online and Physical Platforms,Transport,HIGH,Transport,0.31028393806521415,True,Correct,Auto-label OK
+D231,Data on Firearm Violations at Police and Auxiliary Police Units for Past 24 Months and Subsequent Enforcement Actions,Defence & Home Affairs,HIGH,Defence & Home Affairs,0.19637482770795953,True,Correct,Auto-label OK
+D232,Steps to Keep Water Affordable for Households,Environment,MEDIUM,Environment,0.16025142580202034,True,Correct,Auto-label OK
+D233,Ensuring Bus Stop Shelters Provide Adequate Roof Coverage during Heavy Rain,Transport,HIGH,Transport,0.4335735837605765,True,Correct,Auto-label OK
+D234,Reasons for Increase in Lack of Full-time Employment Offers by Polytechnic Graduates,Labour & Workforce,MEDIUM,Labour & Workforce,0.29983356201692835,True,Correct,Auto-label OK
+D235,MAS and Life Insurance Association of Singapore (LIAS) Collaboration on Clinical Guidance for Insurance Medical Record Disclosure Context Requirements for Claims,Healthcare,MEDIUM,Healthcare,0.25453765525383276,True,Correct,Auto-label OK
+D236,Lease Buyback Scheme Participation Statistics and Average Payouts by Household Size from 2009 to 2025,Housing & Property,HIGH,Housing & Property,0.2086112605345204,True,Correct,Auto-label OK
+D237,Response to Findings that Singapore is Most Expensive City in Asia for Locals and Expatriates,Other / Cross-cutting,HIGH,Social & Family Policy,0.18330553553208426,False,Misclassified,Auto-label OK
+D238,Committee of Supply – Head S (Ministry of Manpower),Labour & Workforce,HIGH,Labour & Workforce,0.4344613225582089,True,Correct,Auto-label OK
+D239,Monitoring and Enforcement of Noise Threshold Compliance of Construction Noise near Residential Estates,Environment,HIGH,Environment,0.2703768838835727,True,Correct,Auto-label OK
+D240,Breakdown of Medical Social Workers across Public Healthcare and Community Care Settings from 2023 to 2025 and Average and Median Caseloads and Case Duration Managed Per Medical Social Worker,Healthcare,HIGH,Healthcare,0.30253547567942224,True,Correct,Auto-label OK
+D241,Unregistered or Non-compliant PMDs Seized since June 2021,Transport,MEDIUM,Transport,0.19765537346449966,True,Correct,Auto-label OK
+D242,Take-up Rate for LPA since August 2025 and Proposed Extension of Fee Waiver,Social & Family Policy,HIGH,Social & Family Policy,0.14443163871633583,True,Correct,Needs Review
+D243,Licensing Criteria and Approval Processes for Central Kitchens in Shophouse Units,Environment,MEDIUM,Environment,0.3609254159652729,True,Correct,Auto-label OK
+D244,Transport Subsidies or Rebates as Measure to Encourage Marriage and Parenthood,Social & Family Policy,HIGH,Social & Family Policy,0.22006566817418002,True,Correct,Auto-label OK
+D245,New Round of SkillsFuture Funding for Adult Singaporeans amid Rapidly Evolving Job Market Requirements,Labour & Workforce,HIGH,Education,0.14818841615802208,False,Misclassified,Needs Review
+D246,Metrics Used to Establish Affordability of New HDB BTO Flats,Housing & Property,HIGH,Housing & Property,0.3021218821358644,True,Correct,Auto-label OK
+D247,Tracking Outcomes and Equity of Government-funded Social Service Programmes and Impacts on Policy Modifications,Social & Family Policy,HIGH,Social & Family Policy,0.17694965627614376,True,Correct,Auto-label OK
+D248,Admission Requirements and Faculty Profile for Singapore College of Islamic Studies,Education,HIGH,Education,0.17032912919789842,True,Correct,Auto-label OK
+D249,Effectiveness and Adequacy of School Counsellors and Factors Determining Expansion,Education,HIGH,Education,0.30205587252524957,True,Correct,Auto-label OK
+D250,Uptake of ComLink+ among Lower-income Families Not Living in Public Rental Flats,Social & Family Policy,HIGH,Social & Family Policy,0.19918001674922062,True,Correct,Auto-label OK
+D251,NIE's Bachelor Programmes Acceptance Rate and Safeguarding Subject-specific Teacher Supply Shortages,Education,HIGH,Education,0.2565458773424231,True,Correct,Auto-label OK
+D252,Annual Food Poisoning Cases Resulting from Home-based Food Businesses,Environment,MEDIUM,Environment,0.36157529584037645,True,Correct,Auto-label OK
+D253,Preventing Unmeritorious Cases from Continuing to Receive Legal Aid,Defence & Home Affairs,HIGH,Defence & Home Affairs,0.1126218982060119,True,Correct,Needs Review
+D254,Rationale for GRIT Programme's Focus on Specific Sectors,Labour & Workforce,HIGH,Labour & Workforce,0.1810932454839416,True,Correct,Auto-label OK
+D255,Differentiating Lorry Speed Limits by Weight Class and Increasing Awareness of Grants to Promote Installation of Speed Limiters,Transport,HIGH,Transport,0.1443474124899655,True,Correct,Needs Review
+D256,Common Safety Lapses Identified Through Companies that Participated in June 2025's Voluntary Safety Timeout,Labour & Workforce,HIGH,Labour & Workforce,0.16584598172297169,True,Correct,Auto-label OK
+D257,Extending CPF Matched Retirement Savings Scheme to Low-wage Workers below 55,Social & Family Policy,MEDIUM,Social & Family Policy,0.24689608123401893,True,Correct,Auto-label OK
+D258,Considerations when Planning for Community Clubs with Mass Facilities,Other / Cross-cutting,HIGH,Social & Family Policy,0.12936324822064946,False,Misclassified,Needs Review
+D259,Data on Debts Repaid to Creditors of Bankruptcy Estates in Last 10 Years and Plans to Enhance Creditor Recovery,Financial Services,HIGH,Defence & Home Affairs,0.13236471995685214,False,Misclassified,Needs Review
+D260,Adequacy of ATMs for Withdrawing and Depositing Cash within Existing and New HDB Estates,Financial Services,HIGH,Housing & Property,0.18457281429006028,False,Misclassified,Auto-label OK
+D261,Breakdown of Government-funded PhD Scholars in Science Disciplines by Citizenship over Past Five Years and Bond Completion Rates,Education,HIGH,Education,0.24519970590876677,True,Correct,Auto-label OK
+D262,Outcomes of Lung Transplants Performed in Singapore and Maintaining Expertise in This Field,Healthcare,HIGH,Healthcare,0.24701129982315187,True,Correct,Auto-label OK
+D263,Yearly Demographics on Employment Departures Due to Eldercare Commitments from 2021 to 2025 and Considerations for Mandated Eldercare Leave for Singaporean Working Adults,Labour & Workforce,HIGH,Labour & Workforce,0.2584380849727273,True,Correct,Auto-label OK
+D264,Number of Home Caregiving Grant Applicants and Top Conditions Cared for by Applicants,Social & Family Policy,MEDIUM,Healthcare,0.18868451501090266,False,Misclassified,Auto-label OK
+D265,"Differentiating between Wealth Held by Households in Public Versus in Private Housing, and Measures to Sustain or Improve Upward Mobility Rates",Other / Cross-cutting,HIGH,Financial Services,0.11681103309339307,False,Misclassified,Needs Review
+D266,Rationale for Minimum Eligibility Criterion of At Least One Local Employee for Energy Efficiency Grant,Environment,HIGH,Other / Cross-cutting,0.12238976645010256,False,Misclassified,Needs Review
+D267,Data Collection and Categorisation of Causes of Individual Bankruptcies in Last 10 Years,Other / Cross-cutting,HIGH,Financial Services,0.10801410457137206,False,Misclassified,Needs Review
+D268,Clarification by Senior Minister of State for Manpower,Labour & Workforce,HIGH,Labour & Workforce,0.21078588400554352,True,Correct,Auto-label OK
+D269,Outcomes of EatWise SG Programme and Nutrition Support Access for Vulnerable Seniors,Healthcare,MEDIUM,Healthcare,0.20937874956948427,True,Correct,Auto-label OK
+D270,Strengthening Enforcement Actions Taken against Illegal Exhaust Modifications or Breaches of Noise Emission Standards,Transport,HIGH,Transport,0.21460641597148025,True,Correct,Auto-label OK
+D271,Ensuring Delivery Platform Work is Performed by Singaporeans and Permanent Residents Only,Labour & Workforce,HIGH,Labour & Workforce,0.30100002084243294,True,Correct,Auto-label OK
+D272,Salary Review of Allied Health Professionals and Key Findings,Labour & Workforce,MEDIUM,Healthcare,0.32510158782425486,False,Misclassified,Auto-label OK
+D273,Tangible Creative Breakthroughs Resulting from Students Topping PISA Assessments in Creative Thinking,Education,HIGH,Education,0.2575669114945164,True,Correct,Auto-label OK
+D274,Study on Nuclear Energy Usage and Waste Disposal in Singapore and Public Disclosure of Findings,Digital Economy & Tech,HIGH,Environment,0.14048559317681064,False,Misclassified,Needs Review
+D275,"Breakdown of Healthcare Research Funding Allocation under RIE by Disease Area, Research Theme and Programme Type",Healthcare,HIGH,Healthcare,0.24014089310605696,True,Correct,Auto-label OK
+D276,"Addressing Noise Fatigue from Prolonged, Cumulative Exposure and Infrastructure Works and MRT Operations in Yio Chu Kang",Transport,HIGH,Transport,0.22857676989696254,True,Correct,Auto-label OK
+D277,Number and Causes of Refuse Chute Fires,Defence & Home Affairs,HIGH,Defence & Home Affairs,0.18219773878002266,True,Correct,Auto-label OK
+D278,Data On Foreigners Working Without Valid Employment Passes,Labour & Workforce,HIGH,Labour & Workforce,0.15331477508944946,True,Correct,Needs Review
+D279,Support Provided to Swedish Car Maker for R&D Office in Singapore and Clawback Penalties Imposed following Closure Eight Months After Launch,Other / Cross-cutting,HIGH,Labour & Workforce,0.1599430237746094,False,Misclassified,Needs Review
+D280,Criteria that Qualify for Intervention by Community Relations Unit and Unit's Effectiveness in Addressing Neighbourly Disputes,Housing & Property,MEDIUM,Housing & Property,0.1986492548402241,True,Correct,Auto-label OK
+D281,Follow-up from Feedback on Disamenities from Bus Depot Construction Site at Forested Area between Tampines Road and Buangkok East Drive,Transport,HIGH,Transport,0.3532471664763007,True,Correct,Auto-label OK
+D282,Efforts to Alleviate Traffic Congestion During Peak Hours along Loyang Avenue and Adjacent Roads,Transport,HIGH,Transport,0.32808853917039765,True,Correct,Auto-label OK
+D283,"Educating Parents on ""Set, Think, Report, and Engage & Support"" Framework in Context of Blind Box or Gacha Mechanisms Available Online",Digital Economy & Tech,HIGH,Digital Economy & Tech,0.3422544582491986,True,Correct,Auto-label OK
+D284,"Special Needs Trust Company's Trust Services Take-up Rates by Household Income and Race, and Plans to Boost Services",Digital Economy & Tech,HIGH,Social & Family Policy,0.13115961417323152,False,Misclassified,Needs Review
+D285,Deployment Timeline of Two-Car Trains for Sengkang-Punggol LRT at Sengkang East and West Loops by 2026 to 2027,Transport,HIGH,Transport,0.16105448780701212,True,Correct,Auto-label OK
+D286,Maintaining Detailed Product Traceability Information to Ensure Food Recall Notices Reach Small Retailers and Broader Public,Environment,HIGH,Environment,0.2851603630786511,True,Correct,Auto-label OK
+D287,Encouraging More Schools to Let Students Who Are Not on School Teams Participate in Sports Tournaments,Education,HIGH,Education,0.37228802316470405,True,Correct,Auto-label OK
+D288,Adding Congenital Conditions into List for Chronic Disease Management Programme,Healthcare,HIGH,Healthcare,0.32070828355531733,True,Correct,Auto-label OK
+D289,Development of CARA Mobile App for Caregivers of Persons with Disabilities or Children with Autism to Report Missing Persons,Social & Family Policy,HIGH,Healthcare,0.14742394913932141,False,Misclassified,Needs Review
+D290,Safety Measures and Systems for Bus Captains during Route Diversions and Navigation Support Tools,Transport,HIGH,Transport,0.4682438220205202,True,Correct,Auto-label OK
+D291,Breakdown of Recruitment Fees Paid by Work Permit Holders in Singapore and in Home Countries,Labour & Workforce,HIGH,Labour & Workforce,0.16275562606412133,True,Correct,Auto-label OK
+D292,Measures to Support Students' Voluntary Give Up of Vaping and Accessing Rehabilitation,Education,HIGH,Education,0.2654893157579172,True,Correct,Auto-label OK
+D293,Making Criteria of Silver Support Scheme More Flexible for Initially Ineligible Seniors,Social & Family Policy,HIGH,Social & Family Policy,0.43623469196968256,True,Correct,Auto-label OK
+D294,Proportion of Singapore Citizen Bus Captain Applicants Pre- and Post-PBIMP Launch,Transport,HIGH,Transport,0.2866999179949258,True,Correct,Auto-label OK
+D295,Duration of Vacancy of Flats under Lease Buyback Scheme and under Relaunch of SBF Exercise in Past 10 Years,Housing & Property,HIGH,Housing & Property,0.3825144265170032,True,Correct,Auto-label OK
+D296,Frequency of Maintenance of Nature Trails and Typical Downtime,Environment,HIGH,Environment,0.12890629100708284,True,Correct,Needs Review
+D297,"Detection of Toxic Air Pollutants Exceeding International Safety Limits in Jalan Kayu, Punggol or Seletar",Environment,HIGH,Environment,0.19428709517410728,True,Correct,Auto-label OK
+D298,Appeals Mechanism for Incoming Travellers with ICA's Upcoming No-Boarding Directives,Defence & Home Affairs,HIGH,Defence & Home Affairs,0.26609169450869247,True,Correct,Auto-label OK
+D299,Assessment of Effectiveness of 2019 Smart Bus Priority System Trial,Transport,HIGH,Transport,0.4338558607826979,True,Correct,Auto-label OK
+D300,Update on Reviewing Need for Mandatory Training and Certification for Home-based Food Business Owners,Environment,MEDIUM,Environment,0.3398238964207918,True,Correct,Auto-label OK
+D301,Strengthening Protection for Singapore’s Critical Information Infrastructure Given Rise in Advanced Persistent Threat Attacks,Digital Economy & Tech,HIGH,Digital Economy & Tech,0.16545239085304217,True,Correct,Auto-label OK
+D302,Impact of Aircraft Altitude Reduction on Residential and School Areas in Yio Chu Kang and Measures to Mitigate Noise and Safety Risks,Transport,HIGH,Transport,0.18607599974868594,True,Correct,Auto-label OK
+D303,Allowing Private Healthcare Providers Access to Medications Not Found on Healthier SG Medication List,Healthcare,HIGH,Healthcare,0.34130279435844585,True,Correct,Auto-label OK
+D304,Traffic Accidents along Tanah Merah Coast Road and Proportion of Accidents Involving Cyclists,Transport,HIGH,Transport,0.1968059256708403,True,Correct,Auto-label OK
+D305,Inclusion of Postgraduate and Professional Certification Courses in CPF Education Loan Scheme,Education,HIGH,Education,0.2494287581287603,True,Correct,Auto-label OK
+D306,Wage Targets for Lower-income Full-time Resident Workers and Compliance with National Wages Council's Recommendations by Sector and Profitability,Labour & Workforce,HIGH,Labour & Workforce,0.25319047430643293,True,Correct,Auto-label OK
+D307,Banning Electronic Products on Flights,Transport,HIGH,Transport,0.1622127685759262,True,Correct,Auto-label OK
+D308,Sustainable Indicators for Changes under New Integrated Shield Plan Rider Design Requirements,Healthcare,HIGH,Healthcare,0.29318081229315535,True,Correct,Auto-label OK
+D309,Ensuring Commercial Rent Affordability for SME Tenants at JTC and HDBs,Housing & Property,HIGH,Housing & Property,0.18658395171263337,True,Correct,Auto-label OK
+D310,Measures to Track Social Isolation and Improvements in Quality of Life and Healthspan,Healthcare,MEDIUM,Healthcare,0.313327461316246,True,Correct,Auto-label OK
+D311,Studying Potential Productivity Gains from AI Adoption and Translating Gains into Wage Growth for Non-senior Managerial Workers,Labour & Workforce,MEDIUM,Labour & Workforce,0.18844611461117275,True,Correct,Auto-label OK
+D312,Take-up Rates for Public Transport Vouchers,Transport,HIGH,Transport,0.21348275611958348,True,Correct,Auto-label OK
+D313,Parking of Personal Mobility Devices and Personal Mobility Aids at HDB Multi-storey Car Parks for Safety,Housing & Property,HIGH,Transport,0.15020071277269476,False,Misclassified,Needs Review
+D314,Health Impacts of Long-term MRT Noise Exposure for Commuters and Inclusion in National Health Prevention Strategies,Transport,MEDIUM,Environment,0.2074800844465106,False,Misclassified,Auto-label OK
+D315,Extending Climate Vouchers to Tenants Under Single Room Shared Facilities to Encourage Take-up of Climate-friendly Appliances,Environment,HIGH,Environment,0.1784638785668922,True,Correct,Auto-label OK
+D316,Expansion of Target Screening and Counselling for Women Aged 40 to 50 in Primary Care and Community Settings,Healthcare,HIGH,Healthcare,0.30750500520831014,True,Correct,Auto-label OK
+D317,Role of PUB in Launching of World's Largest Marine Carbon Dioxide Removal Technology,Environment,HIGH,Environment,0.19109959162788287,True,Correct,Auto-label OK
+D318,Public Complaints Towards Festive Surcharge Pricings by F&B Establishments over Past Five Years,Other / Cross-cutting,MEDIUM,Environment,0.1709079957285922,False,Misclassified,Auto-label OK
+D319,Notifying Families of Death Row Prisoners on Executions and Permitting of Final Visits or Calls,Defence & Home Affairs,HIGH,Defence & Home Affairs,0.1564014778776211,True,Correct,Needs Review
+D320,Training Nurses to Provide Care Beyond Inpatient Settings Given Push for Community Care,Healthcare,HIGH,Healthcare,0.34397195502130795,True,Correct,Auto-label OK
+D321,"Expansion of ""Relevant Individuals"" under Section 18(1)(a) of CPF Act 1953 to Include Uncles and Aunts",Social & Family Policy,HIGH,Social & Family Policy,0.29408464647302135,True,Correct,Auto-label OK
+D322,Staff to Child Ratio in Preschools and Student Care Centres,Social & Family Policy,HIGH,Education,0.169586489093871,False,Misclassified,Auto-label OK
+D323,Administrative Requirements and Procedures Imposed by Insurers for Cancer Drug Claims,Financial Services,HIGH,Healthcare,0.2209092097006389,False,Misclassified,Auto-label OK
+D324,Long-term Cost-benefit Analysis of Singapore's Electrification Efforts on Bus Fares,Transport,HIGH,Transport,0.3094836519606911,True,Correct,Auto-label OK
+D325,"Requirements on Bus Stop Kerb Distance to Facilitate Boarding, Alighting and Stroller Accessibility",Transport,HIGH,Transport,0.4549628557972573,True,Correct,Auto-label OK
+D326,Review of Jobseeker Support Scheme's Income Ceiling to Match Current 75th Percentile Gross Monthly Income Levels,Labour & Workforce,HIGH,Labour & Workforce,0.17275327909446314,True,Correct,Auto-label OK
+D327,"Breakdown on Preschools Using In-house Cooks, Ready-to-eat Meals and Catered Hot Food",Education,MEDIUM,Environment,0.18200977652805472,False,Misclassified,Auto-label OK
+D328,Applications for Licence to Operate Heavy Vehicle Parking Place,Transport,HIGH,Transport,0.2180201835805533,True,Correct,Auto-label OK
+D329,Provision of High Chairs for Children at NEA-run Hawker Centres,Environment,HIGH,Environment,0.1694626969529239,True,Correct,Auto-label OK
+D330,Progress in Developing Diploma Courses and Internships to Prepare for Meaningful Local Agri-food Sector Careers,Labour & Workforce,MEDIUM,Education,0.23806702357252219,False,Misclassified,Auto-label OK
+D331,Residential Noise Complaint Trends for Past Three Years and Comparison of WHO Standards with Singapore's Outdoor Noise Exposure Limits,Environment,HIGH,Environment,0.2617636107956017,True,Correct,Auto-label OK
+D332,Differentiated Discount Rate for Travel during Peak and Off-peak Periods for PWD Concession Scheme,Transport,HIGH,Transport,0.21672542406308087,True,Correct,Auto-label OK
+D333,Opening Tengah Link to General Traffic during Off-peak Hours to Improve Connectivity,Transport,HIGH,Transport,0.37851757337880215,True,Correct,Auto-label OK
+D334,Annual Applicant Rejection Rates for Government Mental Health Support Networks and Reasons for Rejection,Healthcare,HIGH,Healthcare,0.2594732157494863,True,Correct,Auto-label OK
+D335,Impact of Indonesia's Recalibration of LNG Trade on Singapore's Energy Security,Environment,HIGH,Environment,0.13997398753763793,True,Correct,Needs Review
+D336,Breakdown of Cases Reported under Tripartite Framework for the Prevention of Abuse and Harassment in Healthcare by Severity and Sector,Healthcare,HIGH,Healthcare,0.18449199442992315,True,Correct,Auto-label OK
+D337,Adjusting Peak Hours for Bus Services in Light of Increased Flexible and Hybrid Work Arrangements,Transport,HIGH,Transport,0.3870039981560284,True,Correct,Auto-label OK
+D338,Pickleball-related Noise Complaints in Residential Estates and Measures to Balance Recreation with Residents' Rest,Housing & Property,HIGH,Housing & Property,0.18006847299749243,True,Correct,Auto-label OK
+D339,Impact of Increased EV Adoption on Electricity Grid's Load,Transport,HIGH,Transport,0.2264671364169205,True,Correct,Auto-label OK
+D340,Eligibility Criteria and Utilisations Rates of Extended Developmental Leave Schemes for Teachers over Past Three Years,Education,HIGH,Education,0.19234997380161162,True,Correct,Auto-label OK
+D341,Effectiveness of Nutri-grade Labelling System on Lowered Consumption of High-sugar and Saturated Fats Pre-packaged Foods,Healthcare,HIGH,Education,0.10946152048207475,False,Misclassified,Needs Review
+D342,Review of Cost-bearing Responsibility for Hawkers to Provide Affordable Meals for Low-income Patrons,Social & Family Policy,MEDIUM,Environment,0.14286088598029006,False,Misclassified,Needs Review
+D343,Grant to IMF's Trust for Special Poverty Reduction and Growth Operations for the Heavily Indebted Poor Countries,Financial Services,HIGH,Other / Cross-cutting,0.1349606488700115,False,Misclassified,Needs Review
+D344,Proportion of HDB Flat Fires Linked to Electrical Causes that Occurred in Pre-1997 and Post-1997 Flats,Housing & Property,HIGH,Housing & Property,0.29824399008836716,True,Correct,Auto-label OK
+D345,Standardising SOPs for Stroller Use across All Public Bus Operators,Transport,HIGH,Transport,0.3809540157645318,True,Correct,Auto-label OK
+D346,Stakeholder Engagement Plan for VERS and Measures to Prevent Speculative Flat Purchases,Housing & Property,HIGH,Housing & Property,0.20177966163408517,True,Correct,Auto-label OK
+D347,Discouraging Teenagers from Cycling in Groups without Wearing Helmets,Transport,HIGH,Transport,0.2551910928033855,True,Correct,Auto-label OK
+D348,"Breakdown of GCE ""O"" Level Results' Grade Distribution for Past Three Years",Education,HIGH,Education,0.2266988535467848,True,Correct,Auto-label OK
+D349,Extension of Concessionary Migrant Domestic Worker Levy to First-time Expectant Parents Prior to Delivery of Child,Social & Family Policy,HIGH,Labour & Workforce,0.16743863304488443,False,Misclassified,Auto-label OK
+D350,Addressing Business Impact of Jetstar Asia's Relocation from Changi Airport and Better Connectivity between Terminal 4 and Other Terminals,Transport,HIGH,Transport,0.17426372823554434,True,Correct,Auto-label OK
+D351,Mitigation Measures for Private Preschools Serving Children with Special Needs and Support Frameworks to Encourage Viability of Such Services,Education,HIGH,Social & Family Policy,0.17727733408306612,False,Misclassified,Auto-label OK
+D352,Assessing Adequacy of Heavy Vehicle Parking Lots,Transport,HIGH,Transport,0.17932539962374958,True,Correct,Auto-label OK
+D353,Managing Healthcare Insurance Premiums,Healthcare,HIGH,Healthcare,0.48187236202157985,True,Correct,Auto-label OK
+D354,Data on DigitalAccess@Home Scheme Household Support and Measures to Increase Take-up Rate,Digital Economy & Tech,HIGH,Social & Family Policy,0.226254889687788,False,Misclassified,Auto-label OK
+D355,Number of Non-compliant Noise Levels at HDB BTO Construction Sites in Fernvale between August to October 2025,Environment,HIGH,Environment,0.22201897005180696,True,Correct,Auto-label OK
+D356,Specialised Training in Student Welfare against Bullying for Educators and School Leaders from 2020 to Date,Education,HIGH,Education,0.19890078426181623,True,Correct,Auto-label OK
+D357,Active CPF Members Aged 55 from 2020 to 2024 and Future Projected Changes,Social & Family Policy,LOW,Social & Family Policy,0.14675295290786258,True,Correct,Needs Review
+D358,Data on Premature Work Permit Cancellations in Last Five Years,Labour & Workforce,HIGH,Labour & Workforce,0.19487618082632294,True,Correct,Auto-label OK
+D359,More Initiatives for Infants and Toddlers Under Grow Well SG and Assessing Long-term Impact on Children's Development,Education,HIGH,Healthcare,0.16075813857188287,False,Misclassified,Auto-label OK
+D360,Cause and Actions Taken for Sinkhole Formation at Tanjong Katong Road South in July 2025,Environment,HIGH,Environment,0.17605986123978626,True,Correct,Auto-label OK
+D361,"Awareness, Utilisation Rates and Efficacy of Differentiated Job Matching Platforms for Fresh Graduates and Young Professionals",Labour & Workforce,HIGH,Labour & Workforce,0.23195703364210865,True,Correct,Auto-label OK
+D362,Noise Pollution Enforcement on Foreign-registered Vehicles and Data on Noise-related Summons Issued at Land Checkpoints in Past Three Years,Environment,HIGH,Transport,0.16776990603989855,False,Misclassified,Auto-label OK
+D363,Redress Mechanisms Available for Clients of Licensed Debt Collection Companies in Dispute Cases,Defence & Home Affairs,MEDIUM,Defence & Home Affairs,0.1637550905599046,True,Correct,Auto-label OK
+D364,Noise Monitoring Protocols of Construction Sites and Usage of Noise Readings in Addressing Resident Complaints,Environment,HIGH,Environment,0.3372736509950795,True,Correct,Auto-label OK
+D365,Collisions between Cyclists and Pedestrians on Cycling Paths Adjacent to Pedestrian-only Paths,Transport,HIGH,Transport,0.23265939507267935,True,Correct,Auto-label OK
+D366,Electrical Safety Checks for Flats Undergoing Home Improvement and Enhancement for Active Seniors Programmes,Housing & Property,HIGH,Housing & Property,0.33791416053083917,True,Correct,Auto-label OK
+D367,Future Strategic Direction and Support Level for Cultivated Food Firms Given Recent Exits of Several Firms,Environment,HIGH,Environment,0.24996853347000034,True,Correct,Auto-label OK
+D368,Reducing National Water Consumption Rate in Non-domestic Sector,Environment,HIGH,Environment,0.1828490419498445,True,Correct,Auto-label OK
+D369,SG Enable's Support for ITE Graduates with Disabilities to Access Host Companies under Work-Study Diploma Programme,Labour & Workforce,MEDIUM,Labour & Workforce,0.19352220357123492,True,Correct,Auto-label OK
+D370,Risk Assessments of Bus Arrival Timing System Prior to January 2026 System Glitch,Transport,HIGH,Transport,0.24550397505415103,True,Correct,Auto-label OK
+D371,Review of Building Maintenance and Strata Management Act for Ageing Condominiums,Housing & Property,HIGH,Housing & Property,0.12795720421350262,True,Correct,Needs Review
+D372,Regulation on Involvement of Migrant Domestic Workers or Illegal Part-time Workers in Home-based F&B Businesses,Labour & Workforce,HIGH,Labour & Workforce,0.2675718785516948,True,Correct,Auto-label OK
+D373,Data on Companies with More Than 25 Workers Paying Retrenchment Benefits in Line with Tripartite Guidelines,Labour & Workforce,HIGH,Labour & Workforce,0.22771272656554264,True,Correct,Auto-label OK
+D374,Design and Installation of Smaller Lifts for Lift Upgrading Programme in Choa Chu Kang Ave 3,Housing & Property,HIGH,Housing & Property,0.15768354150089678,True,Correct,Needs Review
+D375,The Government’s Intention to Preserve the Site of 38 Oxley Road,Other / Cross-cutting,HIGH,Other / Cross-cutting,0.13430284751993835,True,Correct,Needs Review
+D376,Measures to Safeguard Long-term Financial Security of Family Caregivers Who Left Workforce or Reduced Work Hours,Social & Family Policy,HIGH,Social & Family Policy,0.23755454152286684,True,Correct,Auto-label OK
+D377,Enhance Training for Healthcare Professionals Engaging Grieving Families of Deceased Organ Donors,Healthcare,HIGH,Healthcare,0.24704489856473238,True,Correct,Auto-label OK
+D378,"Informing Foreign Vehicle Drivers of Singapore's Traffic, Parking, Safety and Emission Rules Prior to Entry",Transport,HIGH,Transport,0.18342095135953582,True,Correct,Auto-label OK
+D379,Capital Expenditure and Monthly Operating Costs for Value Meals @ South West Initiative,Social & Family Policy,HIGH,Social & Family Policy,0.1555337515389735,True,Correct,Needs Review
+D380,Outreach Efforts to Remind Foreign Drivers of Singapore's Vehicle Noise Emission Standards,Transport,HIGH,Environment,0.25573246247874487,False,Misclassified,Auto-label OK
+D381,Incorporating Neuro-developmental Conditions in Existing Tiered-care Mental Health Model to Ensure Holistic Care,Healthcare,HIGH,Healthcare,0.4041078425029194,True,Correct,Auto-label OK
+D382,"Data on Platform Workers CPF Transition Support Scheme Uptake, Disbursement and Rejection",Labour & Workforce,HIGH,Labour & Workforce,0.283871167235231,True,Correct,Auto-label OK
+D383,Progress of Installing Green Roofs at Bus Stops,Transport,HIGH,Transport,0.35579655055665815,True,Correct,Auto-label OK
+D384,Breakdown of Enhanced Matched Retirement Savings Scheme Take-Up Rate by Demographics and Source of Top-ups,Social & Family Policy,HIGH,Social & Family Policy,0.17244559481211577,True,Correct,Auto-label OK
+D385,Standard Protocols for ComLink+ Family Coaches to Contact Disengaged Households,Social & Family Policy,HIGH,Social & Family Policy,0.29408633193240513,True,Correct,Auto-label OK
+D386,Accessibility Features in Autonomous Shuttle Services,Transport,HIGH,Transport,0.1925497069791988,True,Correct,Auto-label OK
+D387,Status of Quantitative Noise Thresholds Review for Residential Boundary Noise,Housing & Property,HIGH,Environment,0.18076070959013685,False,Misclassified,Auto-label OK
+D388,Proposal to Allow Persons under 18 to Access Counselling or Screening without Parental Consent,Healthcare,HIGH,Healthcare,0.281932750770046,True,Correct,Auto-label OK
+D389,Participation Rates of Employment Preparation Scheme and Recidivism Outcomes,Labour & Workforce,HIGH,Defence & Home Affairs,0.1642693070216254,False,Misclassified,Auto-label OK
+D390,"Health Screenings for Those from Countries with High-risk of Nipah Virus, and Healthcare Advisories to Doctors and Public",Healthcare,HIGH,Healthcare,0.27377577334205916,True,Correct,Auto-label OK
+D391,Assessment on Leasing of Fast-food Business at Yio Chu Kang Stadium to Promote Healthy Living,Healthcare,MEDIUM,Environment,0.15709858717085742,False,Misclassified,Needs Review
+D392,Students Progressing from Special Education School into ITE Progammes,Education,HIGH,Education,0.42049452792075065,True,Correct,Auto-label OK
+D393,Impact of Illegal Hawker Stall Subletting on Food Affordability and Ensuring Fair Access for New Entrants,Environment,HIGH,Environment,0.3067930783159029,True,Correct,Auto-label OK
+D394,Training for Teachers to Deal With Disclosures of Mental Health Challenges by Students Who Also Refuse Parental or Counsellor Involvement,Education,HIGH,Education,0.34291479726225804,True,Correct,Auto-label OK
+D395,Difference between Functions of ComLink Family Coaches and Family Service Centre Social Workers,Social & Family Policy,HIGH,Social & Family Policy,0.27004532591707686,True,Correct,Auto-label OK
+D396,Prioritising Green Modes of Transport in Tengah and Other New Towns,Transport,HIGH,Transport,0.416895209600059,True,Correct,Auto-label OK
+D397,Measures Addressing Involuntary Underemployment among Fresh Graduates and Junior Professionals,Labour & Workforce,HIGH,Labour & Workforce,0.2851517153821293,True,Correct,Auto-label OK
+D398,Installation of Anti-bird Netting on Town Council Building Facades,Defence & Home Affairs,HIGH,Defence & Home Affairs,0.2123112623780622,True,Correct,Auto-label OK
+D399,Impact on Inflation with CDC Vouchers Given to Singapore Households Regardless of Socio-economic Status,Other / Cross-cutting,MEDIUM,Social & Family Policy,0.25415249544622814,False,Misclassified,Auto-label OK
+D400,Current Breakdown of Resident and Foreign Full-time Workers across Industry Sectors,Labour & Workforce,HIGH,Labour & Workforce,0.25329131004567507,True,Correct,Auto-label OK
+D401,"Data on Appeals Related to Ethnic Integration Policy, Appeals Approved and Appeals That Led to Units Being Acquired by HDB",Housing & Property,HIGH,Housing & Property,0.34257040405296657,True,Correct,Auto-label OK
+D402,Evaluation on Vape Detection Sensors Usage in Schools and Institutes of Higher Learning,Education,HIGH,Education,0.2625309874545042,True,Correct,Auto-label OK
+D403,Proposal to Use Life Expectancy Factor of 83.5 Years When Calculating CPF Savings for Property Purchases,Housing & Property,MEDIUM,Social & Family Policy,0.17435224708168448,False,Misclassified,Auto-label OK
+D404,Reviewing Working Mother's Child Relief Scheme and Enhancing Relief Quantum to Offset Rising Costs,Social & Family Policy,HIGH,Social & Family Policy,0.1951231625353151,True,Correct,Auto-label OK
+D405,Data on Household Income Distribution of Students Admitted through DSA Scheme and who Participated in Private DSA Preparatory Programmes over Past Five Years,Education,HIGH,Education,0.46713433390570086,True,Correct,Auto-label OK

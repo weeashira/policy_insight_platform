@@ -1,0 +1,48 @@
+actual,predicted,count
+Labour & Workforce,Social & Family Policy,6
+Social & Family Policy,Other / Cross-cutting,3
+Defence & Home Affairs,Housing & Property,3
+Other / Cross-cutting,Labour & Workforce,3
+Other / Cross-cutting,Social & Family Policy,3
+Labour & Workforce,Education,3
+Social & Family Policy,Healthcare,3
+Healthcare,Environment,2
+Housing & Property,Social & Family Policy,2
+Digital Economy & Tech,Social & Family Policy,2
+Education,Environment,2
+Environment,Housing & Property,2
+Environment,Transport,2
+Education,Social & Family Policy,2
+Labour & Workforce,Healthcare,2
+Social & Family Policy,Education,2
+Other / Cross-cutting,Financial Services,2
+Social & Family Policy,Environment,2
+Transport,Environment,2
+Financial Services,Defence & Home Affairs,1
+Defence & Home Affairs,Transport,1
+Digital Economy & Tech,Environment,1
+Digital Economy & Tech,Healthcare,1
+Defence & Home Affairs,Financial Services,1
+Environment,Other / Cross-cutting,1
+Education,Healthcare,1
+Education,Transport,1
+Defence & Home Affairs,Healthcare,1
+Financial Services,Social & Family Policy,1
+Financial Services,Other / Cross-cutting,1
+Financial Services,Healthcare,1
+Labour & Workforce,Digital Economy & Tech,1
+Labour & Workforce,Defence & Home Affairs,1
+Housing & Property,Transport,1
+Housing & Property,Other / Cross-cutting,1
+Housing & Property,Environment,1
+Housing & Property,Healthcare,1
+Healthcare,Education,1
+Housing & Property,Digital Economy & Tech,1
+Financial Services,Housing & Property,1
+Financial Services,Labour & Workforce,1
+Labour & Workforce,Environment,1
+Other / Cross-cutting,Environment,1
+Other / Cross-cutting,Housing & Property,1
+Other / Cross-cutting,Transport,1
+Social & Family Policy,Labour & Workforce,1
+Transport,Housing & Property,1
