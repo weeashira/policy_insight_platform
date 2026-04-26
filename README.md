@@ -22,6 +22,7 @@ This will open the dashboard and display the available dates.
 ---
 
 ## 📊 Generate Data for a New Date
+This step runs the full pipeline to fetch, process, and analyse parliamentary debates for a given sitting date, generating new insights for the dashboard.
 
 ### ⚙️ One-time Setup (Required)
 
