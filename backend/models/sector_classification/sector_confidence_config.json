@@ -1,0 +1,19 @@
+{
+  "model_name": "sector_classifier_unweighted",
+  "confidence_type": "top_predicted_probability",
+  "confidence_band_rules": {
+    "low": {
+      "label": "Low confidence / Needs Review",
+      "max_exclusive": 0.16
+    },
+    "medium": {
+      "label": "Medium confidence",
+      "min_inclusive": 0.16,
+      "max_exclusive": 0.3
+    },
+    "high": {
+      "label": "High confidence",
+      "min_inclusive": 0.3
+    }
+  }
+}
