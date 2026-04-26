@@ -7,6 +7,7 @@ from app.utils.date_utils import is_valid_date
 from app.services.summarizer_service import summarize_all_debates
 from app.services.topic_model_service import run_topic_model
 from app.services.sentiment_service import run_sentiment_inference
+from app.services.sector_service import run_sector_classification
 from app.services.combine_service import combine_results
 
 def run_pipeline(date):
@@ -50,7 +51,13 @@ def run_pipeline(date):
         print(f"✅ Step 4: Sentiment classification completed for {date}. File saved at --> {sentiment_success['sentiment_path']}")
 
     # Sector Classification
-
+    print(f"🚀 Step 5: Starting run for sector classification for {date}...")
+    sector_success = run_sector_classification(date)
+    if not sector_success["success"]:
+        print(f"❌ Pipeline halted: Sector classification failed for {date}. Error: {sector_success["error"]}")
+        return False
+    else:
+        print(f"✅ Step 5: Sector classification completed for {date}. File saved at --> {sector_success['sector_path']}")
     
     # Step 6: Summarize
     print(f"🚀 Step 6: Starting run for summarization module for {date}...")

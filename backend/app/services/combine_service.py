@@ -7,6 +7,7 @@ BASE_DIR = Path(__file__).resolve().parents[3]
 SUMMARY_DIR = BASE_DIR / "data" / "processed" / "summaries"
 TOPIC_DIR = BASE_DIR / "data" / "processed" / "topics"
 SENTIMENT_DIR = BASE_DIR / "data" / "processed" / "sentiments"
+SECTOR_DIR = BASE_DIR / "data" / "processed" / "sectors"
 
 OUT_DIR = BASE_DIR / "data" / "final"
 OUT_DIR.mkdir(parents=True, exist_ok=True)
@@ -21,6 +22,7 @@ def combine_results(date):
     summary_path = SUMMARY_DIR / f"summaries_{date}.json"
     topic_path = TOPIC_DIR / f"topics_{date}.json"
     sentiment_path = SENTIMENT_DIR / f"sentiments_{date}.json"
+    sector_path = SECTOR_DIR / f"sectors_{date}.json"
     output_path = OUT_DIR / f"combined_{date}.json"
 
     try:
@@ -35,10 +37,14 @@ def combine_results(date):
         
         if not sentiment_path.exists():
             return {"success": False, "date": date, "error": f"Sentiment file not found: {sentiment_path}"}
+        
+        if not sector_path.exists():
+            return {"success": False, "date": date, "error": f"Sector file not found: {sector_path}"}
 
         summary_json = load_json(summary_path)
         topic_json = load_json(topic_path)
         sentiment_json = load_json(sentiment_path)
+        sector_json = load_json(sector_path)
 
         summary_map = {
             row["title"]: row
@@ -55,11 +61,17 @@ def combine_results(date):
             for row in sentiment_json.get("topic_sentiments", [])
         }
 
+        sector_map = {
+            row["title"]: row 
+            for row in sector_json.get("results")
+        }
+
         combined_results = []
 
         for title, summary_row in summary_map.items():
             topic_row = topic_map.get(title, {})
             sentiment_row = sentiment_map.get(title, {})
+            sector_row = sector_map.get(title, {})
 
             combined_results.append({
                 "title": title,
@@ -80,6 +92,11 @@ def combine_results(date):
                 "weighted_negative": sentiment_row.get("weighted_negative"),
                 "weighted_neutral": sentiment_row.get("weighted_neutral"),
                 "weighted_positive": sentiment_row.get("weighted_positive"),
+
+                # Sector
+                "sector_classification": sector_row["sector_classification"],
+                "sector_confidence": sector_row["sector_confidence"],
+                "sector_confidence_band": sector_row["sector_confidence_band"]
             })
 
         output = {
