@@ -162,6 +162,8 @@ def _aggregate_topic_sentiment(topic_df, sentiment_classes):
             "num_turns": 0,
             "total_role_weight": 0.0,
             **{f"weighted_{cls.lower()}": 0.0 for cls in sentiment_classes},
+            **{f"{cls.lower()}_turns": 0 for cls in sentiment_classes},
+            **{f"{cls.lower()}_pct": 0.0 for cls in sentiment_classes},
         }
 
     weighted_scores = {cls: 0.0 for cls in sentiment_classes}
@@ -181,11 +183,16 @@ def _aggregate_topic_sentiment(topic_df, sentiment_classes):
 
     topic_sentiment = max(normalised, key=normalised.get)
 
+    turn_counts = topic_df["predicted_label"].value_counts().to_dict()
+    total = len(topic_df)
+
     return {
         "topic_sentiment": topic_sentiment,
-        "num_turns": len(topic_df),
+        "num_turns": total,
         "total_role_weight": round(total_weight, 3),
         **{f"weighted_{cls.lower()}": round(v, 4) for cls, v in normalised.items()},
+        **{f"{cls.lower()}_turns": turn_counts.get(cls, 0) for cls in sentiment_classes},
+        **{f"{cls.lower()}_pct": round(turn_counts.get(cls, 0) / total * 100, 1) for cls in sentiment_classes},
     }
 
 
