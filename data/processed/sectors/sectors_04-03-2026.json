@@ -1,0 +1,402 @@
+{
+  "success": true,
+  "date": "04-03-2026",
+  "results": [
+    {
+      "title": "A*STAR Scholarship Recipients' Research Fields and Bond Service Affected by Transitional Changes in Successive RIE Masterplans",
+      "sector_classification": "Labour & Workforce",
+      "sector_confidence": 0.1535,
+      "sector_confidence_band": "Low / Needs Review"
+    },
+    {
+      "title": "Active Users of LumiHealth and Reasons for Its Cessation",
+      "sector_classification": "Healthcare",
+      "sector_confidence": 0.2376,
+      "sector_confidence_band": "Medium"
+    },
+    {
+      "title": "Assistance for Households in Recovering Fees Paid In Advance, following Sudden Closure of Student Care Centre",
+      "sector_classification": "Education",
+      "sector_confidence": 0.1633,
+      "sector_confidence_band": "Medium"
+    },
+    {
+      "title": "Assistance for Parents and Children Affected by Childcare Centres Ceasing Operations",
+      "sector_classification": "Social & Family Policy",
+      "sector_confidence": 0.2107,
+      "sector_confidence_band": "Medium"
+    },
+    {
+      "title": "Availability of Overseas Experience for Students of Autonomous Universities",
+      "sector_classification": "Education",
+      "sector_confidence": 0.2239,
+      "sector_confidence_band": "Medium"
+    },
+    {
+      "title": "Balancing Construction Timelines against Rising Costs of Raw Materials and Labour Given Accelerated Pace for Building HDB Flats",
+      "sector_classification": "Housing & Property",
+      "sector_confidence": 0.283,
+      "sector_confidence_band": "Medium"
+    },
+    {
+      "title": "Clarification by Minister of State for Health",
+      "sector_classification": "Healthcare",
+      "sector_confidence": 0.1157,
+      "sector_confidence_band": "Low / Needs Review"
+    },
+    {
+      "title": "Collecting Capital Gains Income Data in National Surveys to More Accurately Measure Household Market Income",
+      "sector_classification": "Labour & Workforce",
+      "sector_confidence": 0.1226,
+      "sector_confidence_band": "Low / Needs Review"
+    },
+    {
+      "title": "Committee of Supply Reporting Progress",
+      "sector_classification": "Labour & Workforce",
+      "sector_confidence": 0.1167,
+      "sector_confidence_band": "Low / Needs Review"
+    },
+    {
+      "title": "Committee of Supply – Head L (Ministry of Sustainability and the Environment)",
+      "sector_classification": "Environment",
+      "sector_confidence": 0.3828,
+      "sector_confidence_band": "High"
+    },
+    {
+      "title": "Committee of Supply – Head O (Ministry of Health)",
+      "sector_classification": "Healthcare",
+      "sector_confidence": 0.3984,
+      "sector_confidence_band": "High"
+    },
+    {
+      "title": "Committee of Supply – Head T (Ministry of National Development)",
+      "sector_classification": "Housing & Property",
+      "sector_confidence": 0.4754,
+      "sector_confidence_band": "High"
+    },
+    {
+      "title": "Committee of Supply – Head W (Ministry of Transport)",
+      "sector_classification": "Transport",
+      "sector_confidence": 0.2372,
+      "sector_confidence_band": "Medium"
+    },
+    {
+      "title": "Community Support Services to Address Gaming Disorder Among Young Adults",
+      "sector_classification": "Digital Economy & Tech",
+      "sector_confidence": 0.2199,
+      "sector_confidence_band": "Medium"
+    },
+    {
+      "title": "Commuters' Travel Patterns During Circle Line Service Adjustments for Future Planning of Rail Renewal Works",
+      "sector_classification": "Transport",
+      "sector_confidence": 0.3152,
+      "sector_confidence_band": "High"
+    },
+    {
+      "title": "Considerations of Ramp Installation for Corner Units of Older HDB Units and Alternative Measures to Improve Elderly Accessibility",
+      "sector_classification": "Housing & Property",
+      "sector_confidence": 0.393,
+      "sector_confidence_band": "High"
+    },
+    {
+      "title": "Council to Provide Recommendations on Reasonable Integrated Shield Plan and Rider Premium Increases for Private Healthcare",
+      "sector_classification": "Healthcare",
+      "sector_confidence": 0.2826,
+      "sector_confidence_band": "Medium"
+    },
+    {
+      "title": "Data on Crow-Related Complaints in Past Two Years and Effectiveness of Use of Bird Effigies",
+      "sector_classification": "Housing & Property",
+      "sector_confidence": 0.131,
+      "sector_confidence_band": "Low / Needs Review"
+    },
+    {
+      "title": "Dedicated MyCareersFuture Platform for Blue-collar and Vocational Jobseekers",
+      "sector_classification": "Labour & Workforce",
+      "sector_confidence": 0.3145,
+      "sector_confidence_band": "High"
+    },
+    {
+      "title": "Deployment of Mobile LTA Enforcement Cameras in January 2026 and Future Rollout Plans",
+      "sector_classification": "Transport",
+      "sector_confidence": 0.3128,
+      "sector_confidence_band": "High"
+    },
+    {
+      "title": "Deployment of Mobile NEA Enforcement Cameras and Future Rollout Plans",
+      "sector_classification": "Environment",
+      "sector_confidence": 0.2763,
+      "sector_confidence_band": "Medium"
+    },
+    {
+      "title": "Employment Restrictions for Dependent Pass Holders Enrolled in Local Educational Institutions",
+      "sector_classification": "Labour & Workforce",
+      "sector_confidence": 0.2382,
+      "sector_confidence_band": "Medium"
+    },
+    {
+      "title": "Encouraging Companies That Tap On Tax Deductions for AI Spending to Retrain Rather Than Retrench Their Workers",
+      "sector_classification": "Labour & Workforce",
+      "sector_confidence": 0.2774,
+      "sector_confidence_band": "Medium"
+    },
+    {
+      "title": "Enhancing Public Education on Right-sizing Integrated Shield Plan Coverage",
+      "sector_classification": "Healthcare",
+      "sector_confidence": 0.2844,
+      "sector_confidence_band": "Medium"
+    },
+    {
+      "title": "Ensuring Quality and Continuity of Care and Role of Pharmacists in Light of Increased Use of Telemedicine and Third-Party Medication Delivery Platforms",
+      "sector_classification": "Healthcare",
+      "sector_confidence": 0.2333,
+      "sector_confidence_band": "Medium"
+    },
+    {
+      "title": "Expansion of Green Mark Scheme with Corresponding Workforce Capabilities and Ensuring Integration of Sustainability Competencies",
+      "sector_classification": "Environment",
+      "sector_confidence": 0.1645,
+      "sector_confidence_band": "Medium"
+    },
+    {
+      "title": "Fires Involving Blue Recycling Bins",
+      "sector_classification": "Environment",
+      "sector_confidence": 0.2341,
+      "sector_confidence_band": "Medium"
+    },
+    {
+      "title": "GST Relief Mechanisms for Patients Unable to Obtain Essential Medication from Public Healthcare Institutions Due to Systemic Availability Constraints",
+      "sector_classification": "Healthcare",
+      "sector_confidence": 0.3086,
+      "sector_confidence_band": "High"
+    },
+    {
+      "title": "Green and Sustainability Linked Loans Originated by Financial Institutions in Singapore Offered to New Corporate and SMEs in Past Five Years",
+      "sector_classification": "Environment",
+      "sector_confidence": 0.1183,
+      "sector_confidence_band": "Low / Needs Review"
+    },
+    {
+      "title": "HDB Animal Ownership Regulations, Breakdown of Pet-related Complaints in Last Five Years and Enforcement Measures to Address Pet-related Concerns",
+      "sector_classification": "Housing & Property",
+      "sector_confidence": 0.3047,
+      "sector_confidence_band": "High"
+    },
+    {
+      "title": "Impact of Multiple Mounted Mobile Devices or Digital Screens on Driving Performance",
+      "sector_classification": "Transport",
+      "sector_confidence": 0.173,
+      "sector_confidence_band": "Medium"
+    },
+    {
+      "title": "Impact of PARF Reduction on New Car Prices, Depreciation Rates and COE Renewal Behaviour",
+      "sector_classification": "Transport",
+      "sector_confidence": 0.2382,
+      "sector_confidence_band": "Medium"
+    },
+    {
+      "title": "Implementation of Fixed Book Price Scheme for Sing Lit Books and Books Written by Singaporean Authors",
+      "sector_classification": "Other / Cross-cutting",
+      "sector_confidence": 0.17,
+      "sector_confidence_band": "Medium"
+    },
+    {
+      "title": "Increasing EDG Support Level to Encourage Greater Participation in Productivity and Innovation Projects",
+      "sector_classification": "Other / Cross-cutting",
+      "sector_confidence": 0.1505,
+      "sector_confidence_band": "Low / Needs Review"
+    },
+    {
+      "title": "Intended Role of Community Mental Health Services within Singapore’s Care Continuum",
+      "sector_classification": "Healthcare",
+      "sector_confidence": 0.3917,
+      "sector_confidence_band": "High"
+    },
+    {
+      "title": "Limits of Current Funding Model for Disability Services Tagged to Organisation Rather Than Beneficiary",
+      "sector_classification": "Social & Family Policy",
+      "sector_confidence": 0.1994,
+      "sector_confidence_band": "Medium"
+    },
+    {
+      "title": "Metrics to Assess Effectiveness of UPLIFT Enhanced School Resourcing and GEAR-UP Programmes and Results for Past Five Years",
+      "sector_classification": "Education",
+      "sector_confidence": 0.57,
+      "sector_confidence_band": "High"
+    },
+    {
+      "title": "Monitoring Industry-led Guideline of Proper Distribution of Property Flyers at HDB Estates",
+      "sector_classification": "Housing & Property",
+      "sector_confidence": 0.2427,
+      "sector_confidence_band": "Medium"
+    },
+    {
+      "title": "Monitoring of EASE Programme Take-up Rate by Geography, Housing Type and Household",
+      "sector_classification": "Housing & Property",
+      "sector_confidence": 0.2226,
+      "sector_confidence_band": "Medium"
+    },
+    {
+      "title": "Number of Air-conditioned Classrooms in Schools and Schools that are Most Vulnerable to Urban Heat Island Effect",
+      "sector_classification": "Education",
+      "sector_confidence": 0.3527,
+      "sector_confidence_band": "High"
+    },
+    {
+      "title": "Outreach to Lower-income Singaporeans and Underserved Groups to Encourage Utilisation of SG Culture Pass",
+      "sector_classification": "Other / Cross-cutting",
+      "sector_confidence": 0.2235,
+      "sector_confidence_band": "Medium"
+    },
+    {
+      "title": "PSEA Balance Transfers to CPF Ordinary Account at Age 31 and Uptake of Subsequent Education or Reskilling",
+      "sector_classification": "Education",
+      "sector_confidence": 0.2039,
+      "sector_confidence_band": "Medium"
+    },
+    {
+      "title": "Participation Rates of Schools and Students for UPLIFT Enhanced School Resourcing and GEAR-UP Programmes in Past Five Years",
+      "sector_classification": "Education",
+      "sector_confidence": 0.656,
+      "sector_confidence_band": "High"
+    },
+    {
+      "title": "Philantrophic Contributions Made by Single Family Offices to Local Charitable Organisations Since 2024",
+      "sector_classification": "Social & Family Policy",
+      "sector_confidence": 0.1343,
+      "sector_confidence_band": "Low / Needs Review"
+    },
+    {
+      "title": "Plans to Manage Numbers of Private Hire Car Driver's Vocational Licences Issued",
+      "sector_classification": "Transport",
+      "sector_confidence": 0.1803,
+      "sector_confidence_band": "Medium"
+    },
+    {
+      "title": "Proportion of Migrant Workers Living in Purpose-built Dormitories with Access to Nearby Recreational Centres",
+      "sector_classification": "Labour & Workforce",
+      "sector_confidence": 0.1642,
+      "sector_confidence_band": "Medium"
+    },
+    {
+      "title": "Proportion of Polyclinic Consultations Conducted via Telehealth Services",
+      "sector_classification": "Healthcare",
+      "sector_confidence": 0.2983,
+      "sector_confidence_band": "Medium"
+    },
+    {
+      "title": "Proposal for Higher Compensation for Local Authors and Publishers for Books Provided to NLB Libraries for Public Borrowing",
+      "sector_classification": "Digital Economy & Tech",
+      "sector_confidence": 0.1229,
+      "sector_confidence_band": "Low / Needs Review"
+    },
+    {
+      "title": "Providing Tracking Devices for Dementia Patients at Subsidised Rates",
+      "sector_classification": "Healthcare",
+      "sector_confidence": 0.3478,
+      "sector_confidence_band": "High"
+    },
+    {
+      "title": "Reason for Lower-than-projected Health Ministry Operating Expenditure in FY2025",
+      "sector_classification": "Healthcare",
+      "sector_confidence": 0.2636,
+      "sector_confidence_band": "Medium"
+    },
+    {
+      "title": "Reason for Voluntary Approach to New Guideline on Property Flyers to HDB Homes",
+      "sector_classification": "Housing & Property",
+      "sector_confidence": 0.218,
+      "sector_confidence_band": "Medium"
+    },
+    {
+      "title": "Reconsideration of Decision to Order Removal of Mural on 59 Arab Street",
+      "sector_classification": "Housing & Property",
+      "sector_confidence": 0.1142,
+      "sector_confidence_band": "Low / Needs Review"
+    },
+    {
+      "title": "Recorded Incidences of AI-Induced Psychosis in Past Three Years and Measures to Address AI-Related Mental Health Issues",
+      "sector_classification": "Healthcare",
+      "sector_confidence": 0.184,
+      "sector_confidence_band": "Medium"
+    },
+    {
+      "title": "Regular Training in Communications and Customer Service Excellence for Frontline Public Service Officers",
+      "sector_classification": "Social & Family Policy",
+      "sector_confidence": 0.1132,
+      "sector_confidence_band": "Low / Needs Review"
+    },
+    {
+      "title": "Relaxing Conservation Guidelines for Painting of Murals in Heritage Districts",
+      "sector_classification": "Housing & Property",
+      "sector_confidence": 0.1117,
+      "sector_confidence_band": "Low / Needs Review"
+    },
+    {
+      "title": "Restriction Orders Issued under Protection from Scams Act 2025",
+      "sector_classification": "Defence & Home Affairs",
+      "sector_confidence": 0.2159,
+      "sector_confidence_band": "Medium"
+    },
+    {
+      "title": "Review Discretion Given to Supermarket Operators on Use of Funds Collected from Plastic Bag Charges",
+      "sector_classification": "Environment",
+      "sector_confidence": 0.13,
+      "sector_confidence_band": "Low / Needs Review"
+    },
+    {
+      "title": "Risk Points Identified in Street Count of Rough Sleepers 2025 Report for Entry into Long-term Homelessness",
+      "sector_classification": "Social & Family Policy",
+      "sector_confidence": 0.2305,
+      "sector_confidence_band": "Medium"
+    },
+    {
+      "title": "Risk of In-flight Use of Power Banks",
+      "sector_classification": "Transport",
+      "sector_confidence": 0.2158,
+      "sector_confidence_band": "Medium"
+    },
+    {
+      "title": "Safeguards to Prevent Misuse of Training Work Permit Which Imposes Lower Levy",
+      "sector_classification": "Labour & Workforce",
+      "sector_confidence": 0.2481,
+      "sector_confidence_band": "Medium"
+    },
+    {
+      "title": "Setting Up Helpline and Oversight for Tripartite Framework for the Prevention of Abuse and Harassment in Healthcare",
+      "sector_classification": "Healthcare",
+      "sector_confidence": 0.366,
+      "sector_confidence_band": "High"
+    },
+    {
+      "title": "Steps to Reduce Vegetation Fires",
+      "sector_classification": "Defence & Home Affairs",
+      "sector_confidence": 0.3614,
+      "sector_confidence_band": "High"
+    },
+    {
+      "title": "Summonses Issued to Drivers for Using Mobile Devices While Driving in Past Five Years",
+      "sector_classification": "Transport",
+      "sector_confidence": 0.1376,
+      "sector_confidence_band": "Low / Needs Review"
+    },
+    {
+      "title": "Tracking Environmental Impact of AI Usage",
+      "sector_classification": "Environment",
+      "sector_confidence": 0.1579,
+      "sector_confidence_band": "Low / Needs Review"
+    },
+    {
+      "title": "Tracking Productivity Growth Rather Than Adoption Rates to Measure Success of AI Strategy",
+      "sector_classification": "Labour & Workforce",
+      "sector_confidence": 0.1499,
+      "sector_confidence_band": "Low / Needs Review"
+    },
+    {
+      "title": "Utilisation Rate of Government Co-Matching Child Development Accounts across Household Income and Caregiving Arrangements",
+      "sector_classification": "Social & Family Policy",
+      "sector_confidence": 0.2711,
+      "sector_confidence_band": "Medium"
+    }
+  ]
+}

@@ -1,0 +1,420 @@
+{
+  "success": true,
+  "date": "26-02-2026",
+  "results": [
+    {
+      "title": "Adjusting Labour and Urban Planning Policies to Mitigate Heat-related Productivity Losses",
+      "sector_classification": "Labour & Workforce",
+      "sector_confidence": 0.2082,
+      "sector_confidence_band": "Medium"
+    },
+    {
+      "title": "Analysis of Wealth Distribution Breakdown by Age Cohort",
+      "sector_classification": "Other / Cross-cutting",
+      "sector_confidence": 0.1815,
+      "sector_confidence_band": "Medium"
+    },
+    {
+      "title": "Annual Report Publication of Non-Profit Healthcare Clusters for Public Access",
+      "sector_classification": "Healthcare",
+      "sector_confidence": 0.3317,
+      "sector_confidence_band": "High"
+    },
+    {
+      "title": "Assessment of Progress in Placement of Fresh Graduates under Graduate Industry Traineeships Scheme",
+      "sector_classification": "Labour & Workforce",
+      "sector_confidence": 0.2383,
+      "sector_confidence_band": "Medium"
+    },
+    {
+      "title": "Ban on Flavoured Tobacco to Curb Appeal to Youths",
+      "sector_classification": "Healthcare",
+      "sector_confidence": 0.2884,
+      "sector_confidence_band": "Medium"
+    },
+    {
+      "title": "Breakdown of Direct School Admission Intake by Household Income",
+      "sector_classification": "Education",
+      "sector_confidence": 0.3325,
+      "sector_confidence_band": "High"
+    },
+    {
+      "title": "Children of Unwed Mothers Excluded from Baby Bonus Cash Gift and Working Mother's Child Relief",
+      "sector_classification": "Social & Family Policy",
+      "sector_confidence": 0.2694,
+      "sector_confidence_band": "Medium"
+    },
+    {
+      "title": "Clarification by Minister of State for Health",
+      "sector_classification": "Healthcare",
+      "sector_confidence": 0.2909,
+      "sector_confidence_band": "Medium"
+    },
+    {
+      "title": "Clarification by Prime Minister and Minister for Finance",
+      "sector_classification": "Labour & Workforce",
+      "sector_confidence": 0.149,
+      "sector_confidence_band": "Low / Needs Review"
+    },
+    {
+      "title": "Clarification by Senior Parliamentary Secretary to the Minister for Finance",
+      "sector_classification": "Labour & Workforce",
+      "sector_confidence": 0.1205,
+      "sector_confidence_band": "Low / Needs Review"
+    },
+    {
+      "title": "Committee of Supply Reporting Progress",
+      "sector_classification": "Labour & Workforce",
+      "sector_confidence": 0.1207,
+      "sector_confidence_band": "Low / Needs Review"
+    },
+    {
+      "title": "Committee of Supply – Head M (Ministry of Finance)",
+      "sector_classification": "Other / Cross-cutting",
+      "sector_confidence": 0.1345,
+      "sector_confidence_band": "Low / Needs Review"
+    },
+    {
+      "title": "Committee of Supply – Head U (Prime Minister's Office)",
+      "sector_classification": "Other / Cross-cutting",
+      "sector_confidence": 0.1139,
+      "sector_confidence_band": "Low / Needs Review"
+    },
+    {
+      "title": "Cost-benefit Analysis for Transitioning from Incinerating Recyclables to Smart-bin System",
+      "sector_classification": "Environment",
+      "sector_confidence": 0.1687,
+      "sector_confidence_band": "Medium"
+    },
+    {
+      "title": "Data Centres' Use of Fresh Water Supply",
+      "sector_classification": "Environment",
+      "sector_confidence": 0.2389,
+      "sector_confidence_band": "Medium"
+    },
+    {
+      "title": "Data Integrity of Bus Waiting Time and Occupancy in ETA System Following January 2026 Glitch",
+      "sector_classification": "Transport",
+      "sector_confidence": 0.3744,
+      "sector_confidence_band": "High"
+    },
+    {
+      "title": "Data on Premature Work Permit Cancellations in Last Five Years",
+      "sector_classification": "Labour & Workforce",
+      "sector_confidence": 0.2575,
+      "sector_confidence_band": "Medium"
+    },
+    {
+      "title": "Debate on Annual Budget Statement",
+      "sector_classification": "Social & Family Policy",
+      "sector_confidence": 0.2054,
+      "sector_confidence_band": "Medium"
+    },
+    {
+      "title": "Difference in Requirements for European Third Language Versus Asian Third Language Options Offered to Secondary 1 Students",
+      "sector_classification": "Education",
+      "sector_confidence": 0.3301,
+      "sector_confidence_band": "High"
+    },
+    {
+      "title": "Discriminatory Practices in Private Residential Rental Market and Measures to Address Discrimination",
+      "sector_classification": "Housing & Property",
+      "sector_confidence": 0.1947,
+      "sector_confidence_band": "Medium"
+    },
+    {
+      "title": "Electric Vehicle Training for Bus Captains",
+      "sector_classification": "Transport",
+      "sector_confidence": 0.6172,
+      "sector_confidence_band": "High"
+    },
+    {
+      "title": "Enhanced Funding or Subsidies for Elective Egg Freezing, IVF and Other Fertility Treatments for Older Couples",
+      "sector_classification": "Healthcare",
+      "sector_confidence": 0.3273,
+      "sector_confidence_band": "High"
+    },
+    {
+      "title": "Ensuring Increase in Goods Vehicle Permit Fees for Foreign-registered Goods Vehicles is Not Passed to Consumers and Producers",
+      "sector_classification": "Transport",
+      "sector_confidence": 0.1992,
+      "sector_confidence_band": "Medium"
+    },
+    {
+      "title": "Extension of TR76 E-commerce Guidelines for Social Commerce Transactions",
+      "sector_classification": "Financial Services",
+      "sector_confidence": 0.1378,
+      "sector_confidence_band": "Low / Needs Review"
+    },
+    {
+      "title": "Extent of GenAI Use among Muslims to Obtain Religious Information and Instruction",
+      "sector_classification": "Education",
+      "sector_confidence": 0.1293,
+      "sector_confidence_band": "Low / Needs Review"
+    },
+    {
+      "title": "Facilitating Islamic Legacy Planning Workshops Tailored to Indian Muslim Community",
+      "sector_classification": "Education",
+      "sector_confidence": 0.1039,
+      "sector_confidence_band": "Low / Needs Review"
+    },
+    {
+      "title": "Factors Behind 36.2% Increase in Young Inmates in Singapore Prisons in 2025",
+      "sector_classification": "Defence & Home Affairs",
+      "sector_confidence": 0.1571,
+      "sector_confidence_band": "Low / Needs Review"
+    },
+    {
+      "title": "Financial Assistance for Parents Whose Infants are Enrolled in ECDA's Childminding Pilot Programme",
+      "sector_classification": "Social & Family Policy",
+      "sector_confidence": 0.2314,
+      "sector_confidence_band": "Medium"
+    },
+    {
+      "title": "Formal Training in Restorative Practices to Address Bullying in Schools",
+      "sector_classification": "Education",
+      "sector_confidence": 0.3008,
+      "sector_confidence_band": "High"
+    },
+    {
+      "title": "Funding Support and Capability Building Initiatives for Muslim Student Societies in IHLs",
+      "sector_classification": "Education",
+      "sector_confidence": 0.1978,
+      "sector_confidence_band": "Medium"
+    },
+    {
+      "title": "Government Funding in Lab-grown Seafood and Cultured Meat Sector",
+      "sector_classification": "Environment",
+      "sector_confidence": 0.2393,
+      "sector_confidence_band": "Medium"
+    },
+    {
+      "title": "Government Support Provided to Sino-Singapore Jilin Food Zone under Bilateral Cooperation Framework",
+      "sector_classification": "Environment",
+      "sector_confidence": 0.2835,
+      "sector_confidence_band": "Medium"
+    },
+    {
+      "title": "Government's Assessment of Social Media's Efforts to Detect Child Sexual Exploitation and Abuse in Livestreams",
+      "sector_classification": "Digital Economy & Tech",
+      "sector_confidence": 0.4507,
+      "sector_confidence_band": "High"
+    },
+    {
+      "title": "Homeowners who Have Taken Three or More HDB Loans",
+      "sector_classification": "Housing & Property",
+      "sector_confidence": 0.4861,
+      "sector_confidence_band": "High"
+    },
+    {
+      "title": "Implementing Additional Measures to Enhance Road Safety in Areas with High Pedestrian Footfall",
+      "sector_classification": "Transport",
+      "sector_confidence": 0.2744,
+      "sector_confidence_band": "Medium"
+    },
+    {
+      "title": "Introducing Locally Offered Degree in Veterinary Science",
+      "sector_classification": "Education",
+      "sector_confidence": 0.1849,
+      "sector_confidence_band": "Medium"
+    },
+    {
+      "title": "LPA Form 1 Applications Aborted Due To Office of the Public Guardian's Online Portal Issues",
+      "sector_classification": "Social & Family Policy",
+      "sector_confidence": 0.1322,
+      "sector_confidence_band": "Low / Needs Review"
+    },
+    {
+      "title": "Lessons Learnt from ETA System Disruption to Prevent System Failures to Other Critical Systems in Public Transport Infrastructure",
+      "sector_classification": "Transport",
+      "sector_confidence": 0.2907,
+      "sector_confidence_band": "Medium"
+    },
+    {
+      "title": "Linking Carbon Tax Increases to Technology Readiness or Regional Carbon Price Movements",
+      "sector_classification": "Environment",
+      "sector_confidence": 0.2196,
+      "sector_confidence_band": "Medium"
+    },
+    {
+      "title": "Maintaining High Measles Vaccination Coverage Through Enhanced Vaccination Programmes",
+      "sector_classification": "Healthcare",
+      "sector_confidence": 0.1962,
+      "sector_confidence_band": "Medium"
+    },
+    {
+      "title": "NIE's Bachelor Programmes Acceptance Rate and Safeguarding Subject-specific Teacher Supply Shortages",
+      "sector_classification": "Education",
+      "sector_confidence": 0.3658,
+      "sector_confidence_band": "High"
+    },
+    {
+      "title": "Number of Overweight Students in Schools and Weight Management Programmes to Help Them",
+      "sector_classification": "Education",
+      "sector_confidence": 0.3714,
+      "sector_confidence_band": "High"
+    },
+    {
+      "title": "Number of Preschools that Offer Care Services Beyond 7.00 pm",
+      "sector_classification": "Labour & Workforce",
+      "sector_confidence": 0.1569,
+      "sector_confidence_band": "Low / Needs Review"
+    },
+    {
+      "title": "Operational Protocols to Safeguard Local Healthcare Workers in Light of Overseas Nipah Virus Infections",
+      "sector_classification": "Healthcare",
+      "sector_confidence": 0.3804,
+      "sector_confidence_band": "High"
+    },
+    {
+      "title": "Otter Population Control and Management Strategies in Residential Estates",
+      "sector_classification": "Environment",
+      "sector_confidence": 0.1364,
+      "sector_confidence_band": "Low / Needs Review"
+    },
+    {
+      "title": "Oversight of Wakaf Management",
+      "sector_classification": "Social & Family Policy",
+      "sector_confidence": 0.1055,
+      "sector_confidence_band": "Low / Needs Review"
+    },
+    {
+      "title": "Population Threshold Parameters for Placement of HDB Estate Dialysis Centres Across Singapore",
+      "sector_classification": "Healthcare",
+      "sector_confidence": 0.239,
+      "sector_confidence_band": "Medium"
+    },
+    {
+      "title": "Positive Outcomes from Restriction Orders Issued since July 2025 and Expanding Scope to Other Financial Service Providers",
+      "sector_classification": "Defence & Home Affairs",
+      "sector_confidence": 0.1687,
+      "sector_confidence_band": "Medium"
+    },
+    {
+      "title": "Proportion and Career Progression of Female Foreign Service Officers, and Request for Publication of Gender-disaggregated Appointment Data",
+      "sector_classification": "Labour & Workforce",
+      "sector_confidence": 0.1385,
+      "sector_confidence_band": "Low / Needs Review"
+    },
+    {
+      "title": "Proportion of Advanced Practice Nurses in Workforce and Plans for Their Development",
+      "sector_classification": "Healthcare",
+      "sector_confidence": 0.3521,
+      "sector_confidence_band": "High"
+    },
+    {
+      "title": "Proportion of Muslim Couples Attending Marriage Preparation Programme",
+      "sector_classification": "Social & Family Policy",
+      "sector_confidence": 0.1304,
+      "sector_confidence_band": "Low / Needs Review"
+    },
+    {
+      "title": "Protection Measures for Vaccination-ineligible Infants Against Measles Outbreak in Singapore",
+      "sector_classification": "Healthcare",
+      "sector_confidence": 0.1937,
+      "sector_confidence_band": "Medium"
+    },
+    {
+      "title": "Public Complaints Towards Festive Surcharge Pricings by F&B Establishments over Past Five Years",
+      "sector_classification": "Other / Cross-cutting",
+      "sector_confidence": 0.3775,
+      "sector_confidence_band": "High"
+    },
+    {
+      "title": "Reason for Change in Government's Definition of Household Income in Key Household Income Trends Report",
+      "sector_classification": "Housing & Property",
+      "sector_confidence": 0.1459,
+      "sector_confidence_band": "Low / Needs Review"
+    },
+    {
+      "title": "Registering Employees Affected by Sudden Business Closures as Creditors to Recover Owed Salaries",
+      "sector_classification": "Labour & Workforce",
+      "sector_confidence": 0.2218,
+      "sector_confidence_band": "Medium"
+    },
+    {
+      "title": "Retention of International Carbon Credits Limit and Risks of Industrial Relocation",
+      "sector_classification": "Environment",
+      "sector_confidence": 0.2446,
+      "sector_confidence_band": "Medium"
+    },
+    {
+      "title": "Review of Alternative Pathways and Bridging Nursing Programmes for Qualified Singaporean Applicants",
+      "sector_classification": "Healthcare",
+      "sector_confidence": 0.1745,
+      "sector_confidence_band": "Medium"
+    },
+    {
+      "title": "Reviewing Structural Load Capacity of Multi-storey Car Parks Given Greater Adoption of EVs which are Generally Heavier",
+      "sector_classification": "Housing & Property",
+      "sector_confidence": 0.2267,
+      "sector_confidence_band": "Medium"
+    },
+    {
+      "title": "Rising AI Automation Concerns Over Job Losses and Long-Term Livelihood and Job Preservation Measures for Singaporeans",
+      "sector_classification": "Labour & Workforce",
+      "sector_confidence": 0.4043,
+      "sector_confidence_band": "High"
+    },
+    {
+      "title": "Role for Singapore in Global Space Economy and Developing Local Talent Pipeline for Space Systems and Satellite Operations",
+      "sector_classification": "Other / Cross-cutting",
+      "sector_confidence": 0.1746,
+      "sector_confidence_band": "Medium"
+    },
+    {
+      "title": "SG Enable's Support for ITE Graduates with Disabilities to Access Host Companies under Work-Study Diploma Programme",
+      "sector_classification": "Labour & Workforce",
+      "sector_confidence": 0.2945,
+      "sector_confidence_band": "Medium"
+    },
+    {
+      "title": "Securing Singapore’s Critical Information Infrastructure Dependent on Satellite and Space Systems",
+      "sector_classification": "Digital Economy & Tech",
+      "sector_confidence": 0.164,
+      "sector_confidence_band": "Medium"
+    },
+    {
+      "title": "Show of Proof of Vaccination against Diseases by S Pass Holders",
+      "sector_classification": "Healthcare",
+      "sector_confidence": 0.197,
+      "sector_confidence_band": "Medium"
+    },
+    {
+      "title": "Strengthening Hub-and-spoke Models for Mental Health Triaging in Hospitals",
+      "sector_classification": "Healthcare",
+      "sector_confidence": 0.455,
+      "sector_confidence_band": "High"
+    },
+    {
+      "title": "Take-up Rate for LPA since August 2025 and Proposed Extension of Fee Waiver",
+      "sector_classification": "Social & Family Policy",
+      "sector_confidence": 0.2624,
+      "sector_confidence_band": "Medium"
+    },
+    {
+      "title": "Timeline of Hydrogen-Ready Power Plant Adoption and Resulting Impact on Household and Business Electricity Tariffs",
+      "sector_classification": "Environment",
+      "sector_confidence": 0.138,
+      "sector_confidence_band": "Low / Needs Review"
+    },
+    {
+      "title": "Total Amount Paid to Foreign University Partners on Curriculum Development and Licensing in Past 25 years",
+      "sector_classification": "Education",
+      "sector_confidence": 0.1846,
+      "sector_confidence_band": "Medium"
+    },
+    {
+      "title": "Total Fees Collected for Vehicle Entry and Goods Vehicle Permits in 2025 and Estimated Annual Collection after Fee Increase in 2027",
+      "sector_classification": "Transport",
+      "sector_confidence": 0.2049,
+      "sector_confidence_band": "Medium"
+    },
+    {
+      "title": "Tracking Singapore-headquartered Global Technology Champions, Strategic National Capabilities and Locally Anchored IP as Outcomes from Government's R&D Spending",
+      "sector_classification": "Other / Cross-cutting",
+      "sector_confidence": 0.1412,
+      "sector_confidence_band": "Low / Needs Review"
+    }
+  ]
+}

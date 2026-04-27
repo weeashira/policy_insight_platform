@@ -1,0 +1,330 @@
+{
+  "success": true,
+  "date": "06-03-2026",
+  "results": [
+    {
+      "title": "Accounting Treatment of Prolonged Vacancy in HDB-managed Commercial Properties",
+      "sector_classification": "Housing & Property",
+      "sector_confidence": 0.3983,
+      "sector_confidence_band": "High"
+    },
+    {
+      "title": "Acknowledgement to the Chair",
+      "sector_classification": "Other / Cross-cutting",
+      "sector_confidence": 0.1676,
+      "sector_confidence_band": "Medium"
+    },
+    {
+      "title": "Adjournment",
+      "sector_classification": "Other / Cross-cutting",
+      "sector_confidence": 0.1755,
+      "sector_confidence_band": "Medium"
+    },
+    {
+      "title": "Alternative Crossing Designs at Intersections with Heavy Multimodal Traffic",
+      "sector_classification": "Transport",
+      "sector_confidence": 0.3297,
+      "sector_confidence_band": "High"
+    },
+    {
+      "title": "Alternative Sports Access Arrangements for Residents Affected by Renovations of ActiveSG Facilities and Centres",
+      "sector_classification": "Other / Cross-cutting",
+      "sector_confidence": 0.121,
+      "sector_confidence_band": "Low / Needs Review"
+    },
+    {
+      "title": "Applications for Letters of Support from MUIS to Hold Night Prayers during Ramadan at Qaryah Community Group Venues",
+      "sector_classification": "Other / Cross-cutting",
+      "sector_confidence": 0.1291,
+      "sector_confidence_band": "Low / Needs Review"
+    },
+    {
+      "title": "Assessment of Taiwan's National Lung Cancer Early Detection Programme",
+      "sector_classification": "Healthcare",
+      "sector_confidence": 0.2988,
+      "sector_confidence_band": "Medium"
+    },
+    {
+      "title": "Benchmarks to Trigger Review of Rental Rates of HDB Commercial Properties",
+      "sector_classification": "Housing & Property",
+      "sector_confidence": 0.397,
+      "sector_confidence_band": "High"
+    },
+    {
+      "title": "Bicycle Parking Capacity Standards in HDB Estates",
+      "sector_classification": "Housing & Property",
+      "sector_confidence": 0.3405,
+      "sector_confidence_band": "High"
+    },
+    {
+      "title": "Breakdown of Defence Contracts Procurement by Quantum and Procurement Method and Publication of Requirements for Major Platform Replacements on GeBIZ",
+      "sector_classification": "Defence & Home Affairs",
+      "sector_confidence": 0.1543,
+      "sector_confidence_band": "Low / Needs Review"
+    },
+    {
+      "title": "Cases where Salaries of Public Sector Employees Are Not Paid On Time",
+      "sector_classification": "Labour & Workforce",
+      "sector_confidence": 0.1388,
+      "sector_confidence_band": "Low / Needs Review"
+    },
+    {
+      "title": "Civil List",
+      "sector_classification": "Defence & Home Affairs",
+      "sector_confidence": 0.1166,
+      "sector_confidence_band": "Low / Needs Review"
+    },
+    {
+      "title": "Clarification by Minister for Sustainability and the Environment",
+      "sector_classification": "Environment",
+      "sector_confidence": 0.1246,
+      "sector_confidence_band": "Low / Needs Review"
+    },
+    {
+      "title": "Coastal Protection and Other Amendments Bill",
+      "sector_classification": "Environment",
+      "sector_confidence": 0.1465,
+      "sector_confidence_band": "Low / Needs Review"
+    },
+    {
+      "title": "Committee of Supply – Head I (Ministry of Social and Family Development)",
+      "sector_classification": "Social & Family Policy",
+      "sector_confidence": 0.4339,
+      "sector_confidence_band": "High"
+    },
+    {
+      "title": "Committee of Supply – Total Sums for Main Estimates, Development Estimates and Resolutions",
+      "sector_classification": "Other / Cross-cutting",
+      "sector_confidence": 0.1404,
+      "sector_confidence_band": "Low / Needs Review"
+    },
+    {
+      "title": "Community Feedback Regarding Festival Naming Conventions and Cultural Greetings",
+      "sector_classification": "Other / Cross-cutting",
+      "sector_confidence": 0.1482,
+      "sector_confidence_band": "Low / Needs Review"
+    },
+    {
+      "title": "Compliance with National Childhood and Adolescent Immunisation Schedule and Actions Taken Against Non-compliance in Past 10 Years",
+      "sector_classification": "Education",
+      "sector_confidence": 0.1467,
+      "sector_confidence_band": "Low / Needs Review"
+    },
+    {
+      "title": "Data on ASEAN Scholarship Holders' Acquisition of Singapore Citizenship and Permanent Residency Since 1998",
+      "sector_classification": "Education",
+      "sector_confidence": 0.1939,
+      "sector_confidence_band": "Medium"
+    },
+    {
+      "title": "Data on Nationality, Race and Educational Level for Students Granted ASEAN Scholarships",
+      "sector_classification": "Education",
+      "sector_confidence": 0.2571,
+      "sector_confidence_band": "Medium"
+    },
+    {
+      "title": "Digital Support Provided to Help Heritage Businesses Modernise and Sustain Their Operations",
+      "sector_classification": "Other / Cross-cutting",
+      "sector_confidence": 0.1268,
+      "sector_confidence_band": "Low / Needs Review"
+    },
+    {
+      "title": "Evaluation Criteria for Tenders Submitted by Prospective Socially-conscious Enterprise Hawker Centre Operators",
+      "sector_classification": "Environment",
+      "sector_confidence": 0.2055,
+      "sector_confidence_band": "Medium"
+    },
+    {
+      "title": "Expanding Use of ActiveSG Credits to Include Sports Facilities Such As Those at Community Clubs and The Kallang",
+      "sector_classification": "Other / Cross-cutting",
+      "sector_confidence": 0.1255,
+      "sector_confidence_band": "Low / Needs Review"
+    },
+    {
+      "title": "Expansion of HDB Flyer Distribution Rules at HDB Homes as Mandatory Industry Regulation",
+      "sector_classification": "Housing & Property",
+      "sector_confidence": 0.2345,
+      "sector_confidence_band": "Medium"
+    },
+    {
+      "title": "Export Potential of Singapore’s Water Recycling and Management Capabilities and Support for Water Technology Firms to Compete Globally",
+      "sector_classification": "Environment",
+      "sector_confidence": 0.2172,
+      "sector_confidence_band": "Medium"
+    },
+    {
+      "title": "Facilitating Adoption of AI in Energy Generation Sector",
+      "sector_classification": "Environment",
+      "sector_confidence": 0.1503,
+      "sector_confidence_band": "Low / Needs Review"
+    },
+    {
+      "title": "Factors for Decisions on When and Where to Deploy Crow-shooting Operations",
+      "sector_classification": "Housing & Property",
+      "sector_confidence": 0.1537,
+      "sector_confidence_band": "Low / Needs Review"
+    },
+    {
+      "title": "Feedback and Compensation Claims Made by Yio Chu Kang SMC Residents on Damages from North-South Corridor Construction Along Ang Mo Kio Avenue 6",
+      "sector_classification": "Transport",
+      "sector_confidence": 0.1934,
+      "sector_confidence_band": "Medium"
+    },
+    {
+      "title": "Frameworks for Stress-testing Impact on Singapore's Economy When Major Trading Partners Make Sudden Legal and Policy Decisions",
+      "sector_classification": "Labour & Workforce",
+      "sector_confidence": 0.1658,
+      "sector_confidence_band": "Medium"
+    },
+    {
+      "title": "Guidelines for Teachers and Schools on Handling of Students with SEN",
+      "sector_classification": "Education",
+      "sector_confidence": 0.7163,
+      "sector_confidence_band": "High"
+    },
+    {
+      "title": "Impact of Indonesia's Purchase of KHAN Ballistic Missile on Regional Security",
+      "sector_classification": "Defence & Home Affairs",
+      "sector_confidence": 0.2715,
+      "sector_confidence_band": "Medium"
+    },
+    {
+      "title": "Implementation of Fire Prevention Measures for Elderly Residents in Mature Estates",
+      "sector_classification": "Defence & Home Affairs",
+      "sector_confidence": 0.2158,
+      "sector_confidence_band": "Medium"
+    },
+    {
+      "title": "Inclusion of Darker Colours in Solar Reflectance Standards for Cool Coatings under Green Towns Programme",
+      "sector_classification": "Housing & Property",
+      "sector_confidence": 0.3097,
+      "sector_confidence_band": "High"
+    },
+    {
+      "title": "Lighting Designs for Shared Paths to Ensure Adequate Night-time Lighting for Tree Canopy Growth and Differentiation at Zones with Heavier Pedestrian and Active Mobility Traffic",
+      "sector_classification": "Transport",
+      "sector_confidence": 0.2832,
+      "sector_confidence_band": "Medium"
+    },
+    {
+      "title": "Mobile Network Dead Zones in MRT Network and Steps to Rectify Persistent Signal Gaps",
+      "sector_classification": "Digital Economy & Tech",
+      "sector_confidence": 0.2927,
+      "sector_confidence_band": "Medium"
+    },
+    {
+      "title": "More Details in HIP Renovation Schedules",
+      "sector_classification": "Housing & Property",
+      "sector_confidence": 0.2537,
+      "sector_confidence_band": "Medium"
+    },
+    {
+      "title": "National Servicemen Who Have Applied for Redeployment under Enhanced Expertise Deployment Scheme and Work-learn Schemes",
+      "sector_classification": "Social & Family Policy",
+      "sector_confidence": 0.1193,
+      "sector_confidence_band": "Low / Needs Review"
+    },
+    {
+      "title": "Parking Management Companies Selling VPCs Without Designated Lots in Last Three Years and Enforcement Measures Taken",
+      "sector_classification": "Transport",
+      "sector_confidence": 0.2879,
+      "sector_confidence_band": "Medium"
+    },
+    {
+      "title": "Progress and Budget Updates on AquaPolis Programme",
+      "sector_classification": "Environment",
+      "sector_confidence": 0.1851,
+      "sector_confidence_band": "Medium"
+    },
+    {
+      "title": "Proposal to Establish Master Database of Commercial Sublet Agreements",
+      "sector_classification": "Housing & Property",
+      "sector_confidence": 0.1788,
+      "sector_confidence_band": "Medium"
+    },
+    {
+      "title": "Ratification Plans of Arms Trade Treaty and Usage of Singapore-Origin Conventional Arms in International Crimes",
+      "sector_classification": "Environment",
+      "sector_confidence": 0.1365,
+      "sector_confidence_band": "Low / Needs Review"
+    },
+    {
+      "title": "Real-Time Information Sharing Protocols with Foreign Authorities on Child Trafficking Syndicates Linked to Singapore Adoptions",
+      "sector_classification": "Defence & Home Affairs",
+      "sector_confidence": 0.2052,
+      "sector_confidence_band": "Medium"
+    },
+    {
+      "title": "Reports of Unauthorised Works on LTA-managed State Land Fronting Private Properties in Past Three Years and Policy on Cost Liability of Restoration Works",
+      "sector_classification": "Transport",
+      "sector_confidence": 0.1949,
+      "sector_confidence_band": "Medium"
+    },
+    {
+      "title": "Singapore Citizens with Additional Hanyu Pinyin Name Registered as Part of Legal Name",
+      "sector_classification": "Defence & Home Affairs",
+      "sector_confidence": 0.2522,
+      "sector_confidence_band": "Medium"
+    },
+    {
+      "title": "Singapore Dollar-specific Factors Contributing to Persistent Weakness against Malaysian Ringgit",
+      "sector_classification": "Other / Cross-cutting",
+      "sector_confidence": 0.13,
+      "sector_confidence_band": "Low / Needs Review"
+    },
+    {
+      "title": "Statistics on Do Not Call Complaints, Investigations and Fines for Past Two Years, and Measures Taken to Improve DNC Registry Enforcement and Compliance",
+      "sector_classification": "Labour & Workforce",
+      "sector_confidence": 0.1175,
+      "sector_confidence_band": "Low / Needs Review"
+    },
+    {
+      "title": "Supplementary Supply (FY2025) Bill",
+      "sector_classification": "Other / Cross-cutting",
+      "sector_confidence": 0.1413,
+      "sector_confidence_band": "Low / Needs Review"
+    },
+    {
+      "title": "Supply Bill",
+      "sector_classification": "Other / Cross-cutting",
+      "sector_confidence": 0.1136,
+      "sector_confidence_band": "Low / Needs Review"
+    },
+    {
+      "title": "Tobacco (Control of Advertisements and Sale) (Amendment) and Other Matters Bill",
+      "sector_classification": "Healthcare",
+      "sector_confidence": 0.1283,
+      "sector_confidence_band": "Low / Needs Review"
+    },
+    {
+      "title": "Training on Special Needs Recognition and Response in Mandatory WSQ Modules for Licensed Security Officers",
+      "sector_classification": "Defence & Home Affairs",
+      "sector_confidence": 0.2004,
+      "sector_confidence_band": "Medium"
+    },
+    {
+      "title": "Tuberculosis Patients Who Have sought Financial Assistance to Cover Travel Expenses and Lost Income",
+      "sector_classification": "Healthcare",
+      "sector_confidence": 0.2527,
+      "sector_confidence_band": "Medium"
+    },
+    {
+      "title": "Usage of Data Collected from i-SMART Facial Recognition at NESST Tukang Dormitory",
+      "sector_classification": "Labour & Workforce",
+      "sector_confidence": 0.1223,
+      "sector_confidence_band": "Low / Needs Review"
+    },
+    {
+      "title": "Wait Times for Pedestrians at Signalised Junctions",
+      "sector_classification": "Transport",
+      "sector_confidence": 0.2345,
+      "sector_confidence_band": "Medium"
+    },
+    {
+      "title": "Wider Use for SG Culture Pass for Purchasing SingLit Books",
+      "sector_classification": "Other / Cross-cutting",
+      "sector_confidence": 0.2205,
+      "sector_confidence_band": "Medium"
+    }
+  ]
+}

@@ -1,0 +1,1056 @@
+{
+  "success": true,
+  "date": "04-11-2025",
+  "results": [
+    {
+      "title": "Addressing Late Payment Practices within Food and Beverage Sector, and Measures to Support Small Suppliers",
+      "sector_classification": "Environment",
+      "sector_confidence": 0.128,
+      "sector_confidence_band": "Low / Needs Review"
+    },
+    {
+      "title": "Addressing Needs of Workers who Care for Elderly Parents and Young Children and Proposal for \"Sandwich Generation Leave\"",
+      "sector_classification": "Labour & Workforce",
+      "sector_confidence": 0.203,
+      "sector_confidence_band": "Medium"
+    },
+    {
+      "title": "Addressing Shortage of Licensed Electrical Workers",
+      "sector_classification": "Labour & Workforce",
+      "sector_confidence": 0.1755,
+      "sector_confidence_band": "Medium"
+    },
+    {
+      "title": "Addressing Teachers' Stress Levels and Supporting Their Mental Well-being",
+      "sector_classification": "Education",
+      "sector_confidence": 0.2552,
+      "sector_confidence_band": "Medium"
+    },
+    {
+      "title": "Ambulance Accessibility Issues at Private Condominiums and Emergency Response Mitigation Measures",
+      "sector_classification": "Defence & Home Affairs",
+      "sector_confidence": 0.3014,
+      "sector_confidence_band": "High"
+    },
+    {
+      "title": "Assessing Adequacy of Heavy Vehicle Parking Lots",
+      "sector_classification": "Transport",
+      "sector_confidence": 0.233,
+      "sector_confidence_band": "Medium"
+    },
+    {
+      "title": "Assessment of Developments in Myanmar",
+      "sector_classification": "Defence & Home Affairs",
+      "sector_confidence": 0.1406,
+      "sector_confidence_band": "Low / Needs Review"
+    },
+    {
+      "title": "Assessments to Determine Adequacy of Childcare Capacity within Pasir Ris-Changi GRC",
+      "sector_classification": "Social & Family Policy",
+      "sector_confidence": 0.2243,
+      "sector_confidence_band": "Medium"
+    },
+    {
+      "title": "Assistance Given to Caregivers of Persons with Dementia",
+      "sector_classification": "Healthcare",
+      "sector_confidence": 0.2298,
+      "sector_confidence_band": "Medium"
+    },
+    {
+      "title": "Awareness of Community Relations Unit in Handling Neighbour Disputes and Preventing Noise-related Disputes through New BTO Housing Design",
+      "sector_classification": "Housing & Property",
+      "sector_confidence": 0.3895,
+      "sector_confidence_band": "High"
+    },
+    {
+      "title": "Balancing Academic Rigour Required to Excel at PSLE With Skills to Thrive in AI-driven Economy",
+      "sector_classification": "Education",
+      "sector_confidence": 0.4891,
+      "sector_confidence_band": "High"
+    },
+    {
+      "title": "Balancing Employability Preparation with Youths' Well-being and Preventing Excessive Internship Stacking",
+      "sector_classification": "Education",
+      "sector_confidence": 0.5317,
+      "sector_confidence_band": "High"
+    },
+    {
+      "title": "Breakdown of Total Number of Car Ownership by Housing Type as of 2025",
+      "sector_classification": "Housing & Property",
+      "sector_confidence": 0.1933,
+      "sector_confidence_band": "Medium"
+    },
+    {
+      "title": "Breakdown of Updates on Companies Investing in Johor-Singapore SEZ by Industry Type and Revenue Size",
+      "sector_classification": "Other / Cross-cutting",
+      "sector_confidence": 0.1637,
+      "sector_confidence_band": "Medium"
+    },
+    {
+      "title": "Calculation and Source of Funding for Subsidy to Cover Costs from Deferred 9.4% Increase in Public Transport Fares",
+      "sector_classification": "Transport",
+      "sector_confidence": 0.2363,
+      "sector_confidence_band": "Medium"
+    },
+    {
+      "title": "CareShield Life Statistics and Severe Disability Prevention Measures",
+      "sector_classification": "Healthcare",
+      "sector_confidence": 0.3498,
+      "sector_confidence_band": "High"
+    },
+    {
+      "title": "Cases where MDW's Medical Fees Exceeded $60,000 and Proposal to Enhance Coverage Sums in MDW Insurance Policies",
+      "sector_classification": "Labour & Workforce",
+      "sector_confidence": 0.2611,
+      "sector_confidence_band": "Medium"
+    },
+    {
+      "title": "Collecting Sector-specific Data on Employee Stress, Burnout, Anxiety and Depression",
+      "sector_classification": "Labour & Workforce",
+      "sector_confidence": 0.2251,
+      "sector_confidence_band": "Medium"
+    },
+    {
+      "title": "Collection of Data on Lonely Deaths for Social Support Intervention Planning for Vulnerable Individuals",
+      "sector_classification": "Healthcare",
+      "sector_confidence": 0.2524,
+      "sector_confidence_band": "Medium"
+    },
+    {
+      "title": "Companies that Have Retrenched Employees Without Mandatory Retrenchment Notification of Authorities",
+      "sector_classification": "Labour & Workforce",
+      "sector_confidence": 0.337,
+      "sector_confidence_band": "High"
+    },
+    {
+      "title": "Comparison of Public Playground Numbers and by Facility Types over Past 10 Years",
+      "sector_classification": "Housing & Property",
+      "sector_confidence": 0.2942,
+      "sector_confidence_band": "Medium"
+    },
+    {
+      "title": "Complaints of Employers Failing to Pay Workers Minimum Salaries Stipulated by Progressive Wage Model",
+      "sector_classification": "Labour & Workforce",
+      "sector_confidence": 0.2769,
+      "sector_confidence_band": "Medium"
+    },
+    {
+      "title": "Complaints of Unsatisfactory or Disputed Insurance Claims",
+      "sector_classification": "Financial Services",
+      "sector_confidence": 0.6368,
+      "sector_confidence_band": "High"
+    },
+    {
+      "title": "Consideration of Attendance at Drug Rehabilitation Centre during Fit and Proper Assessment for Career in Financial Services Industry",
+      "sector_classification": "Financial Services",
+      "sector_confidence": 0.17,
+      "sector_confidence_band": "Medium"
+    },
+    {
+      "title": "Considerations for Converting HDB Car Park Space for Alternative Use",
+      "sector_classification": "Housing & Property",
+      "sector_confidence": 0.3311,
+      "sector_confidence_band": "High"
+    },
+    {
+      "title": "Considerations when Allocating Counsellors to Schools",
+      "sector_classification": "Education",
+      "sector_confidence": 0.4802,
+      "sector_confidence_band": "High"
+    },
+    {
+      "title": "Contributing Factors to Rise in Malnutrition among Older Singaporeans",
+      "sector_classification": "Healthcare",
+      "sector_confidence": 0.3624,
+      "sector_confidence_band": "High"
+    },
+    {
+      "title": "Cost Effectiveness of Electrical Fire Prevention Measures in HDB Estates",
+      "sector_classification": "Housing & Property",
+      "sector_confidence": 0.1619,
+      "sector_confidence_band": "Medium"
+    },
+    {
+      "title": "Criminal Law (Miscellaneous Amendments) Bill",
+      "sector_classification": "Defence & Home Affairs",
+      "sector_confidence": 0.1634,
+      "sector_confidence_band": "Medium"
+    },
+    {
+      "title": "Criteria for Inclusion in Chronic Disease Management Programme and Reasons for Non-inclusion of Eczema",
+      "sector_classification": "Healthcare",
+      "sector_confidence": 0.2682,
+      "sector_confidence_band": "Medium"
+    },
+    {
+      "title": "Current Training Certification towards Lifestyle Medicine Competencies for Healthcare Professionals",
+      "sector_classification": "Healthcare",
+      "sector_confidence": 0.3298,
+      "sector_confidence_band": "High"
+    },
+    {
+      "title": "Curriculum Time Spent on PSLE Preparation",
+      "sector_classification": "Education",
+      "sector_confidence": 0.3873,
+      "sector_confidence_band": "High"
+    },
+    {
+      "title": "Data on \"Cut and Fill\" Approach to Reassign COE Quotas and Further Medium-term Plans to Equalise Supply",
+      "sector_classification": "Transport",
+      "sector_confidence": 0.1938,
+      "sector_confidence_band": "Medium"
+    },
+    {
+      "title": "Data on Current Healthcare Subsidy Schemes for Special Needs Children and Identifying Potential Subsidy Coverage Gaps",
+      "sector_classification": "Healthcare",
+      "sector_confidence": 0.2592,
+      "sector_confidence_band": "Medium"
+    },
+    {
+      "title": "Data on Employers who Voluntarily Adopt National Wages Council 2024/2025 Guidelines",
+      "sector_classification": "Labour & Workforce",
+      "sector_confidence": 0.289,
+      "sector_confidence_band": "Medium"
+    },
+    {
+      "title": "Data on Firearm Violations at Police and Auxiliary Police Units for Past 24 Months and Subsequent Enforcement Actions",
+      "sector_classification": "Defence & Home Affairs",
+      "sector_confidence": 0.4116,
+      "sector_confidence_band": "High"
+    },
+    {
+      "title": "Data on Household Income Distribution of Students Admitted through DSA Scheme and who Participated in Private DSA Preparatory Programmes over Past Five Years",
+      "sector_classification": "Education",
+      "sector_confidence": 0.6138,
+      "sector_confidence_band": "High"
+    },
+    {
+      "title": "Data on Individuals Adjudicated Bankrupt by Age Group and Repeat Bankruptcies in Past 10 Years",
+      "sector_classification": "Labour & Workforce",
+      "sector_confidence": 0.1274,
+      "sector_confidence_band": "Low / Needs Review"
+    },
+    {
+      "title": "Data on Out-of-Pocket Spending for Chronic Diseases by CHAS Card Tier and Income Decile and Plans for Further Subsidies",
+      "sector_classification": "Healthcare",
+      "sector_confidence": 0.3685,
+      "sector_confidence_band": "High"
+    },
+    {
+      "title": "Data on Outcomes of Bankruptcy Applications and Mandating Mediation between Petitioning Creditor and Bankruptcy Respondent",
+      "sector_classification": "Financial Services",
+      "sector_confidence": 0.2143,
+      "sector_confidence_band": "Medium"
+    },
+    {
+      "title": "Data on Scam Mule Investigations from January to June 2025 and Interim Support Measures for Unknowing Victims",
+      "sector_classification": "Defence & Home Affairs",
+      "sector_confidence": 0.2671,
+      "sector_confidence_band": "Medium"
+    },
+    {
+      "title": "Data on Singaporean Victims Baited by Scam Syndicates to Work Overseas",
+      "sector_classification": "Defence & Home Affairs",
+      "sector_confidence": 0.2788,
+      "sector_confidence_band": "Medium"
+    },
+    {
+      "title": "Data on Suicides and Attempted Suicides among Seniors above 60",
+      "sector_classification": "Healthcare",
+      "sector_confidence": 0.2632,
+      "sector_confidence_band": "Medium"
+    },
+    {
+      "title": "Data on Temporary Permit Exhibition Scheme Permits Issued to Firms Lacking Local Employees in Past Two Years",
+      "sector_classification": "Labour & Workforce",
+      "sector_confidence": 0.1715,
+      "sector_confidence_band": "Medium"
+    },
+    {
+      "title": "Data to Support Move towards Skills-based Hiring in Civil Service",
+      "sector_classification": "Labour & Workforce",
+      "sector_confidence": 0.1699,
+      "sector_confidence_band": "Medium"
+    },
+    {
+      "title": "Dealers Bidding up COE Premiums while Keeping Car Prices Stable",
+      "sector_classification": "Transport",
+      "sector_confidence": 0.2081,
+      "sector_confidence_band": "Medium"
+    },
+    {
+      "title": "Decision and Disbursement Duration of Withdrawal Applications for CPF Reduced Life Expectancy Scheme",
+      "sector_classification": "Social & Family Policy",
+      "sector_confidence": 0.2781,
+      "sector_confidence_band": "Medium"
+    },
+    {
+      "title": "Delayed or Missing CPF Contributions when Platform Workers Switch Platforms",
+      "sector_classification": "Labour & Workforce",
+      "sector_confidence": 0.2965,
+      "sector_confidence_band": "Medium"
+    },
+    {
+      "title": "Developing Age-progressive Framework for Responsible Use of GenAI for Students and Parents across Educational Levels",
+      "sector_classification": "Education",
+      "sector_confidence": 0.4063,
+      "sector_confidence_band": "High"
+    },
+    {
+      "title": "Developing Framework for Continuous Professional Development in Brain-based Teaching Approaches for NIE Educators",
+      "sector_classification": "Education",
+      "sector_confidence": 0.3722,
+      "sector_confidence_band": "High"
+    },
+    {
+      "title": "Differentiating Validity Periods of HDB Flat Eligibility (HFE) System and Enhancing HFE Letter with Personalised Information and Resources",
+      "sector_classification": "Housing & Property",
+      "sector_confidence": 0.4563,
+      "sector_confidence_band": "High"
+    },
+    {
+      "title": "Diplomatic Relations with Syria and Opportunities for Trade, Reconstruction and Humanitarian Engagement",
+      "sector_classification": "Defence & Home Affairs",
+      "sector_confidence": 0.1332,
+      "sector_confidence_band": "Low / Needs Review"
+    },
+    {
+      "title": "Duration of Free Morning Off-peak Rail Rides Scheme on North East Line",
+      "sector_classification": "Transport",
+      "sector_confidence": 0.2353,
+      "sector_confidence_band": "Medium"
+    },
+    {
+      "title": "Easement of Anti-Scam Measures by Banks in \"Whitelist\" and/or Considerable Safe Situations",
+      "sector_classification": "Financial Services",
+      "sector_confidence": 0.2913,
+      "sector_confidence_band": "Medium"
+    },
+    {
+      "title": "Effectiveness of Covert versus Overt Cameras in Preventing Speeding Offences",
+      "sector_classification": "Defence & Home Affairs",
+      "sector_confidence": 0.2273,
+      "sector_confidence_band": "Medium"
+    },
+    {
+      "title": "Effectiveness of Shared Stay-in Senior Care Services Sandbox and Other Enhanced Caregiving Support Measures",
+      "sector_classification": "Healthcare",
+      "sector_confidence": 0.1644,
+      "sector_confidence_band": "Medium"
+    },
+    {
+      "title": "Effectiveness of SkillsFuture-funded Programmes on Job-related Outcomes and Expanding List of Approved Certifications on MySkillsFuture Portal",
+      "sector_classification": "Education",
+      "sector_confidence": 0.2041,
+      "sector_confidence_band": "Medium"
+    },
+    {
+      "title": "Efforts at Minimising Practice of Roads being Resurfaced or Re-excavated for Different Works",
+      "sector_classification": "Transport",
+      "sector_confidence": 0.1893,
+      "sector_confidence_band": "Medium"
+    },
+    {
+      "title": "Eligibility Assessment of Participants under SkillsFuture Mid-Career Training Allowance Scheme",
+      "sector_classification": "Labour & Workforce",
+      "sector_confidence": 0.1802,
+      "sector_confidence_band": "Medium"
+    },
+    {
+      "title": "Employer Compliance Rates for Local Qualifying Salary and Progressive Wage Requirements",
+      "sector_classification": "Labour & Workforce",
+      "sector_confidence": 0.2231,
+      "sector_confidence_band": "Medium"
+    },
+    {
+      "title": "Employer Data Submission for Compliance Monitoring of Progressive Wage Model and Local Qualifying Salary Requirements",
+      "sector_classification": "Labour & Workforce",
+      "sector_confidence": 0.2214,
+      "sector_confidence_band": "Medium"
+    },
+    {
+      "title": "Enforcing Employment of Foreign Manpower Act 1990 to Curb Illegal Freelance Work in Creative Sector",
+      "sector_classification": "Labour & Workforce",
+      "sector_confidence": 0.2575,
+      "sector_confidence_band": "Medium"
+    },
+    {
+      "title": "Enhanced Regulatory Measures for Private Food Delivery Companies on Safety and Traffic Compliance of Delivery Personnel",
+      "sector_classification": "Transport",
+      "sector_confidence": 0.2432,
+      "sector_confidence_band": "Medium"
+    },
+    {
+      "title": "Enhancing Accountability Measures for Errant Assisted Mobility Device Users Involved in Fire Incidents",
+      "sector_classification": "Transport",
+      "sector_confidence": 0.2696,
+      "sector_confidence_band": "Medium"
+    },
+    {
+      "title": "Enrolling Persons below 40 with Multiple Chronic Health Conditions in Healthier SG Programme",
+      "sector_classification": "Healthcare",
+      "sector_confidence": 0.492,
+      "sector_confidence_band": "High"
+    },
+    {
+      "title": "Ensuring Materials from Unlicensed Financial Advisors Still Accessible Online No Longer Carry Risk of Misleading Consumers",
+      "sector_classification": "Financial Services",
+      "sector_confidence": 0.1538,
+      "sector_confidence_band": "Low / Needs Review"
+    },
+    {
+      "title": "Establishing Collaboration between NIE and ECDA for Brain-based Learning across Learning Profiles and Integrating Adaptive AI in Education System",
+      "sector_classification": "Education",
+      "sector_confidence": 0.4242,
+      "sector_confidence_band": "High"
+    },
+    {
+      "title": "Expanding Learning Support Programmes to Include all Primary School Subjects and Levels",
+      "sector_classification": "Education",
+      "sector_confidence": 0.5513,
+      "sector_confidence_band": "High"
+    },
+    {
+      "title": "Expanding SkillsFuture Credit Eligibility for Subscription to AI Productivity Tools",
+      "sector_classification": "Education",
+      "sector_confidence": 0.2771,
+      "sector_confidence_band": "Medium"
+    },
+    {
+      "title": "Expanding Uses of CDA Funds and Applying Means-testing to CDA Top-ups for More Equitable Assistance to Lower-income Households",
+      "sector_classification": "Social & Family Policy",
+      "sector_confidence": 0.1849,
+      "sector_confidence_band": "Medium"
+    },
+    {
+      "title": "Expansion Plans on Intergenerational Co-living Models for Next Three to Five Years",
+      "sector_classification": "Healthcare",
+      "sector_confidence": 0.1881,
+      "sector_confidence_band": "Medium"
+    },
+    {
+      "title": "Expansion of Target Screening and Counselling for Women Aged 40 to 50 in Primary Care and Community Settings",
+      "sector_classification": "Healthcare",
+      "sector_confidence": 0.43,
+      "sector_confidence_band": "High"
+    },
+    {
+      "title": "Expediting Review of Penalty Framework against Sellers and Users of Non-compliant Personal Mobility Devices",
+      "sector_classification": "Transport",
+      "sector_confidence": 0.2748,
+      "sector_confidence_band": "Medium"
+    },
+    {
+      "title": "Extending Concession Pass Price Reductions beyond Adults, Seniors and PwDs in view of Transport Fare Increase in December 2025",
+      "sector_classification": "Transport",
+      "sector_confidence": 0.284,
+      "sector_confidence_band": "Medium"
+    },
+    {
+      "title": "Extending Expiry Date of Unused $500 SkillsFuture Credits",
+      "sector_classification": "Education",
+      "sector_confidence": 0.1767,
+      "sector_confidence_band": "Medium"
+    },
+    {
+      "title": "Feeder Bus Service for Compassvale Crescent Residents",
+      "sector_classification": "Transport",
+      "sector_confidence": 0.4153,
+      "sector_confidence_band": "High"
+    },
+    {
+      "title": "Findings from Crane Incident at HDB Worksite in Sin Ming on 10 October 2025",
+      "sector_classification": "Labour & Workforce",
+      "sector_confidence": 0.1619,
+      "sector_confidence_band": "Medium"
+    },
+    {
+      "title": "Follow-up Actions to Rectify Restrictions for Persons Acquitted as Scam Mules",
+      "sector_classification": "Defence & Home Affairs",
+      "sector_confidence": 0.2944,
+      "sector_confidence_band": "Medium"
+    },
+    {
+      "title": "Foreign Participation in Singapore's Commercial and Industrial Property Markets over Past Five Years",
+      "sector_classification": "Housing & Property",
+      "sector_confidence": 0.1634,
+      "sector_confidence_band": "Medium"
+    },
+    {
+      "title": "Full-time NSFs Declaring Psychological or Mental Health Conditions Prior to Enlistment and Support Provided",
+      "sector_classification": "Healthcare",
+      "sector_confidence": 0.1899,
+      "sector_confidence_band": "Medium"
+    },
+    {
+      "title": "Governance, Regulatory and Commercial Factors to Address to Enable Smooth and Reliable Wind Power Imports under Vietnam-Malaysia-Singapore Agreement",
+      "sector_classification": "Other / Cross-cutting",
+      "sector_confidence": 0.1456,
+      "sector_confidence_band": "Low / Needs Review"
+    },
+    {
+      "title": "Groups Exempted from Caning for Vaping-related Trafficking Offences",
+      "sector_classification": "Defence & Home Affairs",
+      "sector_confidence": 0.1719,
+      "sector_confidence_band": "Medium"
+    },
+    {
+      "title": "Impact of HDB Resale Prices on Process of Valuing Land for BTO Flats",
+      "sector_classification": "Housing & Property",
+      "sector_confidence": 0.4001,
+      "sector_confidence_band": "High"
+    },
+    {
+      "title": "Impact of NUS' Five-day Work-from-office Policy on Talent Acquisition",
+      "sector_classification": "Labour & Workforce",
+      "sector_confidence": 0.1579,
+      "sector_confidence_band": "Low / Needs Review"
+    },
+    {
+      "title": "Implications of China’s Export Curb of Rare Earth Element Materials on Singapore's Trade and Technology Sectors",
+      "sector_classification": "Environment",
+      "sector_confidence": 0.1303,
+      "sector_confidence_band": "Low / Needs Review"
+    },
+    {
+      "title": "Improving Work-life Balance and Mental Well-being of Educators in View of OECD Teaching and Learning International Survey 2024 Findings",
+      "sector_classification": "Education",
+      "sector_confidence": 0.2243,
+      "sector_confidence_band": "Medium"
+    },
+    {
+      "title": "Incorporating Animal Welfare and Anti-cruelty Themes and Modules in School Syllabus",
+      "sector_classification": "Education",
+      "sector_confidence": 0.2731,
+      "sector_confidence_band": "Medium"
+    },
+    {
+      "title": "Increasing Intake for Educational Psychology Master's Programmes to Support Needs and Development of Neurodiverse Children",
+      "sector_classification": "Education",
+      "sector_confidence": 0.4941,
+      "sector_confidence_band": "High"
+    },
+    {
+      "title": "Investigations into Child Trafficking and Illegal Adoptions in Last Five Years Resulting in Prosecutions and Convictions",
+      "sector_classification": "Defence & Home Affairs",
+      "sector_confidence": 0.2132,
+      "sector_confidence_band": "Medium"
+    },
+    {
+      "title": "Learning Points from Discontinued Marine Parade Shuttle Bus Trial",
+      "sector_classification": "Transport",
+      "sector_confidence": 0.1837,
+      "sector_confidence_band": "Medium"
+    },
+    {
+      "title": "Lessons from Overseas Counterparts for Google's Implementation of Age Assurance Measures",
+      "sector_classification": "Digital Economy & Tech",
+      "sector_confidence": 0.4335,
+      "sector_confidence_band": "High"
+    },
+    {
+      "title": "Lessons from Recent Spate of Gastroenteritis Outbreaks at Preschools",
+      "sector_classification": "Education",
+      "sector_confidence": 0.2122,
+      "sector_confidence_band": "Medium"
+    },
+    {
+      "title": "Lift Installation for Pedestrian Overhead Bridges across CTE and PIE Connecting Whampoa to Neighbouring Towns to Enhance Accessibility for Seniors",
+      "sector_classification": "Transport",
+      "sector_confidence": 0.197,
+      "sector_confidence_band": "Medium"
+    },
+    {
+      "title": "Long-term Support and Compensation Available for Teachers Injured or Disabled during Classroom Incidents",
+      "sector_classification": "Education",
+      "sector_confidence": 0.1405,
+      "sector_confidence_band": "Low / Needs Review"
+    },
+    {
+      "title": "Long-term Sustainability of Annual Public Transport Subsidies, Impacts on Future Fare-setting and Transparency Safeguards in Subsidy Allocation",
+      "sector_classification": "Transport",
+      "sector_confidence": 0.3215,
+      "sector_confidence_band": "High"
+    },
+    {
+      "title": "Managing Usage, Hogging and Cost of EV Charging Stations at Public Car Parks",
+      "sector_classification": "Transport",
+      "sector_confidence": 0.1822,
+      "sector_confidence_band": "Medium"
+    },
+    {
+      "title": "Mandating Employers to Notify MOM Prior to Retrenchment Exercises",
+      "sector_classification": "Labour & Workforce",
+      "sector_confidence": 0.2444,
+      "sector_confidence_band": "Medium"
+    },
+    {
+      "title": "Measures to Ensure Singaporeans without Permanent Addresses Are Not Excluded from Government Support Schemes",
+      "sector_classification": "Social & Family Policy",
+      "sector_confidence": 0.2028,
+      "sector_confidence_band": "Medium"
+    },
+    {
+      "title": "Media Coverage of Large Lottery Wins and Managing Problem Gambling",
+      "sector_classification": "Digital Economy & Tech",
+      "sector_confidence": 0.2298,
+      "sector_confidence_band": "Medium"
+    },
+    {
+      "title": "Mental Health Assessments for Police, Police NSFs and Auxiliary Police Officers Handling Firearms",
+      "sector_classification": "Defence & Home Affairs",
+      "sector_confidence": 0.3892,
+      "sector_confidence_band": "High"
+    },
+    {
+      "title": "Mental and Emotional Well-being Support for Educators in Special Education Schools",
+      "sector_classification": "Education",
+      "sector_confidence": 0.5363,
+      "sector_confidence_band": "High"
+    },
+    {
+      "title": "Monitoring of Cases and Actions Taken against Errant Insurance Companies Preventing Legitimate Claims",
+      "sector_classification": "Financial Services",
+      "sector_confidence": 0.6426,
+      "sector_confidence_band": "High"
+    },
+    {
+      "title": "NEL Morning Peak Hour Commuter Boarding Patterns from Punggol Coast to Kovan MRT for CBD versus non-CBD Destinations",
+      "sector_classification": "Transport",
+      "sector_confidence": 0.2658,
+      "sector_confidence_band": "Medium"
+    },
+    {
+      "title": "Need for Clarification on Statements made by the Leader of the Opposition",
+      "sector_classification": "Other / Cross-cutting",
+      "sector_confidence": 0.2093,
+      "sector_confidence_band": "Medium"
+    },
+    {
+      "title": "New Initiatives for Support and Outreach to Senior Caregivers with Dependents",
+      "sector_classification": "Social & Family Policy",
+      "sector_confidence": 0.2015,
+      "sector_confidence_band": "Medium"
+    },
+    {
+      "title": "Notifying Families of Death Row Prisoners on Executions and Permitting of Final Visits or Calls",
+      "sector_classification": "Defence & Home Affairs",
+      "sector_confidence": 0.3921,
+      "sector_confidence_band": "High"
+    },
+    {
+      "title": "Number of Appeal Cases Annually Since Commencement of CareShield Life and Follow-up Actions for Improvements",
+      "sector_classification": "Healthcare",
+      "sector_confidence": 0.2255,
+      "sector_confidence_band": "Medium"
+    },
+    {
+      "title": "Number of Dementia-afflicted Patients Over Five-Year Period and Future Projections for Singapore",
+      "sector_classification": "Healthcare",
+      "sector_confidence": 0.3285,
+      "sector_confidence_band": "High"
+    },
+    {
+      "title": "Number of Finance, Accounting, Human Resources and IT Positions Outsourced or Relocated Overseas",
+      "sector_classification": "Labour & Workforce",
+      "sector_confidence": 0.2657,
+      "sector_confidence_band": "Medium"
+    },
+    {
+      "title": "Number of Non-compliant Noise Levels at HDB BTO Construction Sites in Fernvale between August to October 2025",
+      "sector_classification": "Environment",
+      "sector_confidence": 0.3285,
+      "sector_confidence_band": "High"
+    },
+    {
+      "title": "Outcomes of Efforts to Preserve Orderliness in and around Waterloo Mall Given Illegal Hawking",
+      "sector_classification": "Social & Family Policy",
+      "sector_confidence": 0.1162,
+      "sector_confidence_band": "Low / Needs Review"
+    },
+    {
+      "title": "Partnership Arrangements between Special Education and Mainstream Schools",
+      "sector_classification": "Education",
+      "sector_confidence": 0.479,
+      "sector_confidence_band": "High"
+    },
+    {
+      "title": "Percentage of Challenging Questions in 2025 PSLE Main Subject Papers",
+      "sector_classification": "Education",
+      "sector_confidence": 0.257,
+      "sector_confidence_band": "Medium"
+    },
+    {
+      "title": "Possible Integration of Lifestyle Medicine as Preventive Care under Healthier SG",
+      "sector_classification": "Healthcare",
+      "sector_confidence": 0.4395,
+      "sector_confidence_band": "High"
+    },
+    {
+      "title": "Post-graduation Employment Rates of ITE Graduates with Special Educational Needs",
+      "sector_classification": "Labour & Workforce",
+      "sector_confidence": 0.2851,
+      "sector_confidence_band": "Medium"
+    },
+    {
+      "title": "Potential Impact of Johor-Singapore Special Economic Zone on Competitiveness of Singapore's Maritime and Aviation Hubs",
+      "sector_classification": "Transport",
+      "sector_confidence": 0.1318,
+      "sector_confidence_band": "Low / Needs Review"
+    },
+    {
+      "title": "Prevalence of Anxiety and Depressive Symptoms Screened among Women Aged 40 to 59 in Public Primary Care over Past Five Years",
+      "sector_classification": "Healthcare",
+      "sector_confidence": 0.4022,
+      "sector_confidence_band": "High"
+    },
+    {
+      "title": "Professionalising Skilled Trades",
+      "sector_classification": "Labour & Workforce",
+      "sector_confidence": 0.1918,
+      "sector_confidence_band": "Medium"
+    },
+    {
+      "title": "Programmes to Maintain Employment Stability and Attract MNC Investments amidst Staff Cut Announcements",
+      "sector_classification": "Labour & Workforce",
+      "sector_confidence": 0.3473,
+      "sector_confidence_band": "High"
+    },
+    {
+      "title": "Proportion of Hoarding Cases Monitored by NEAT Resulting in Enforcement Actions",
+      "sector_classification": "Housing & Property",
+      "sector_confidence": 0.1654,
+      "sector_confidence_band": "Medium"
+    },
+    {
+      "title": "Protocols for Triaging and Referral of Scam Victims with Signs of Acute Psychological Distress",
+      "sector_classification": "Defence & Home Affairs",
+      "sector_confidence": 0.209,
+      "sector_confidence_band": "Medium"
+    },
+    {
+      "title": "Providing Affordable Vehicle Access for Families with Special Needs and Elderly Dependants in View of Rising COE Prices",
+      "sector_classification": "Transport",
+      "sector_confidence": 0.1747,
+      "sector_confidence_band": "Medium"
+    },
+    {
+      "title": "Provision of Alternative Shuttle Bus Services for Commuters Affected by Early Closure of Circle Line Train Services",
+      "sector_classification": "Transport",
+      "sector_confidence": 0.3105,
+      "sector_confidence_band": "High"
+    },
+    {
+      "title": "Publicising Removal of Criterion of At Least One Local Employee for Energy Efficiency Grant",
+      "sector_classification": "Environment",
+      "sector_confidence": 0.1795,
+      "sector_confidence_band": "Medium"
+    },
+    {
+      "title": "Publishing Updated 2015 Occasional Paper on Income Growth, Inequality and Mobility Trends in Singapore",
+      "sector_classification": "Other / Cross-cutting",
+      "sector_confidence": 0.1985,
+      "sector_confidence_band": "Medium"
+    },
+    {
+      "title": "Punitive Actions against Individuals Involved in Sale of Bank Accounts for Scam Purposes",
+      "sector_classification": "Defence & Home Affairs",
+      "sector_confidence": 0.2526,
+      "sector_confidence_band": "Medium"
+    },
+    {
+      "title": "Reclassification of Protected Species' Status of Wildlife Animals that Have Caused Repeated Economic Damage to Private Property",
+      "sector_classification": "Housing & Property",
+      "sector_confidence": 0.1359,
+      "sector_confidence_band": "Low / Needs Review"
+    },
+    {
+      "title": "Reducing Average Waiting Time for Beds in Nursing Homes",
+      "sector_classification": "Healthcare",
+      "sector_confidence": 0.1917,
+      "sector_confidence_band": "Medium"
+    },
+    {
+      "title": "Regulatory Safeguards for Users of E-commerce Platforms Facilitating Consumer-to-consumer Transactions",
+      "sector_classification": "Defence & Home Affairs",
+      "sector_confidence": 0.2322,
+      "sector_confidence_band": "Medium"
+    },
+    {
+      "title": "Regulatory and Deployment Standards for Use of Vape Detection Sensors in Schools and Public Institutions",
+      "sector_classification": "Healthcare",
+      "sector_confidence": 0.192,
+      "sector_confidence_band": "Medium"
+    },
+    {
+      "title": "Reliance on A Few Major Cloud Providers and Assessment of Security Risk to Singapore",
+      "sector_classification": "Digital Economy & Tech",
+      "sector_confidence": 0.1717,
+      "sector_confidence_band": "Medium"
+    },
+    {
+      "title": "Residents' Concerns that Laundry Rack Designs under Home Improvement Programme may be Impractical and Problematic",
+      "sector_classification": "Housing & Property",
+      "sector_confidence": 0.2642,
+      "sector_confidence_band": "Medium"
+    },
+    {
+      "title": "Review of Current Vehicle Licence Classifications for Electric Vehicles",
+      "sector_classification": "Defence & Home Affairs",
+      "sector_confidence": 0.1878,
+      "sector_confidence_band": "Medium"
+    },
+    {
+      "title": "Review of Definitions for Public Order Act on Gatherings Outside Istana",
+      "sector_classification": "Defence & Home Affairs",
+      "sector_confidence": 0.1682,
+      "sector_confidence_band": "Medium"
+    },
+    {
+      "title": "Review of Policies on Location, Frequency and Design of Designated Smoking Areas within Municipal Boundaries",
+      "sector_classification": "Environment",
+      "sector_confidence": 0.1595,
+      "sector_confidence_band": "Low / Needs Review"
+    },
+    {
+      "title": "Review of Public Transport Adequacy and Late-night Transport Services for Attendees of Major Events",
+      "sector_classification": "Transport",
+      "sector_confidence": 0.3423,
+      "sector_confidence_band": "High"
+    },
+    {
+      "title": "Reviewing School Counsellor Reporting Structures and Providing Training on Counselling Ethics to Enhance Confidentiality and Trust",
+      "sector_classification": "Education",
+      "sector_confidence": 0.4269,
+      "sector_confidence_band": "High"
+    },
+    {
+      "title": "Reviews and Audits of Course Listings on SkillsFuture Career Transition Programme Portal",
+      "sector_classification": "Education",
+      "sector_confidence": 0.2161,
+      "sector_confidence_band": "Medium"
+    },
+    {
+      "title": "Safeguarding Sensitive Information when Sharing Classified Threat Intelligence with Critical Sector Organisations",
+      "sector_classification": "Digital Economy & Tech",
+      "sector_confidence": 0.1637,
+      "sector_confidence_band": "Medium"
+    },
+    {
+      "title": "Safeguards to Ensure Singapore Family Offices are Not Misused to Facilitate Money Laundering",
+      "sector_classification": "Social & Family Policy",
+      "sector_confidence": 0.1247,
+      "sector_confidence_band": "Low / Needs Review"
+    },
+    {
+      "title": "School Meal Safety Standards and Continuity Measures with Implementation of Centralised Kitchen Model",
+      "sector_classification": "Environment",
+      "sector_confidence": 0.3182,
+      "sector_confidence_band": "High"
+    },
+    {
+      "title": "Singapore Sign Language as Elective for Secondary School Students",
+      "sector_classification": "Education",
+      "sector_confidence": 0.5348,
+      "sector_confidence_band": "High"
+    },
+    {
+      "title": "Singapore's Money Laundering Investigations into Cambodia-based Network Designated as Transnational Criminal Organisation",
+      "sector_classification": "Financial Services",
+      "sector_confidence": 0.1148,
+      "sector_confidence_band": "Low / Needs Review"
+    },
+    {
+      "title": "Singapore's Stance on Maritime Jurisdiction in Light of Interception of Global Sumud Flotilla",
+      "sector_classification": "Defence & Home Affairs",
+      "sector_confidence": 0.1456,
+      "sector_confidence_band": "Low / Needs Review"
+    },
+    {
+      "title": "Slowdown on Hiring of New Nursing Degree Graduates and/or Early-Career Nurses at Restructured Hospitals",
+      "sector_classification": "Healthcare",
+      "sector_confidence": 0.2438,
+      "sector_confidence_band": "Medium"
+    },
+    {
+      "title": "Staff to Child Ratio in Preschools and Student Care Centres",
+      "sector_classification": "Social & Family Policy",
+      "sector_confidence": 0.2582,
+      "sector_confidence_band": "Medium"
+    },
+    {
+      "title": "Standardising and Capping Medical Report Fees for Activation of LPA across Different Hospitals to Prevent Disparities",
+      "sector_classification": "Healthcare",
+      "sector_confidence": 0.3356,
+      "sector_confidence_band": "High"
+    },
+    {
+      "title": "Standards to Deter Child Trafficking in Cross-border Adoptions in ASEAN",
+      "sector_classification": "Social & Family Policy",
+      "sector_confidence": 0.1725,
+      "sector_confidence_band": "Medium"
+    },
+    {
+      "title": "Statistics for Tours, Educational Visits and Public Engagement Activities at Local Farms",
+      "sector_classification": "Environment",
+      "sector_confidence": 0.2165,
+      "sector_confidence_band": "Medium"
+    },
+    {
+      "title": "Statistics on Mobile Dental Clinics Serving Schools without Dental Clinics",
+      "sector_classification": "Education",
+      "sector_confidence": 0.2039,
+      "sector_confidence_band": "Medium"
+    },
+    {
+      "title": "Statutory Study and Training Leave Policies in Other Countries that May Be Feasible for Singapore",
+      "sector_classification": "Labour & Workforce",
+      "sector_confidence": 0.2355,
+      "sector_confidence_band": "Medium"
+    },
+    {
+      "title": "Strategies to Support SMEs Participation in GRaduate Industry Traineeships Programme",
+      "sector_classification": "Labour & Workforce",
+      "sector_confidence": 0.2923,
+      "sector_confidence_band": "Medium"
+    },
+    {
+      "title": "Strengthening Engineering Talent Pipelines through Aligning with Emerging Industries and Public Sector Hiring",
+      "sector_classification": "Education",
+      "sector_confidence": 0.2189,
+      "sector_confidence_band": "Medium"
+    },
+    {
+      "title": "Strengthening the Mental Resilience of Our Young",
+      "sector_classification": "Education",
+      "sector_confidence": 0.3322,
+      "sector_confidence_band": "High"
+    },
+    {
+      "title": "Students Progressing from Special Education School into ITE Progammes",
+      "sector_classification": "Education",
+      "sector_confidence": 0.5493,
+      "sector_confidence_band": "High"
+    },
+    {
+      "title": "Study on Lottery Gambling Addiction and Review of Policy of Not Requiring Identification for Lottery Purchases at Singapore Pools Physical Outlets",
+      "sector_classification": "Social & Family Policy",
+      "sector_confidence": 0.1233,
+      "sector_confidence_band": "Low / Needs Review"
+    },
+    {
+      "title": "Support for Children Diagnosed with Rare Diseases that Require High-cost or Long-term Treatment",
+      "sector_classification": "Healthcare",
+      "sector_confidence": 0.3044,
+      "sector_confidence_band": "High"
+    },
+    {
+      "title": "Support for Smaller Firms to Achieve Workplace Safety and Health Accreditation",
+      "sector_classification": "Labour & Workforce",
+      "sector_confidence": 0.1592,
+      "sector_confidence_band": "Low / Needs Review"
+    },
+    {
+      "title": "Tackling Food Safety Incidence at Schools and Institutes of Higher Learning",
+      "sector_classification": "Education",
+      "sector_confidence": 0.3024,
+      "sector_confidence_band": "High"
+    },
+    {
+      "title": "Tax Incentives Received by Singapore Family Office Associated with Individuals Sanctioned by US in October 2025",
+      "sector_classification": "Social & Family Policy",
+      "sector_confidence": 0.1381,
+      "sector_confidence_band": "Low / Needs Review"
+    },
+    {
+      "title": "Timeline Updates on Roll-out Plan for Active Ageing Centres within Private Estates",
+      "sector_classification": "Healthcare",
+      "sector_confidence": 0.1767,
+      "sector_confidence_band": "Medium"
+    },
+    {
+      "title": "Tracking Knife Crimes Involving Offenders with Mental Health Issues",
+      "sector_classification": "Defence & Home Affairs",
+      "sector_confidence": 0.185,
+      "sector_confidence_band": "Medium"
+    },
+    {
+      "title": "Tracking of Annual Malnutrition Rates Among Seniors for Past Five Years",
+      "sector_classification": "Healthcare",
+      "sector_confidence": 0.257,
+      "sector_confidence_band": "Medium"
+    },
+    {
+      "title": "Unfair Contractual Terms in Career Conversion Programmes that Require Trainees to Pay Compensation for Termination",
+      "sector_classification": "Labour & Workforce",
+      "sector_confidence": 0.1844,
+      "sector_confidence_band": "Medium"
+    },
+    {
+      "title": "Update on Jobs Transformation Maps and Support Available for Mid-Career Employees and Sectors Undergoing Restructuring",
+      "sector_classification": "Labour & Workforce",
+      "sector_confidence": 0.348,
+      "sector_confidence_band": "High"
+    },
+    {
+      "title": "Update on Police Efforts to Tackle Bullying and Assault Incidents Outside Temples along Waterloo Mall",
+      "sector_classification": "Defence & Home Affairs",
+      "sector_confidence": 0.1968,
+      "sector_confidence_band": "Medium"
+    },
+    {
+      "title": "Update on Review of Direct School Admission Scheme",
+      "sector_classification": "Education",
+      "sector_confidence": 0.2192,
+      "sector_confidence_band": "Medium"
+    },
+    {
+      "title": "Update on whether Two-day Work-from-home Arrangement Remains as Default Policy in Civil Service",
+      "sector_classification": "Labour & Workforce",
+      "sector_confidence": 0.1604,
+      "sector_confidence_band": "Medium"
+    },
+    {
+      "title": "Updating Organ Donation Scheme by Strengthening Legislation and Consolidating Donations under National Registry",
+      "sector_classification": "Healthcare",
+      "sector_confidence": 0.2613,
+      "sector_confidence_band": "Medium"
+    },
+    {
+      "title": "Upgrading Costs and Plans for Eunos Community Club",
+      "sector_classification": "Other / Cross-cutting",
+      "sector_confidence": 0.1647,
+      "sector_confidence_band": "Medium"
+    },
+    {
+      "title": "Usage Statistics for Free Marine Parade Shuttle Bus Service and Cost Assessment of Programme",
+      "sector_classification": "Transport",
+      "sector_confidence": 0.2317,
+      "sector_confidence_band": "Medium"
+    },
+    {
+      "title": "Utilisation Pattern of Child Development Accounts over Last Five Years During Children's Primary School Years",
+      "sector_classification": "Education",
+      "sector_confidence": 0.1923,
+      "sector_confidence_band": "Medium"
+    },
+    {
+      "title": "Utilisation Rate of SG60 Credit Top-Up for ActiveSG Users",
+      "sector_classification": "Other / Cross-cutting",
+      "sector_confidence": 0.1185,
+      "sector_confidence_band": "Low / Needs Review"
+    },
+    {
+      "title": "Utilisation Rates of SkillsFuture Credits to Offset Tuition Fees at Autonomous Universities over Past Five Years",
+      "sector_classification": "Education",
+      "sector_confidence": 0.243,
+      "sector_confidence_band": "Medium"
+    },
+    {
+      "title": "Workplace Fairness (Dispute Resolution) Bill",
+      "sector_classification": "Labour & Workforce",
+      "sector_confidence": 0.2994,
+      "sector_confidence_band": "Medium"
+    }
+  ]
+}
