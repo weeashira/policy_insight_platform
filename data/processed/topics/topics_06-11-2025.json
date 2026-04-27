@@ -1,0 +1,588 @@
+{
+  "success": true,
+  "date": "06-11-2025",
+  "results": [
+    {
+      "title": "Accreditation of Clinics for Mental Health Treatments under Chronic Diseases Management Programme",
+      "meta_topic_label": "Healthcare & Mental Health",
+      "topic_id": 11,
+      "topic_probability": 0.7965999841690063
+    },
+    {
+      "title": "Addressing Capacity Constraints in Soil Disposal and Reusing Excavated Soil Waste",
+      "meta_topic_label": "Urban Planning & Estate Development",
+      "topic_id": 8,
+      "topic_probability": 0.3463999927043915
+    },
+    {
+      "title": "Assessment of Appeals by Seniors Excluded from Silver Support Scheme and Possible Review on Criteria",
+      "meta_topic_label": "Household Finance & Income Support",
+      "topic_id": 4,
+      "topic_probability": 0.5235000252723694
+    },
+    {
+      "title": "Average Processing Time for Bus Travellers at Land Checkpoints",
+      "meta_topic_label": "Road Safety & Public Security",
+      "topic_id": 6,
+      "topic_probability": 0.35760000348091125
+    },
+    {
+      "title": "BTO Projects with Waiting Times Exceeding Five Years",
+      "meta_topic_label": "Housing & Property Policy",
+      "topic_id": 0,
+      "topic_probability": 0.3418999910354614
+    },
+    {
+      "title": "Breakdown of Personal Disposable Income, Savings and Savings Rate by Citizenship Status and Entity Type over Last 10 Years",
+      "meta_topic_label": "Household Finance & Income Support",
+      "topic_id": 4,
+      "topic_probability": 0.4178999960422516
+    },
+    {
+      "title": "Breakdown of Persons under 18 Employed to Support Household Income by Education Type",
+      "meta_topic_label": "Education & Child Development",
+      "topic_id": 12,
+      "topic_probability": 0.42100000381469727
+    },
+    {
+      "title": "Cessation of Integrated Childcare Programme for Children with Mild Special Needs",
+      "meta_topic_label": "Education & Child Development",
+      "topic_id": 12,
+      "topic_probability": 0.7724999785423279
+    },
+    {
+      "title": "Clarification by Acting Minister for Culture, Community and Youth",
+      "meta_topic_label": "Community Schemes & Senior Support",
+      "topic_id": 1,
+      "topic_probability": 0.4706999957561493
+    },
+    {
+      "title": "Clarification by Minister for National Development",
+      "meta_topic_label": "Parliamentary Procedures & Foreign Affairs",
+      "topic_id": 5,
+      "topic_probability": 0.44209998846054077
+    },
+    {
+      "title": "Clarification by Minister, Prime Minister's Office",
+      "meta_topic_label": "Education & Child Development",
+      "topic_id": 12,
+      "topic_probability": 0.40400001406669617
+    },
+    {
+      "title": "Complaints Lodged by Third-party Lift Contractors on OEM Vendors' Non-adherence to Voluntary Commitments for Repairs and Warranty Periods",
+      "meta_topic_label": "Road Safety & Public Security",
+      "topic_id": 6,
+      "topic_probability": 0.6152999997138977
+    },
+    {
+      "title": "Complaints against Foreign Confinement Nannies for Past Two Years and Mandatory Safety Protocols and Regulations for Work Permit Applications",
+      "meta_topic_label": "Law Enforcement & Online Safety",
+      "topic_id": 15,
+      "topic_probability": 0.3041999936103821
+    },
+    {
+      "title": "Compliance Rates in Respective Progressive Wage Model Sectors",
+      "meta_topic_label": "Labour & Workplace Relations",
+      "topic_id": 9,
+      "topic_probability": 0.784500002861023
+    },
+    {
+      "title": "Congestion along Kovan-Serangoon Corridor Given New BTO Project",
+      "meta_topic_label": "Urban Planning & Estate Development",
+      "topic_id": 8,
+      "topic_probability": 0.6359000205993652
+    },
+    {
+      "title": "Considerations for Land Area Proportion for Roads at Car-Lite Zoned Public Housing Estates",
+      "meta_topic_label": "Road Safety & Public Security",
+      "topic_id": 6,
+      "topic_probability": 0.4934000074863434
+    },
+    {
+      "title": "Current Regulations and Guidelines on Overtime Hours and Permissible Work Hours for Employees in Security Sectors",
+      "meta_topic_label": "Road Safety & Public Security",
+      "topic_id": 6,
+      "topic_probability": 0.3377000093460083
+    },
+    {
+      "title": "Data on Processing Time for PDGE Applications and Withdrawal Rates Due to Prolonged Application Timelines in Last Three Years",
+      "meta_topic_label": "Labour & Workplace Relations",
+      "topic_id": 9,
+      "topic_probability": 0.27250000834465027
+    },
+    {
+      "title": "Data on Singaporeans in Critical Care Requiring Land-based Repatriation and Update on Foreign Private Ambulance Operators Accreditation Scheme",
+      "meta_topic_label": "Healthcare & Mental Health",
+      "topic_id": 11,
+      "topic_probability": 0.5303000211715698
+    },
+    {
+      "title": "Decision-making Authority for Prosecution of Suspected Offences under Part 9 of Administration of Muslim Law Act",
+      "meta_topic_label": "Law Enforcement & Online Safety",
+      "topic_id": 15,
+      "topic_probability": 0.7199000120162964
+    },
+    {
+      "title": "Demographic Statistics to Determine Intended Intake of New PRs and Citizens",
+      "meta_topic_label": "Household Finance & Income Support",
+      "topic_id": 4,
+      "topic_probability": 0.2775999903678894
+    },
+    {
+      "title": "Deployment of Agentic AI Systems in Civil Service and HR Policies to Support Officers Made Redundant",
+      "meta_topic_label": "Law Enforcement & Online Safety",
+      "topic_id": 15,
+      "topic_probability": 0.4004000127315521
+    },
+    {
+      "title": "Detecting and Preventing Misuse of SkillsFuture Credits",
+      "meta_topic_label": "Workforce Support & Business Grants",
+      "topic_id": 2,
+      "topic_probability": 0.3716999888420105
+    },
+    {
+      "title": "Effectiveness of Nutri-grade Labelling System on Lowered Consumption of High-sugar and Saturated Fats Pre-packaged Foods",
+      "meta_topic_label": "Law Enforcement & Online Safety",
+      "topic_id": 15,
+      "topic_probability": 0.20990000665187836
+    },
+    {
+      "title": "Effectiveness of Penalties under Animals and Birds Act 1965 to Deter Animal Abuse",
+      "meta_topic_label": "Parliamentary Procedures & Foreign Affairs",
+      "topic_id": 5,
+      "topic_probability": 0.6410999894142151
+    },
+    {
+      "title": "Employer's Awareness on Tripartite Standard on Unpaid Leave for Unexpected Care Needs",
+      "meta_topic_label": "Caregiving & Family Leave",
+      "topic_id": 13,
+      "topic_probability": 0.39169999957084656
+    },
+    {
+      "title": "Employing AI Technologies to Review CCTV Recordings to Uncover Wrongdoing in Preschools",
+      "meta_topic_label": "Law Enforcement & Online Safety",
+      "topic_id": 15,
+      "topic_probability": 0.43389999866485596
+    },
+    {
+      "title": "Enforcing Penalties and Interventions against Repeated High-rise Littering Offences",
+      "meta_topic_label": "Law Enforcement & Online Safety",
+      "topic_id": 15,
+      "topic_probability": 0.3328999876976013
+    },
+    {
+      "title": "Enhanced SGX-Listed Entities Disclosure Requirements for Foreign Regulatory Investigations and Settlements",
+      "meta_topic_label": "Law Enforcement & Online Safety",
+      "topic_id": 15,
+      "topic_probability": 0.3781999945640564
+    },
+    {
+      "title": "Ensuring Network Quality Maintenance with Greater Infrastructure Investment after Simba-M1 Consolidation",
+      "meta_topic_label": "Road Safety & Public Security",
+      "topic_id": 6,
+      "topic_probability": 0.38109999895095825
+    },
+    {
+      "title": "Environmental and Biodiversity Studies of Forest along Sungei Serangoon in Light of Construction Works",
+      "meta_topic_label": "Urban Planning & Estate Development",
+      "topic_id": 8,
+      "topic_probability": 0.43779999017715454
+    },
+    {
+      "title": "Evaluation on Vape Detection Sensors Usage in Schools and Institutes of Higher Learning",
+      "meta_topic_label": "Education & Child Development",
+      "topic_id": 12,
+      "topic_probability": 0.35190001130104065
+    },
+    {
+      "title": "Expanding Dental Services Offered At Polyclinics",
+      "meta_topic_label": "Healthcare & Mental Health",
+      "topic_id": 11,
+      "topic_probability": 0.5199000239372253
+    },
+    {
+      "title": "Expected Cost for Upcoming Free Off-peak Rides Pilot",
+      "meta_topic_label": "Urban Planning & Estate Development",
+      "topic_id": 8,
+      "topic_probability": 0.31679999828338623
+    },
+    {
+      "title": "Expected Layoffs in Petrochemical Industries following Retrenchment by US Energy Company of 500 Staff in Singapore",
+      "meta_topic_label": "Workforce Support & Business Grants",
+      "topic_id": 2,
+      "topic_probability": 0.6793000102043152
+    },
+    {
+      "title": "Extending Clean and Green Singapore Day Events to More Residents",
+      "meta_topic_label": "Urban Planning & Estate Development",
+      "topic_id": 8,
+      "topic_probability": 0.29649999737739563
+    },
+    {
+      "title": "Factors Leading to Higher Number of Babies in 2024 and Singapore's Long-term Parameter for Infrastructure Planning with Population Crossing Six Million-mark",
+      "meta_topic_label": "Community Schemes & Senior Support",
+      "topic_id": 1,
+      "topic_probability": 0.21330000460147858
+    },
+    {
+      "title": "Finance (Income Taxes) Bill",
+      "meta_topic_label": "Trade, Energy & Consumer Affairs",
+      "topic_id": 10,
+      "topic_probability": 0.2824000120162964
+    },
+    {
+      "title": "First Responder Agency for Enforcing Late Night Noise Violations",
+      "meta_topic_label": "Parliamentary Procedures & Foreign Affairs",
+      "topic_id": 5,
+      "topic_probability": 0.37119999527931213
+    },
+    {
+      "title": "Framework and Duration for Vape Addicts' Treatment and Rehabilitation",
+      "meta_topic_label": "Community Schemes & Senior Support",
+      "topic_id": 1,
+      "topic_probability": 0.2547000050544739
+    },
+    {
+      "title": "Frequency of Maintenance of Nature Trails and Typical Downtime",
+      "meta_topic_label": "Housing & Property Policy",
+      "topic_id": 0,
+      "topic_probability": 0.5236999988555908
+    },
+    {
+      "title": "Implementing Requirements for Dual Gender Supervision for Preschool Staff Interactions",
+      "meta_topic_label": "Education & Child Development",
+      "topic_id": 12,
+      "topic_probability": 0.49540001153945923
+    },
+    {
+      "title": "Institutionalising CCA Twinning to Enable Mixing of Students from Different Academic and Socio-economic Profiles",
+      "meta_topic_label": "Education & Child Development",
+      "topic_id": 12,
+      "topic_probability": 0.692300021648407
+    },
+    {
+      "title": "Introducing Clear Disclosure Requirements or Labelling Standards to Identify AI-generated Images on Products or Services",
+      "meta_topic_label": "Law Enforcement & Online Safety",
+      "topic_id": 15,
+      "topic_probability": 0.4595000147819519
+    },
+    {
+      "title": "Lapses Identified in Review Panel's Report on Fatal Child Abuse Incident",
+      "meta_topic_label": "Law Enforcement & Online Safety",
+      "topic_id": 15,
+      "topic_probability": 0.5740000009536743
+    },
+    {
+      "title": "Managing National Food Stockpile while Being Mindful of Wastage, Nutritional Value and Food Prices",
+      "meta_topic_label": "Law Enforcement & Online Safety",
+      "topic_id": 15,
+      "topic_probability": 0.31529998779296875
+    },
+    {
+      "title": "Measurable Targets for Enhanced Comprehensive Strategic Partnership with Australia",
+      "meta_topic_label": "Industry & Enterprise Development",
+      "topic_id": 7,
+      "topic_probability": 0.44279998540878296
+    },
+    {
+      "title": "Measures to Manage Price Volatility of Liquefied Natural Gas",
+      "meta_topic_label": "Trade, Energy & Consumer Affairs",
+      "topic_id": 10,
+      "topic_probability": 0.6553000211715698
+    },
+    {
+      "title": "Monitoring of Home-based Businesses to Ensure Fair Operations",
+      "meta_topic_label": "Law Enforcement & Online Safety",
+      "topic_id": 15,
+      "topic_probability": 0.6470999717712402
+    },
+    {
+      "title": "More Support for Workplace Leaders and Managers to Develop Competencies in Workplace Mental Well-being",
+      "meta_topic_label": "Sports, Recreation & Community",
+      "topic_id": 14,
+      "topic_probability": 0.414900004863739
+    },
+    {
+      "title": "Name Correction of Berlayer Creek Mangrove Trail at Labrador Nature Reserve to \"Berlayar\" Creek",
+      "meta_topic_label": "Parliamentary Procedures & Foreign Affairs",
+      "topic_id": 5,
+      "topic_probability": 0.4496000111103058
+    },
+    {
+      "title": "Non-Stigmatising Terminology for Children Born out of Wedlock and Inheritance Parity Solutions",
+      "meta_topic_label": "Education & Child Development",
+      "topic_id": 12,
+      "topic_probability": 0.5105999708175659
+    },
+    {
+      "title": "Opening Tengah Link to General Traffic during Off-peak Hours to Improve Connectivity",
+      "meta_topic_label": "Urban Planning & Estate Development",
+      "topic_id": 8,
+      "topic_probability": 0.4020000100135803
+    },
+    {
+      "title": "Parties Seeking Endorsement under Healthier Food Donation Recommendation for Food Donation Packs",
+      "meta_topic_label": "Healthcare & Mental Health",
+      "topic_id": 11,
+      "topic_probability": 0.37619999051094055
+    },
+    {
+      "title": "Peak Capacity of ActiveSG Gyms and Considerations for Building New Ones",
+      "meta_topic_label": "Sports, Recreation & Community",
+      "topic_id": 14,
+      "topic_probability": 0.4844000041484833
+    },
+    {
+      "title": "Plans for Additional Silver Zones",
+      "meta_topic_label": "Urban Planning & Estate Development",
+      "topic_id": 8,
+      "topic_probability": 0.5954999923706055
+    },
+    {
+      "title": "Plans to Revise Minimum Annual Leave Entitlement in Section 88A of Employment Act",
+      "meta_topic_label": "Caregiving & Family Leave",
+      "topic_id": 13,
+      "topic_probability": 0.5386999845504761
+    },
+    {
+      "title": "Prevention, Mitigation and Measures on Serious Child Abuse Cases",
+      "meta_topic_label": "Law Enforcement & Online Safety",
+      "topic_id": 15,
+      "topic_probability": 0.3531999886035919
+    },
+    {
+      "title": "Price Monitoring of EV Public Charging Services and Regulating Transparent and Affordable Pricing",
+      "meta_topic_label": "Urban Planning & Estate Development",
+      "topic_id": 8,
+      "topic_probability": 0.39910000562667847
+    },
+    {
+      "title": "Proactive Measures of Primary Care Providers to Expand Vaccination and Antiviral Capacity",
+      "meta_topic_label": "Healthcare & Mental Health",
+      "topic_id": 11,
+      "topic_probability": 0.6384000182151794
+    },
+    {
+      "title": "Processing Times of Traffic Police Summons and Preventing Repeat Offences and Licence Suspension",
+      "meta_topic_label": "Road Safety & Public Security",
+      "topic_id": 6,
+      "topic_probability": 0.4187999963760376
+    },
+    {
+      "title": "Progress of Adopting Gen AI Tools within Public Service",
+      "meta_topic_label": "Education & Child Development",
+      "topic_id": 12,
+      "topic_probability": 0.3903000056743622
+    },
+    {
+      "title": "Proportion of SkillsFuture Credits Courses Taken with Direct Relevance to Individuals' Ongoing or Future Employment",
+      "meta_topic_label": "Workforce Support & Business Grants",
+      "topic_id": 2,
+      "topic_probability": 0.3659999966621399
+    },
+    {
+      "title": "Proposal for Permanent Baby Gift to Support New Parents",
+      "meta_topic_label": "Education & Child Development",
+      "topic_id": 12,
+      "topic_probability": 0.47360000014305115
+    },
+    {
+      "title": "Public Education Efforts on Nuclear Energy for Singapore",
+      "meta_topic_label": "Trade, Energy & Consumer Affairs",
+      "topic_id": 10,
+      "topic_probability": 0.4681999981403351
+    },
+    {
+      "title": "Public Officers Registered as Well-Being@Gov Programme Users",
+      "meta_topic_label": "Healthcare & Mental Health",
+      "topic_id": 11,
+      "topic_probability": 0.2816999852657318
+    },
+    {
+      "title": "Publication of Provisional Guidelines for Adequate Support Towards Workers in Pending Cases and/or Claims",
+      "meta_topic_label": "Labour & Workplace Relations",
+      "topic_id": 9,
+      "topic_probability": 0.498199999332428
+    },
+    {
+      "title": "Publishing Detailed Findings of Nuclear Technology Study",
+      "meta_topic_label": "Trade, Energy & Consumer Affairs",
+      "topic_id": 10,
+      "topic_probability": 0.6330000162124634
+    },
+    {
+      "title": "Ratio of Teaching to Administrative Staff in Schools across Education Levels in Past Five Years",
+      "meta_topic_label": "Education & Child Development",
+      "topic_id": 12,
+      "topic_probability": 0.6057999730110168
+    },
+    {
+      "title": "Reducing Road Traffic Accidents and Fatalities Involving Motorcyclists and Pillion Riders",
+      "meta_topic_label": "Road Safety & Public Security",
+      "topic_id": 6,
+      "topic_probability": 0.6445000171661377
+    },
+    {
+      "title": "Regulation of Imports and Exports (Amendment) Bill",
+      "meta_topic_label": "Law Enforcement & Online Safety",
+      "topic_id": 15,
+      "topic_probability": 0.5594000220298767
+    },
+    {
+      "title": "Residential Noise Complaint Trends for Past Three Years and Comparison of WHO Standards with Singapore's Outdoor Noise Exposure Limits",
+      "meta_topic_label": "Road Safety & Public Security",
+      "topic_id": 6,
+      "topic_probability": 0.5598000288009644
+    },
+    {
+      "title": "Review of Childcare Leave Entitlement Based on Number of Children under Seven Years Old",
+      "meta_topic_label": "Caregiving & Family Leave",
+      "topic_id": 13,
+      "topic_probability": 0.46309998631477356
+    },
+    {
+      "title": "Review on Employment Passes' Qualifying Salary Thresholds in Light of CPF Ordinary Wage Ceiling Increase in 2026",
+      "meta_topic_label": "Labour & Workplace Relations",
+      "topic_id": 9,
+      "topic_probability": 0.7767999768257141
+    },
+    {
+      "title": "Reviewing Nutritional Standards of Budget Meal Options",
+      "meta_topic_label": "Sports, Recreation & Community",
+      "topic_id": 14,
+      "topic_probability": 0.4519999921321869
+    },
+    {
+      "title": "Reviewing Space Utilisation on New Buses to Accommodate More Assistive Devices",
+      "meta_topic_label": "Public Transport & Commuting",
+      "topic_id": 3,
+      "topic_probability": 0.32260000705718994
+    },
+    {
+      "title": "Roads with Three or More Lanes in Each Direction That Do Not Have Bus Lanes",
+      "meta_topic_label": "Road Safety & Public Security",
+      "topic_id": 6,
+      "topic_probability": 0.4108999967575073
+    },
+    {
+      "title": "Safeguarding Singapore's Reputation as Clean International Financial Centre with Good Regulatory Standards",
+      "meta_topic_label": "Parliamentary Procedures & Foreign Affairs",
+      "topic_id": 5,
+      "topic_probability": 0.3192000091075897
+    },
+    {
+      "title": "Safeguards and Support for Frontline Professionals to Promote \"Safe Reporting Culture\" to Protect Children",
+      "meta_topic_label": "Education & Child Development",
+      "topic_id": 12,
+      "topic_probability": 0.5095999836921692
+    },
+    {
+      "title": "Separate Sub-categories for Waste and Cleaning and F&B within Services Sector",
+      "meta_topic_label": "Labour & Workplace Relations",
+      "topic_id": 9,
+      "topic_probability": 0.27639999985694885
+    },
+    {
+      "title": "SingLit Books Available for Purchase with SG Culture Pass Credits",
+      "meta_topic_label": "Household Finance & Income Support",
+      "topic_id": 4,
+      "topic_probability": 0.76419997215271
+    },
+    {
+      "title": "Statistics on Peer Support Student Leaders Identified and Trained in Schools",
+      "meta_topic_label": "Education & Child Development",
+      "topic_id": 12,
+      "topic_probability": 0.7023000121116638
+    },
+    {
+      "title": "Structured Review of International Educational Survey Findings and Implementation of Policy Recommendations",
+      "meta_topic_label": "Education & Child Development",
+      "topic_id": 12,
+      "topic_probability": 0.5629000067710876
+    },
+    {
+      "title": "Successful Employment Rates of IMH's Job Club and Employment Outcomes",
+      "meta_topic_label": "Labour & Workplace Relations",
+      "topic_id": 9,
+      "topic_probability": 0.34310001134872437
+    },
+    {
+      "title": "Support Measures for Unsupervised Students during Home-based Learning Days",
+      "meta_topic_label": "Education & Child Development",
+      "topic_id": 12,
+      "topic_probability": 0.683899998664856
+    },
+    {
+      "title": "Targets and Timelines to Reduce Workload, Work Hours and Stress of Teachers",
+      "meta_topic_label": "Education & Child Development",
+      "topic_id": 12,
+      "topic_probability": 0.3352000117301941
+    },
+    {
+      "title": "The Government’s Intention to Preserve the Site of 38 Oxley Road",
+      "meta_topic_label": "Community Schemes & Senior Support",
+      "topic_id": 1,
+      "topic_probability": 0.39579999446868896
+    },
+    {
+      "title": "Tracking Commuters Unable to Board First and Second Trains During Peak Hours at North-East Line",
+      "meta_topic_label": "Public Transport & Commuting",
+      "topic_id": 3,
+      "topic_probability": 0.4223000109195709
+    },
+    {
+      "title": "Tracking Student Attendance Patterns and Identifying Causes of Absenteeism across Age Groups and Education Levels",
+      "meta_topic_label": "Education & Child Development",
+      "topic_id": 12,
+      "topic_probability": 0.7430999875068665
+    },
+    {
+      "title": "Tracking and Issuing Guidelines on Listed Prices for Subsidised Procedures at Public Hospitals",
+      "meta_topic_label": "Healthcare & Mental Health",
+      "topic_id": 11,
+      "topic_probability": 0.7261999845504761
+    },
+    {
+      "title": "Unpaid Medical Bills Incurred by Work Permit and S Pass Holders in Public Healthcare Institutions",
+      "meta_topic_label": "Healthcare & Mental Health",
+      "topic_id": 11,
+      "topic_probability": 0.42719998955726624
+    },
+    {
+      "title": "Update on NCSS' Job Fit Assessment and Referral Framework",
+      "meta_topic_label": "Healthcare & Mental Health",
+      "topic_id": 11,
+      "topic_probability": 0.5509999990463257
+    },
+    {
+      "title": "Update on Projects Involving Regional Importers Given Conditional Approvals or Licenses by EMA",
+      "meta_topic_label": "Trade, Energy & Consumer Affairs",
+      "topic_id": 10,
+      "topic_probability": 0.7059999704360962
+    },
+    {
+      "title": "Update on Renovation Works for Hougang Sports Centre and Possible Usage by Members of Public for Pickleball",
+      "meta_topic_label": "Urban Planning & Estate Development",
+      "topic_id": 8,
+      "topic_probability": 0.4814999997615814
+    },
+    {
+      "title": "Waiting Time for Children and Youths Seeking Mental Health Support",
+      "meta_topic_label": "Education & Child Development",
+      "topic_id": 12,
+      "topic_probability": 0.5763000249862671
+    },
+    {
+      "title": "Weekday Commute Times Based on LTA's Latest Household Travel Survey Separated by Household Types and Income",
+      "meta_topic_label": "Public Transport & Commuting",
+      "topic_id": 3,
+      "topic_probability": 0.24449999630451202
+    },
+    {
+      "title": "Youth Unemployment Rates from 2000 to 2024 for Groups Aged 15 to 24 and 25 to 35",
+      "meta_topic_label": "Labour & Workplace Relations",
+      "topic_id": 9,
+      "topic_probability": 0.5382000207901001
+    }
+  ]
+}

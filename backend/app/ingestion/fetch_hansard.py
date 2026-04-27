@@ -6,7 +6,7 @@ from app.utils.date_utils import is_valid_date
 
 # Config
 URL = "https://sprs.parl.gov.sg/search/getHansardReport/"
-BASE_DIR = Path.cwd().parent
+BASE_DIR = Path(__file__).resolve().parent.parent.parent.parent
 DATA_DIR = BASE_DIR / "data" / "raw"
 DATA_DIR.mkdir(parents=True, exist_ok=True)
 
@@ -56,7 +56,7 @@ if __name__ == "__main__":
     target_date = sys.argv[1]
 
     if not is_valid_date(target_date):
-        print(f"Error: '{target_date} is not in DD-MM-YYYY format")
+        print(f"Error: '{target_date}' is not in DD-MM-YYYY format")
         sys.exit(1)
 
     print(f"Initializing fetch for {target_date}...")

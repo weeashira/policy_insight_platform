@@ -47,11 +47,11 @@ def prepare_sector_input(df):
 
 def get_confidence_band(score):
     if score < 0.16:
-        return "Low confidence / Needs Review"
+        return "Low / Needs Review"
     elif score < 0.3:
-        return "Medium confidence"
+        return "Medium"
     else:
-        return "High confidence"
+        return "High"
 
 
 def run_sector_classification(date):

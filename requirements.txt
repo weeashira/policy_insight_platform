@@ -1,6 +1,11 @@
 pandas
 numpy
-scikit-learn
-matplotlib
-seaborn
-openpyxl
+requests
+joblib
+scikit-learn==1.8.0
+gensim
+nltk
+torch
+transformers
+ollama
+streamlit

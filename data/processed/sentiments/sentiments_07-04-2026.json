@@ -18,7 +18,15 @@
       "weighted_cautious": 0.6967,
       "weighted_negative": 0.0,
       "weighted_neutral": 0.0192,
-      "weighted_positive": 0.0
+      "weighted_positive": 0.0,
+      "cautious_turns": 62,
+      "negative_turns": 0,
+      "neutral_turns": 2,
+      "positive_turns": 0,
+      "cautious_pct": 96.9,
+      "negative_pct": 0.0,
+      "neutral_pct": 3.1,
+      "positive_pct": 0.0
     },
     {
       "sittingDate": "07-04-2026",
@@ -29,7 +37,15 @@
       "weighted_cautious": 0.4751,
       "weighted_negative": 0.0,
       "weighted_neutral": 0.058,
-      "weighted_positive": 0.0643
+      "weighted_positive": 0.0643,
+      "cautious_turns": 6,
+      "negative_turns": 0,
+      "neutral_turns": 1,
+      "positive_turns": 1,
+      "cautious_pct": 75.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 12.5,
+      "positive_pct": 12.5
     },
     {
       "sittingDate": "07-04-2026",
@@ -40,7 +56,15 @@
       "weighted_cautious": 0.3906,
       "weighted_negative": 0.0,
       "weighted_neutral": 0.2726,
-      "weighted_positive": 0.0
+      "weighted_positive": 0.0,
+      "cautious_turns": 13,
+      "negative_turns": 0,
+      "neutral_turns": 7,
+      "positive_turns": 0,
+      "cautious_pct": 65.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 35.0,
+      "positive_pct": 0.0
     },
     {
       "sittingDate": "07-04-2026",
@@ -51,7 +75,15 @@
       "weighted_cautious": 0.2716,
       "weighted_negative": 0.0,
       "weighted_neutral": 0.3077,
-      "weighted_positive": 0.0
+      "weighted_positive": 0.0,
+      "cautious_turns": 2,
+      "negative_turns": 0,
+      "neutral_turns": 2,
+      "positive_turns": 0,
+      "cautious_pct": 50.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 50.0,
+      "positive_pct": 0.0
     },
     {
       "sittingDate": "07-04-2026",
@@ -62,7 +94,15 @@
       "weighted_cautious": 0.5283,
       "weighted_negative": 0.0,
       "weighted_neutral": 0.0962,
-      "weighted_positive": 0.0
+      "weighted_positive": 0.0,
+      "cautious_turns": 13,
+      "negative_turns": 0,
+      "neutral_turns": 3,
+      "positive_turns": 0,
+      "cautious_pct": 81.2,
+      "negative_pct": 0.0,
+      "neutral_pct": 18.8,
+      "positive_pct": 0.0
     },
     {
       "sittingDate": "07-04-2026",
@@ -73,7 +113,15 @@
       "weighted_cautious": 0.4116,
       "weighted_negative": 0.0,
       "weighted_neutral": 0.2325,
-      "weighted_positive": 0.0
+      "weighted_positive": 0.0,
+      "cautious_turns": 6,
+      "negative_turns": 0,
+      "neutral_turns": 2,
+      "positive_turns": 0,
+      "cautious_pct": 75.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 25.0,
+      "positive_pct": 0.0
     },
     {
       "sittingDate": "07-04-2026",
@@ -84,7 +132,15 @@
       "weighted_cautious": 0.3492,
       "weighted_negative": 0.0,
       "weighted_neutral": 0.1957,
-      "weighted_positive": 0.1439
+      "weighted_positive": 0.1439,
+      "cautious_turns": 2,
+      "negative_turns": 0,
+      "neutral_turns": 1,
+      "positive_turns": 1,
+      "cautious_pct": 50.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 25.0,
+      "positive_pct": 25.0
     },
     {
       "sittingDate": "07-04-2026",
@@ -95,7 +151,15 @@
       "weighted_cautious": 0.0,
       "weighted_negative": 0.0,
       "weighted_neutral": 0.4566,
-      "weighted_positive": 0.0
+      "weighted_positive": 0.0,
+      "cautious_turns": 0,
+      "negative_turns": 0,
+      "neutral_turns": 4,
+      "positive_turns": 0,
+      "cautious_pct": 0.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 100.0,
+      "positive_pct": 0.0
     },
     {
       "sittingDate": "07-04-2026",
@@ -106,7 +170,15 @@
       "weighted_cautious": 0.3444,
       "weighted_negative": 0.0,
       "weighted_neutral": 0.0,
-      "weighted_positive": 0.4405
+      "weighted_positive": 0.4405,
+      "cautious_turns": 2,
+      "negative_turns": 0,
+      "neutral_turns": 0,
+      "positive_turns": 2,
+      "cautious_pct": 50.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "positive_pct": 50.0
     },
     {
       "sittingDate": "07-04-2026",
@@ -117,7 +189,15 @@
       "weighted_cautious": 0.4368,
       "weighted_negative": 0.0,
       "weighted_neutral": 0.2436,
-      "weighted_positive": 0.0
+      "weighted_positive": 0.0,
+      "cautious_turns": 3,
+      "negative_turns": 0,
+      "neutral_turns": 1,
+      "positive_turns": 0,
+      "cautious_pct": 75.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 25.0,
+      "positive_pct": 0.0
     },
     {
       "sittingDate": "07-04-2026",
@@ -128,7 +208,15 @@
       "weighted_cautious": 0.173,
       "weighted_negative": 0.0,
       "weighted_neutral": 0.3404,
-      "weighted_positive": 0.1253
+      "weighted_positive": 0.1253,
+      "cautious_turns": 1,
+      "negative_turns": 0,
+      "neutral_turns": 2,
+      "positive_turns": 1,
+      "cautious_pct": 25.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 50.0,
+      "positive_pct": 25.0
     },
     {
       "sittingDate": "07-04-2026",
@@ -139,7 +227,15 @@
       "weighted_cautious": 0.3002,
       "weighted_negative": 0.0,
       "weighted_neutral": 0.3001,
-      "weighted_positive": 0.0
+      "weighted_positive": 0.0,
+      "cautious_turns": 2,
+      "negative_turns": 0,
+      "neutral_turns": 2,
+      "positive_turns": 0,
+      "cautious_pct": 50.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 50.0,
+      "positive_pct": 0.0
     },
     {
       "sittingDate": "07-04-2026",
@@ -150,7 +246,15 @@
       "weighted_cautious": 0.1462,
       "weighted_negative": 0.0,
       "weighted_neutral": 0.5202,
-      "weighted_positive": 0.0
+      "weighted_positive": 0.0,
+      "cautious_turns": 1,
+      "negative_turns": 0,
+      "neutral_turns": 3,
+      "positive_turns": 0,
+      "cautious_pct": 25.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 75.0,
+      "positive_pct": 0.0
     },
     {
       "sittingDate": "07-04-2026",
@@ -161,7 +265,15 @@
       "weighted_cautious": 0.3268,
       "weighted_negative": 0.0,
       "weighted_neutral": 0.3511,
-      "weighted_positive": 0.0
+      "weighted_positive": 0.0,
+      "cautious_turns": 2,
+      "negative_turns": 0,
+      "neutral_turns": 2,
+      "positive_turns": 0,
+      "cautious_pct": 50.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 50.0,
+      "positive_pct": 0.0
     },
     {
       "sittingDate": "07-04-2026",
@@ -172,7 +284,15 @@
       "weighted_cautious": 0.4583,
       "weighted_negative": 0.0,
       "weighted_neutral": 0.0,
-      "weighted_positive": 0.1417
+      "weighted_positive": 0.1417,
+      "cautious_turns": 3,
+      "negative_turns": 0,
+      "neutral_turns": 0,
+      "positive_turns": 1,
+      "cautious_pct": 75.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "positive_pct": 25.0
     },
     {
       "sittingDate": "07-04-2026",
@@ -183,7 +303,15 @@
       "weighted_cautious": 0.4199,
       "weighted_negative": 0.0311,
       "weighted_neutral": 0.0697,
-      "weighted_positive": 0.0751
+      "weighted_positive": 0.0751,
+      "cautious_turns": 77,
+      "negative_turns": 7,
+      "neutral_turns": 14,
+      "positive_turns": 13,
+      "cautious_pct": 69.4,
+      "negative_pct": 6.3,
+      "neutral_pct": 12.6,
+      "positive_pct": 11.7
     },
     {
       "sittingDate": "07-04-2026",
@@ -194,7 +322,15 @@
       "weighted_cautious": 0.148,
       "weighted_negative": 0.0311,
       "weighted_neutral": 0.1617,
-      "weighted_positive": 0.2131
+      "weighted_positive": 0.2131,
+      "cautious_turns": 5,
+      "negative_turns": 1,
+      "neutral_turns": 11,
+      "positive_turns": 5,
+      "cautious_pct": 22.7,
+      "negative_pct": 4.5,
+      "neutral_pct": 50.0,
+      "positive_pct": 22.7
     },
     {
       "sittingDate": "07-04-2026",
@@ -205,7 +341,15 @@
       "weighted_cautious": 0.0724,
       "weighted_negative": 0.0,
       "weighted_neutral": 0.3211,
-      "weighted_positive": 0.0
+      "weighted_positive": 0.0,
+      "cautious_turns": 1,
+      "negative_turns": 0,
+      "neutral_turns": 3,
+      "positive_turns": 0,
+      "cautious_pct": 25.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 75.0,
+      "positive_pct": 0.0
     },
     {
       "sittingDate": "07-04-2026",
@@ -216,7 +360,15 @@
       "weighted_cautious": 0.0386,
       "weighted_negative": 0.0,
       "weighted_neutral": 0.2111,
-      "weighted_positive": 0.3209
+      "weighted_positive": 0.3209,
+      "cautious_turns": 1,
+      "negative_turns": 0,
+      "neutral_turns": 4,
+      "positive_turns": 2,
+      "cautious_pct": 14.3,
+      "negative_pct": 0.0,
+      "neutral_pct": 57.1,
+      "positive_pct": 28.6
     },
     {
       "sittingDate": "07-04-2026",
@@ -227,7 +379,15 @@
       "weighted_cautious": 0.2285,
       "weighted_negative": 0.0,
       "weighted_neutral": 0.4344,
-      "weighted_positive": 0.0
+      "weighted_positive": 0.0,
+      "cautious_turns": 1,
+      "negative_turns": 0,
+      "neutral_turns": 1,
+      "positive_turns": 0,
+      "cautious_pct": 50.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 50.0,
+      "positive_pct": 0.0
     },
     {
       "sittingDate": "07-04-2026",
@@ -238,7 +398,15 @@
       "weighted_cautious": 0.2588,
       "weighted_negative": 0.0,
       "weighted_neutral": 0.2919,
-      "weighted_positive": 0.0
+      "weighted_positive": 0.0,
+      "cautious_turns": 1,
+      "negative_turns": 0,
+      "neutral_turns": 1,
+      "positive_turns": 0,
+      "cautious_pct": 50.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 50.0,
+      "positive_pct": 0.0
     },
     {
       "sittingDate": "07-04-2026",
@@ -249,7 +417,15 @@
       "weighted_cautious": 0.2961,
       "weighted_negative": 0.0,
       "weighted_neutral": 0.4379,
-      "weighted_positive": 0.0
+      "weighted_positive": 0.0,
+      "cautious_turns": 1,
+      "negative_turns": 0,
+      "neutral_turns": 1,
+      "positive_turns": 0,
+      "cautious_pct": 50.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 50.0,
+      "positive_pct": 0.0
     },
     {
       "sittingDate": "07-04-2026",
@@ -260,7 +436,15 @@
       "weighted_cautious": 0.2812,
       "weighted_negative": 0.0,
       "weighted_neutral": 0.4977,
-      "weighted_positive": 0.0
+      "weighted_positive": 0.0,
+      "cautious_turns": 1,
+      "negative_turns": 0,
+      "neutral_turns": 1,
+      "positive_turns": 0,
+      "cautious_pct": 50.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 50.0,
+      "positive_pct": 0.0
     },
     {
       "sittingDate": "07-04-2026",
@@ -271,7 +455,15 @@
       "weighted_cautious": 0.3497,
       "weighted_negative": 0.0,
       "weighted_neutral": 0.3779,
-      "weighted_positive": 0.0
+      "weighted_positive": 0.0,
+      "cautious_turns": 1,
+      "negative_turns": 0,
+      "neutral_turns": 1,
+      "positive_turns": 0,
+      "cautious_pct": 50.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 50.0,
+      "positive_pct": 0.0
     },
     {
       "sittingDate": "07-04-2026",
@@ -282,7 +474,15 @@
       "weighted_cautious": 0.0,
       "weighted_negative": 0.0,
       "weighted_neutral": 0.8034,
-      "weighted_positive": 0.0
+      "weighted_positive": 0.0,
+      "cautious_turns": 0,
+      "negative_turns": 0,
+      "neutral_turns": 2,
+      "positive_turns": 0,
+      "cautious_pct": 0.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 100.0,
+      "positive_pct": 0.0
     },
     {
       "sittingDate": "07-04-2026",
@@ -293,7 +493,15 @@
       "weighted_cautious": 0.2788,
       "weighted_negative": 0.0,
       "weighted_neutral": 0.4637,
-      "weighted_positive": 0.0
+      "weighted_positive": 0.0,
+      "cautious_turns": 1,
+      "negative_turns": 0,
+      "neutral_turns": 1,
+      "positive_turns": 0,
+      "cautious_pct": 50.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 50.0,
+      "positive_pct": 0.0
     },
     {
       "sittingDate": "07-04-2026",
@@ -304,7 +512,15 @@
       "weighted_cautious": 0.3353,
       "weighted_negative": 0.0,
       "weighted_neutral": 0.3546,
-      "weighted_positive": 0.0
+      "weighted_positive": 0.0,
+      "cautious_turns": 1,
+      "negative_turns": 0,
+      "neutral_turns": 1,
+      "positive_turns": 0,
+      "cautious_pct": 50.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 50.0,
+      "positive_pct": 0.0
     },
     {
       "sittingDate": "07-04-2026",
@@ -315,7 +531,15 @@
       "weighted_cautious": 0.0,
       "weighted_negative": 0.0,
       "weighted_neutral": 0.6207,
-      "weighted_positive": 0.0
+      "weighted_positive": 0.0,
+      "cautious_turns": 0,
+      "negative_turns": 0,
+      "neutral_turns": 2,
+      "positive_turns": 0,
+      "cautious_pct": 0.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 100.0,
+      "positive_pct": 0.0
     },
     {
       "sittingDate": "07-04-2026",
@@ -326,7 +550,15 @@
       "weighted_cautious": 0.3255,
       "weighted_negative": 0.0,
       "weighted_neutral": 0.3927,
-      "weighted_positive": 0.0
+      "weighted_positive": 0.0,
+      "cautious_turns": 1,
+      "negative_turns": 0,
+      "neutral_turns": 1,
+      "positive_turns": 0,
+      "cautious_pct": 50.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 50.0,
+      "positive_pct": 0.0
     },
     {
       "sittingDate": "07-04-2026",
@@ -337,7 +569,15 @@
       "weighted_cautious": 0.0,
       "weighted_negative": 0.0,
       "weighted_neutral": 0.2267,
-      "weighted_positive": 0.3085
+      "weighted_positive": 0.3085,
+      "cautious_turns": 0,
+      "negative_turns": 0,
+      "neutral_turns": 1,
+      "positive_turns": 1,
+      "cautious_pct": 0.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 50.0,
+      "positive_pct": 50.0
     },
     {
       "sittingDate": "07-04-2026",
@@ -348,7 +588,15 @@
       "weighted_cautious": 0.0,
       "weighted_negative": 0.0,
       "weighted_neutral": 0.7865,
-      "weighted_positive": 0.0
+      "weighted_positive": 0.0,
+      "cautious_turns": 0,
+      "negative_turns": 0,
+      "neutral_turns": 2,
+      "positive_turns": 0,
+      "cautious_pct": 0.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 100.0,
+      "positive_pct": 0.0
     },
     {
       "sittingDate": "07-04-2026",
@@ -359,7 +607,15 @@
       "weighted_cautious": 0.0,
       "weighted_negative": 0.0,
       "weighted_neutral": 0.5678,
-      "weighted_positive": 0.0
+      "weighted_positive": 0.0,
+      "cautious_turns": 0,
+      "negative_turns": 0,
+      "neutral_turns": 2,
+      "positive_turns": 0,
+      "cautious_pct": 0.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 100.0,
+      "positive_pct": 0.0
     },
     {
       "sittingDate": "07-04-2026",
@@ -370,7 +626,15 @@
       "weighted_cautious": 0.4192,
       "weighted_negative": 0.0,
       "weighted_neutral": 0.0,
-      "weighted_positive": 0.3043
+      "weighted_positive": 0.3043,
+      "cautious_turns": 2,
+      "negative_turns": 0,
+      "neutral_turns": 0,
+      "positive_turns": 1,
+      "cautious_pct": 66.7,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "positive_pct": 33.3
     },
     {
       "sittingDate": "07-04-2026",
@@ -381,7 +645,15 @@
       "weighted_cautious": 0.2856,
       "weighted_negative": 0.0,
       "weighted_neutral": 0.3133,
-      "weighted_positive": 0.0
+      "weighted_positive": 0.0,
+      "cautious_turns": 1,
+      "negative_turns": 0,
+      "neutral_turns": 1,
+      "positive_turns": 0,
+      "cautious_pct": 50.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 50.0,
+      "positive_pct": 0.0
     },
     {
       "sittingDate": "07-04-2026",
@@ -392,7 +664,15 @@
       "weighted_cautious": 0.2664,
       "weighted_negative": 0.0,
       "weighted_neutral": 0.0,
-      "weighted_positive": 0.2681
+      "weighted_positive": 0.2681,
+      "cautious_turns": 1,
+      "negative_turns": 0,
+      "neutral_turns": 0,
+      "positive_turns": 1,
+      "cautious_pct": 50.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "positive_pct": 50.0
     },
     {
       "sittingDate": "07-04-2026",
@@ -403,7 +683,15 @@
       "weighted_cautious": 0.2325,
       "weighted_negative": 0.0,
       "weighted_neutral": 0.3236,
-      "weighted_positive": 0.0
+      "weighted_positive": 0.0,
+      "cautious_turns": 1,
+      "negative_turns": 0,
+      "neutral_turns": 1,
+      "positive_turns": 0,
+      "cautious_pct": 50.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 50.0,
+      "positive_pct": 0.0
     },
     {
       "sittingDate": "07-04-2026",
@@ -414,7 +702,15 @@
       "weighted_cautious": 0.2253,
       "weighted_negative": 0.0,
       "weighted_neutral": 0.4426,
-      "weighted_positive": 0.0
+      "weighted_positive": 0.0,
+      "cautious_turns": 1,
+      "negative_turns": 0,
+      "neutral_turns": 1,
+      "positive_turns": 0,
+      "cautious_pct": 50.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 50.0,
+      "positive_pct": 0.0
     },
     {
       "sittingDate": "07-04-2026",
@@ -425,7 +721,15 @@
       "weighted_cautious": 0.2967,
       "weighted_negative": 0.0,
       "weighted_neutral": 0.0,
-      "weighted_positive": 0.1808
+      "weighted_positive": 0.1808,
+      "cautious_turns": 1,
+      "negative_turns": 0,
+      "neutral_turns": 0,
+      "positive_turns": 1,
+      "cautious_pct": 50.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "positive_pct": 50.0
     },
     {
       "sittingDate": "07-04-2026",
@@ -436,7 +740,15 @@
       "weighted_cautious": 0.0,
       "weighted_negative": 0.0,
       "weighted_neutral": 0.6962,
-      "weighted_positive": 0.0
+      "weighted_positive": 0.0,
+      "cautious_turns": 0,
+      "negative_turns": 0,
+      "neutral_turns": 2,
+      "positive_turns": 0,
+      "cautious_pct": 0.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 100.0,
+      "positive_pct": 0.0
     },
     {
       "sittingDate": "07-04-2026",
@@ -447,7 +759,15 @@
       "weighted_cautious": 0.2298,
       "weighted_negative": 0.0,
       "weighted_neutral": 0.4455,
-      "weighted_positive": 0.0
+      "weighted_positive": 0.0,
+      "cautious_turns": 1,
+      "negative_turns": 0,
+      "neutral_turns": 1,
+      "positive_turns": 0,
+      "cautious_pct": 50.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 50.0,
+      "positive_pct": 0.0
     },
     {
       "sittingDate": "07-04-2026",
@@ -458,7 +778,15 @@
       "weighted_cautious": 0.3227,
       "weighted_negative": 0.0,
       "weighted_neutral": 0.3891,
-      "weighted_positive": 0.0
+      "weighted_positive": 0.0,
+      "cautious_turns": 1,
+      "negative_turns": 0,
+      "neutral_turns": 1,
+      "positive_turns": 0,
+      "cautious_pct": 50.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 50.0,
+      "positive_pct": 0.0
     },
     {
       "sittingDate": "07-04-2026",
@@ -469,7 +797,15 @@
       "weighted_cautious": 0.3284,
       "weighted_negative": 0.0,
       "weighted_neutral": 0.384,
-      "weighted_positive": 0.0
+      "weighted_positive": 0.0,
+      "cautious_turns": 1,
+      "negative_turns": 0,
+      "neutral_turns": 1,
+      "positive_turns": 0,
+      "cautious_pct": 50.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 50.0,
+      "positive_pct": 0.0
     },
     {
       "sittingDate": "07-04-2026",
@@ -480,7 +816,15 @@
       "weighted_cautious": 0.3372,
       "weighted_negative": 0.0,
       "weighted_neutral": 0.2704,
-      "weighted_positive": 0.0
+      "weighted_positive": 0.0,
+      "cautious_turns": 1,
+      "negative_turns": 0,
+      "neutral_turns": 1,
+      "positive_turns": 0,
+      "cautious_pct": 50.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 50.0,
+      "positive_pct": 0.0
     },
     {
       "sittingDate": "07-04-2026",
@@ -491,7 +835,15 @@
       "weighted_cautious": 0.3272,
       "weighted_negative": 0.0,
       "weighted_neutral": 0.3945,
-      "weighted_positive": 0.0
+      "weighted_positive": 0.0,
+      "cautious_turns": 1,
+      "negative_turns": 0,
+      "neutral_turns": 1,
+      "positive_turns": 0,
+      "cautious_pct": 50.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 50.0,
+      "positive_pct": 0.0
     },
     {
       "sittingDate": "07-04-2026",
@@ -502,7 +854,15 @@
       "weighted_cautious": 0.2543,
       "weighted_negative": 0.0,
       "weighted_neutral": 0.4455,
-      "weighted_positive": 0.0
+      "weighted_positive": 0.0,
+      "cautious_turns": 1,
+      "negative_turns": 0,
+      "neutral_turns": 1,
+      "positive_turns": 0,
+      "cautious_pct": 50.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 50.0,
+      "positive_pct": 0.0
     },
     {
       "sittingDate": "07-04-2026",
@@ -513,7 +873,15 @@
       "weighted_cautious": 0.3314,
       "weighted_negative": 0.0,
       "weighted_neutral": 0.0,
-      "weighted_positive": 0.4552
+      "weighted_positive": 0.4552,
+      "cautious_turns": 1,
+      "negative_turns": 0,
+      "neutral_turns": 0,
+      "positive_turns": 1,
+      "cautious_pct": 50.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "positive_pct": 50.0
     },
     {
       "sittingDate": "07-04-2026",
@@ -524,7 +892,15 @@
       "weighted_cautious": 0.3427,
       "weighted_negative": 0.0,
       "weighted_neutral": 0.2155,
-      "weighted_positive": 0.0
+      "weighted_positive": 0.0,
+      "cautious_turns": 2,
+      "negative_turns": 0,
+      "neutral_turns": 1,
+      "positive_turns": 0,
+      "cautious_pct": 66.7,
+      "negative_pct": 0.0,
+      "neutral_pct": 33.3,
+      "positive_pct": 0.0
     },
     {
       "sittingDate": "07-04-2026",
@@ -535,7 +911,15 @@
       "weighted_cautious": 0.339,
       "weighted_negative": 0.0,
       "weighted_neutral": 0.3761,
-      "weighted_positive": 0.0
+      "weighted_positive": 0.0,
+      "cautious_turns": 1,
+      "negative_turns": 0,
+      "neutral_turns": 1,
+      "positive_turns": 0,
+      "cautious_pct": 50.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 50.0,
+      "positive_pct": 0.0
     },
     {
       "sittingDate": "07-04-2026",
@@ -546,7 +930,15 @@
       "weighted_cautious": 0.0,
       "weighted_negative": 0.0,
       "weighted_neutral": 0.6769,
-      "weighted_positive": 0.0
+      "weighted_positive": 0.0,
+      "cautious_turns": 0,
+      "negative_turns": 0,
+      "neutral_turns": 3,
+      "positive_turns": 0,
+      "cautious_pct": 0.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 100.0,
+      "positive_pct": 0.0
     },
     {
       "sittingDate": "07-04-2026",
@@ -557,7 +949,15 @@
       "weighted_cautious": 0.1892,
       "weighted_negative": 0.0,
       "weighted_neutral": 0.5108,
-      "weighted_positive": 0.0
+      "weighted_positive": 0.0,
+      "cautious_turns": 1,
+      "negative_turns": 0,
+      "neutral_turns": 1,
+      "positive_turns": 0,
+      "cautious_pct": 50.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 50.0,
+      "positive_pct": 0.0
     },
     {
       "sittingDate": "07-04-2026",
@@ -568,7 +968,15 @@
       "weighted_cautious": 0.304,
       "weighted_negative": 0.0,
       "weighted_neutral": 0.4668,
-      "weighted_positive": 0.0
+      "weighted_positive": 0.0,
+      "cautious_turns": 1,
+      "negative_turns": 0,
+      "neutral_turns": 1,
+      "positive_turns": 0,
+      "cautious_pct": 50.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 50.0,
+      "positive_pct": 0.0
     },
     {
       "sittingDate": "07-04-2026",
@@ -579,7 +987,15 @@
       "weighted_cautious": 0.174,
       "weighted_negative": 0.0,
       "weighted_neutral": 0.3908,
-      "weighted_positive": 0.0
+      "weighted_positive": 0.0,
+      "cautious_turns": 1,
+      "negative_turns": 0,
+      "neutral_turns": 2,
+      "positive_turns": 0,
+      "cautious_pct": 33.3,
+      "negative_pct": 0.0,
+      "neutral_pct": 66.7,
+      "positive_pct": 0.0
     },
     {
       "sittingDate": "07-04-2026",
@@ -590,7 +1006,15 @@
       "weighted_cautious": 0.4602,
       "weighted_negative": 0.0,
       "weighted_neutral": 0.2229,
-      "weighted_positive": 0.0
+      "weighted_positive": 0.0,
+      "cautious_turns": 2,
+      "negative_turns": 0,
+      "neutral_turns": 1,
+      "positive_turns": 0,
+      "cautious_pct": 66.7,
+      "negative_pct": 0.0,
+      "neutral_pct": 33.3,
+      "positive_pct": 0.0
     },
     {
       "sittingDate": "07-04-2026",
@@ -601,7 +1025,15 @@
       "weighted_cautious": 0.5655,
       "weighted_negative": 0.0,
       "weighted_neutral": 0.14,
-      "weighted_positive": 0.0
+      "weighted_positive": 0.0,
+      "cautious_turns": 9,
+      "negative_turns": 0,
+      "neutral_turns": 2,
+      "positive_turns": 0,
+      "cautious_pct": 81.8,
+      "negative_pct": 0.0,
+      "neutral_pct": 18.2,
+      "positive_pct": 0.0
     },
     {
       "sittingDate": "07-04-2026",
@@ -612,7 +1044,15 @@
       "weighted_cautious": 0.3342,
       "weighted_negative": 0.0,
       "weighted_neutral": 0.3798,
-      "weighted_positive": 0.0
+      "weighted_positive": 0.0,
+      "cautious_turns": 1,
+      "negative_turns": 0,
+      "neutral_turns": 1,
+      "positive_turns": 0,
+      "cautious_pct": 50.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 50.0,
+      "positive_pct": 0.0
     },
     {
       "sittingDate": "07-04-2026",
@@ -623,7 +1063,15 @@
       "weighted_cautious": 0.333,
       "weighted_negative": 0.0,
       "weighted_neutral": 0.3798,
-      "weighted_positive": 0.0
+      "weighted_positive": 0.0,
+      "cautious_turns": 1,
+      "negative_turns": 0,
+      "neutral_turns": 1,
+      "positive_turns": 0,
+      "cautious_pct": 50.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 50.0,
+      "positive_pct": 0.0
     },
     {
       "sittingDate": "07-04-2026",
@@ -634,7 +1082,15 @@
       "weighted_cautious": 0.3443,
       "weighted_negative": 0.0,
       "weighted_neutral": 0.0,
-      "weighted_positive": 0.3546
+      "weighted_positive": 0.3546,
+      "cautious_turns": 1,
+      "negative_turns": 0,
+      "neutral_turns": 0,
+      "positive_turns": 1,
+      "cautious_pct": 50.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "positive_pct": 50.0
     },
     {
       "sittingDate": "07-04-2026",
@@ -645,7 +1101,15 @@
       "weighted_cautious": 0.2919,
       "weighted_negative": 0.0,
       "weighted_neutral": 0.0,
-      "weighted_positive": 0.3543
+      "weighted_positive": 0.3543,
+      "cautious_turns": 1,
+      "negative_turns": 0,
+      "neutral_turns": 0,
+      "positive_turns": 1,
+      "cautious_pct": 50.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "positive_pct": 50.0
     },
     {
       "sittingDate": "07-04-2026",
@@ -656,7 +1120,15 @@
       "weighted_cautious": 0.0,
       "weighted_negative": 0.0,
       "weighted_neutral": 0.7738,
-      "weighted_positive": 0.0
+      "weighted_positive": 0.0,
+      "cautious_turns": 0,
+      "negative_turns": 0,
+      "neutral_turns": 2,
+      "positive_turns": 0,
+      "cautious_pct": 0.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 100.0,
+      "positive_pct": 0.0
     },
     {
       "sittingDate": "07-04-2026",
@@ -667,7 +1139,15 @@
       "weighted_cautious": 0.0,
       "weighted_negative": 0.0,
       "weighted_neutral": 0.476,
-      "weighted_positive": 0.0
+      "weighted_positive": 0.0,
+      "cautious_turns": 0,
+      "negative_turns": 0,
+      "neutral_turns": 2,
+      "positive_turns": 0,
+      "cautious_pct": 0.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 100.0,
+      "positive_pct": 0.0
     },
     {
       "sittingDate": "07-04-2026",
@@ -678,7 +1158,15 @@
       "weighted_cautious": 0.0,
       "weighted_negative": 0.0,
       "weighted_neutral": 0.7258,
-      "weighted_positive": 0.0
+      "weighted_positive": 0.0,
+      "cautious_turns": 0,
+      "negative_turns": 0,
+      "neutral_turns": 2,
+      "positive_turns": 0,
+      "cautious_pct": 0.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 100.0,
+      "positive_pct": 0.0
     },
     {
       "sittingDate": "07-04-2026",
@@ -689,7 +1177,15 @@
       "weighted_cautious": 0.315,
       "weighted_negative": 0.0,
       "weighted_neutral": 0.0,
-      "weighted_positive": 0.4453
+      "weighted_positive": 0.4453,
+      "cautious_turns": 1,
+      "negative_turns": 0,
+      "neutral_turns": 0,
+      "positive_turns": 1,
+      "cautious_pct": 50.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "positive_pct": 50.0
     },
     {
       "sittingDate": "07-04-2026",
@@ -700,7 +1196,15 @@
       "weighted_cautious": 0.0,
       "weighted_negative": 0.0,
       "weighted_neutral": 0.7007,
-      "weighted_positive": 0.0
+      "weighted_positive": 0.0,
+      "cautious_turns": 0,
+      "negative_turns": 0,
+      "neutral_turns": 2,
+      "positive_turns": 0,
+      "cautious_pct": 0.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 100.0,
+      "positive_pct": 0.0
     },
     {
       "sittingDate": "07-04-2026",
@@ -711,7 +1215,15 @@
       "weighted_cautious": 0.2732,
       "weighted_negative": 0.0,
       "weighted_neutral": 0.3994,
-      "weighted_positive": 0.0
+      "weighted_positive": 0.0,
+      "cautious_turns": 1,
+      "negative_turns": 0,
+      "neutral_turns": 1,
+      "positive_turns": 0,
+      "cautious_pct": 50.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 50.0,
+      "positive_pct": 0.0
     },
     {
       "sittingDate": "07-04-2026",
@@ -722,7 +1234,15 @@
       "weighted_cautious": 0.2107,
       "weighted_negative": 0.0,
       "weighted_neutral": 0.4769,
-      "weighted_positive": 0.0
+      "weighted_positive": 0.0,
+      "cautious_turns": 1,
+      "negative_turns": 0,
+      "neutral_turns": 1,
+      "positive_turns": 0,
+      "cautious_pct": 50.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 50.0,
+      "positive_pct": 0.0
     },
     {
       "sittingDate": "07-04-2026",
@@ -733,7 +1253,15 @@
       "weighted_cautious": 0.0,
       "weighted_negative": 0.0,
       "weighted_neutral": 0.7945,
-      "weighted_positive": 0.0
+      "weighted_positive": 0.0,
+      "cautious_turns": 0,
+      "negative_turns": 0,
+      "neutral_turns": 2,
+      "positive_turns": 0,
+      "cautious_pct": 0.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 100.0,
+      "positive_pct": 0.0
     },
     {
       "sittingDate": "07-04-2026",
@@ -744,7 +1272,15 @@
       "weighted_cautious": 0.2385,
       "weighted_negative": 0.0,
       "weighted_neutral": 0.3604,
-      "weighted_positive": 0.0
+      "weighted_positive": 0.0,
+      "cautious_turns": 1,
+      "negative_turns": 0,
+      "neutral_turns": 1,
+      "positive_turns": 0,
+      "cautious_pct": 50.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 50.0,
+      "positive_pct": 0.0
     },
     {
       "sittingDate": "07-04-2026",
@@ -755,7 +1291,15 @@
       "weighted_cautious": 0.1975,
       "weighted_negative": 0.0,
       "weighted_neutral": 0.5158,
-      "weighted_positive": 0.0
+      "weighted_positive": 0.0,
+      "cautious_turns": 1,
+      "negative_turns": 0,
+      "neutral_turns": 1,
+      "positive_turns": 0,
+      "cautious_pct": 50.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 50.0,
+      "positive_pct": 0.0
     },
     {
       "sittingDate": "07-04-2026",
@@ -766,7 +1310,15 @@
       "weighted_cautious": 0.0,
       "weighted_negative": 0.0,
       "weighted_neutral": 0.6812,
-      "weighted_positive": 0.0
+      "weighted_positive": 0.0,
+      "cautious_turns": 0,
+      "negative_turns": 0,
+      "neutral_turns": 2,
+      "positive_turns": 0,
+      "cautious_pct": 0.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 100.0,
+      "positive_pct": 0.0
     },
     {
       "sittingDate": "07-04-2026",
@@ -777,7 +1329,15 @@
       "weighted_cautious": 0.0,
       "weighted_negative": 0.0,
       "weighted_neutral": 0.5989,
-      "weighted_positive": 0.0
+      "weighted_positive": 0.0,
+      "cautious_turns": 0,
+      "negative_turns": 0,
+      "neutral_turns": 2,
+      "positive_turns": 0,
+      "cautious_pct": 0.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 100.0,
+      "positive_pct": 0.0
     },
     {
       "sittingDate": "07-04-2026",
@@ -788,7 +1348,15 @@
       "weighted_cautious": 0.0,
       "weighted_negative": 0.0,
       "weighted_neutral": 0.7596,
-      "weighted_positive": 0.0
+      "weighted_positive": 0.0,
+      "cautious_turns": 0,
+      "negative_turns": 0,
+      "neutral_turns": 2,
+      "positive_turns": 0,
+      "cautious_pct": 0.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 100.0,
+      "positive_pct": 0.0
     },
     {
       "sittingDate": "07-04-2026",
@@ -799,7 +1367,15 @@
       "weighted_cautious": 0.3355,
       "weighted_negative": 0.0,
       "weighted_neutral": 0.2561,
-      "weighted_positive": 0.0
+      "weighted_positive": 0.0,
+      "cautious_turns": 1,
+      "negative_turns": 0,
+      "neutral_turns": 1,
+      "positive_turns": 0,
+      "cautious_pct": 50.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 50.0,
+      "positive_pct": 0.0
     },
     {
       "sittingDate": "07-04-2026",
@@ -810,7 +1386,15 @@
       "weighted_cautious": 0.0,
       "weighted_negative": 0.0,
       "weighted_neutral": 0.7032,
-      "weighted_positive": 0.0
+      "weighted_positive": 0.0,
+      "cautious_turns": 0,
+      "negative_turns": 0,
+      "neutral_turns": 2,
+      "positive_turns": 0,
+      "cautious_pct": 0.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 100.0,
+      "positive_pct": 0.0
     },
     {
       "sittingDate": "07-04-2026",
@@ -821,7 +1405,15 @@
       "weighted_cautious": 0.2474,
       "weighted_negative": 0.0,
       "weighted_neutral": 0.4241,
-      "weighted_positive": 0.0
+      "weighted_positive": 0.0,
+      "cautious_turns": 1,
+      "negative_turns": 0,
+      "neutral_turns": 1,
+      "positive_turns": 0,
+      "cautious_pct": 50.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 50.0,
+      "positive_pct": 0.0
     },
     {
       "sittingDate": "07-04-2026",
@@ -832,7 +1424,15 @@
       "weighted_cautious": 0.0,
       "weighted_negative": 0.0,
       "weighted_neutral": 0.6384,
-      "weighted_positive": 0.0
+      "weighted_positive": 0.0,
+      "cautious_turns": 0,
+      "negative_turns": 0,
+      "neutral_turns": 2,
+      "positive_turns": 0,
+      "cautious_pct": 0.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 100.0,
+      "positive_pct": 0.0
     },
     {
       "sittingDate": "07-04-2026",
@@ -843,7 +1443,15 @@
       "weighted_cautious": 0.3305,
       "weighted_negative": 0.0,
       "weighted_neutral": 0.3995,
-      "weighted_positive": 0.0
+      "weighted_positive": 0.0,
+      "cautious_turns": 1,
+      "negative_turns": 0,
+      "neutral_turns": 1,
+      "positive_turns": 0,
+      "cautious_pct": 50.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 50.0,
+      "positive_pct": 0.0
     },
     {
       "sittingDate": "07-04-2026",
@@ -854,7 +1462,15 @@
       "weighted_cautious": 0.3318,
       "weighted_negative": 0.0,
       "weighted_neutral": 0.3521,
-      "weighted_positive": 0.0
+      "weighted_positive": 0.0,
+      "cautious_turns": 1,
+      "negative_turns": 0,
+      "neutral_turns": 1,
+      "positive_turns": 0,
+      "cautious_pct": 50.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 50.0,
+      "positive_pct": 0.0
     },
     {
       "sittingDate": "07-04-2026",
@@ -865,7 +1481,15 @@
       "weighted_cautious": 0.2351,
       "weighted_negative": 0.0,
       "weighted_neutral": 0.3196,
-      "weighted_positive": 0.0
+      "weighted_positive": 0.0,
+      "cautious_turns": 1,
+      "negative_turns": 0,
+      "neutral_turns": 1,
+      "positive_turns": 0,
+      "cautious_pct": 50.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 50.0,
+      "positive_pct": 0.0
     },
     {
       "sittingDate": "07-04-2026",
@@ -876,7 +1500,15 @@
       "weighted_cautious": 0.243,
       "weighted_negative": 0.0,
       "weighted_neutral": 0.4542,
-      "weighted_positive": 0.0
+      "weighted_positive": 0.0,
+      "cautious_turns": 1,
+      "negative_turns": 0,
+      "neutral_turns": 1,
+      "positive_turns": 0,
+      "cautious_pct": 50.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 50.0,
+      "positive_pct": 0.0
     },
     {
       "sittingDate": "07-04-2026",
@@ -887,7 +1519,15 @@
       "weighted_cautious": 0.0,
       "weighted_negative": 0.0,
       "weighted_neutral": 0.793,
-      "weighted_positive": 0.0
+      "weighted_positive": 0.0,
+      "cautious_turns": 0,
+      "negative_turns": 0,
+      "neutral_turns": 2,
+      "positive_turns": 0,
+      "cautious_pct": 0.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 100.0,
+      "positive_pct": 0.0
     },
     {
       "sittingDate": "07-04-2026",
@@ -898,7 +1538,15 @@
       "weighted_cautious": 0.0,
       "weighted_negative": 0.0,
       "weighted_neutral": 0.7899,
-      "weighted_positive": 0.0
+      "weighted_positive": 0.0,
+      "cautious_turns": 0,
+      "negative_turns": 0,
+      "neutral_turns": 2,
+      "positive_turns": 0,
+      "cautious_pct": 0.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 100.0,
+      "positive_pct": 0.0
     },
     {
       "sittingDate": "07-04-2026",
@@ -909,7 +1557,15 @@
       "weighted_cautious": 0.0,
       "weighted_negative": 0.0,
       "weighted_neutral": 0.756,
-      "weighted_positive": 0.0
+      "weighted_positive": 0.0,
+      "cautious_turns": 0,
+      "negative_turns": 0,
+      "neutral_turns": 2,
+      "positive_turns": 0,
+      "cautious_pct": 0.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 100.0,
+      "positive_pct": 0.0
     },
     {
       "sittingDate": "07-04-2026",
@@ -920,7 +1576,15 @@
       "weighted_cautious": 0.3224,
       "weighted_negative": 0.0,
       "weighted_neutral": 0.3789,
-      "weighted_positive": 0.0
+      "weighted_positive": 0.0,
+      "cautious_turns": 1,
+      "negative_turns": 0,
+      "neutral_turns": 1,
+      "positive_turns": 0,
+      "cautious_pct": 50.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 50.0,
+      "positive_pct": 0.0
     },
     {
       "sittingDate": "07-04-2026",
@@ -931,7 +1595,15 @@
       "weighted_cautious": 0.336,
       "weighted_negative": 0.0,
       "weighted_neutral": 0.4212,
-      "weighted_positive": 0.0
+      "weighted_positive": 0.0,
+      "cautious_turns": 1,
+      "negative_turns": 0,
+      "neutral_turns": 1,
+      "positive_turns": 0,
+      "cautious_pct": 50.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 50.0,
+      "positive_pct": 0.0
     },
     {
       "sittingDate": "07-04-2026",
@@ -942,7 +1614,15 @@
       "weighted_cautious": 0.2242,
       "weighted_negative": 0.0,
       "weighted_neutral": 0.3729,
-      "weighted_positive": 0.0
+      "weighted_positive": 0.0,
+      "cautious_turns": 1,
+      "negative_turns": 0,
+      "neutral_turns": 1,
+      "positive_turns": 0,
+      "cautious_pct": 50.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 50.0,
+      "positive_pct": 0.0
     },
     {
       "sittingDate": "07-04-2026",
@@ -953,7 +1633,15 @@
       "weighted_cautious": 0.0,
       "weighted_negative": 0.0,
       "weighted_neutral": 0.7,
-      "weighted_positive": 0.0
+      "weighted_positive": 0.0,
+      "cautious_turns": 0,
+      "negative_turns": 0,
+      "neutral_turns": 2,
+      "positive_turns": 0,
+      "cautious_pct": 0.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 100.0,
+      "positive_pct": 0.0
     },
     {
       "sittingDate": "07-04-2026",
@@ -964,7 +1652,15 @@
       "weighted_cautious": 0.0,
       "weighted_negative": 0.0,
       "weighted_neutral": 0.8099,
-      "weighted_positive": 0.0
+      "weighted_positive": 0.0,
+      "cautious_turns": 0,
+      "negative_turns": 0,
+      "neutral_turns": 2,
+      "positive_turns": 0,
+      "cautious_pct": 0.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 100.0,
+      "positive_pct": 0.0
     },
     {
       "sittingDate": "07-04-2026",
@@ -975,7 +1671,15 @@
       "weighted_cautious": 0.1906,
       "weighted_negative": 0.0,
       "weighted_neutral": 0.4674,
-      "weighted_positive": 0.0
+      "weighted_positive": 0.0,
+      "cautious_turns": 1,
+      "negative_turns": 0,
+      "neutral_turns": 1,
+      "positive_turns": 0,
+      "cautious_pct": 50.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 50.0,
+      "positive_pct": 0.0
     },
     {
       "sittingDate": "07-04-2026",
@@ -986,7 +1690,15 @@
       "weighted_cautious": 0.2474,
       "weighted_negative": 0.0,
       "weighted_neutral": 0.3869,
-      "weighted_positive": 0.0
+      "weighted_positive": 0.0,
+      "cautious_turns": 1,
+      "negative_turns": 0,
+      "neutral_turns": 1,
+      "positive_turns": 0,
+      "cautious_pct": 50.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 50.0,
+      "positive_pct": 0.0
     },
     {
       "sittingDate": "07-04-2026",
@@ -997,7 +1709,15 @@
       "weighted_cautious": 0.0,
       "weighted_negative": 0.0,
       "weighted_neutral": 0.7969,
-      "weighted_positive": 0.0
+      "weighted_positive": 0.0,
+      "cautious_turns": 0,
+      "negative_turns": 0,
+      "neutral_turns": 3,
+      "positive_turns": 0,
+      "cautious_pct": 0.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 100.0,
+      "positive_pct": 0.0
     },
     {
       "sittingDate": "07-04-2026",
@@ -1008,7 +1728,15 @@
       "weighted_cautious": 0.2413,
       "weighted_negative": 0.0,
       "weighted_neutral": 0.3079,
-      "weighted_positive": 0.0
+      "weighted_positive": 0.0,
+      "cautious_turns": 1,
+      "negative_turns": 0,
+      "neutral_turns": 1,
+      "positive_turns": 0,
+      "cautious_pct": 50.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 50.0,
+      "positive_pct": 0.0
     },
     {
       "sittingDate": "07-04-2026",
@@ -1019,7 +1747,15 @@
       "weighted_cautious": 0.1717,
       "weighted_negative": 0.0,
       "weighted_neutral": 0.4608,
-      "weighted_positive": 0.0
+      "weighted_positive": 0.0,
+      "cautious_turns": 1,
+      "negative_turns": 0,
+      "neutral_turns": 1,
+      "positive_turns": 0,
+      "cautious_pct": 50.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 50.0,
+      "positive_pct": 0.0
     },
     {
       "sittingDate": "07-04-2026",
@@ -1030,7 +1766,15 @@
       "weighted_cautious": 0.0,
       "weighted_negative": 0.0,
       "weighted_neutral": 0.6516,
-      "weighted_positive": 0.0
+      "weighted_positive": 0.0,
+      "cautious_turns": 0,
+      "negative_turns": 0,
+      "neutral_turns": 3,
+      "positive_turns": 0,
+      "cautious_pct": 0.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 100.0,
+      "positive_pct": 0.0
     },
     {
       "sittingDate": "07-04-2026",
@@ -1041,7 +1785,15 @@
       "weighted_cautious": 0.2937,
       "weighted_negative": 0.0,
       "weighted_neutral": 0.4279,
-      "weighted_positive": 0.0
+      "weighted_positive": 0.0,
+      "cautious_turns": 1,
+      "negative_turns": 0,
+      "neutral_turns": 1,
+      "positive_turns": 0,
+      "cautious_pct": 50.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 50.0,
+      "positive_pct": 0.0
     },
     {
       "sittingDate": "07-04-2026",
@@ -1052,7 +1804,15 @@
       "weighted_cautious": 0.3556,
       "weighted_negative": 0.0,
       "weighted_neutral": 0.3285,
-      "weighted_positive": 0.0
+      "weighted_positive": 0.0,
+      "cautious_turns": 1,
+      "negative_turns": 0,
+      "neutral_turns": 1,
+      "positive_turns": 0,
+      "cautious_pct": 50.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 50.0,
+      "positive_pct": 0.0
     },
     {
       "sittingDate": "07-04-2026",
@@ -1063,7 +1823,15 @@
       "weighted_cautious": 0.0,
       "weighted_negative": 0.0,
       "weighted_neutral": 0.741,
-      "weighted_positive": 0.0
+      "weighted_positive": 0.0,
+      "cautious_turns": 0,
+      "negative_turns": 0,
+      "neutral_turns": 2,
+      "positive_turns": 0,
+      "cautious_pct": 0.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 100.0,
+      "positive_pct": 0.0
     },
     {
       "sittingDate": "07-04-2026",
@@ -1074,7 +1842,15 @@
       "weighted_cautious": 0.296,
       "weighted_negative": 0.0,
       "weighted_neutral": 0.3343,
-      "weighted_positive": 0.0
+      "weighted_positive": 0.0,
+      "cautious_turns": 1,
+      "negative_turns": 0,
+      "neutral_turns": 1,
+      "positive_turns": 0,
+      "cautious_pct": 50.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 50.0,
+      "positive_pct": 0.0
     },
     {
       "sittingDate": "07-04-2026",
@@ -1085,7 +1861,15 @@
       "weighted_cautious": 0.0,
       "weighted_negative": 0.0,
       "weighted_neutral": 0.768,
-      "weighted_positive": 0.0
+      "weighted_positive": 0.0,
+      "cautious_turns": 0,
+      "negative_turns": 0,
+      "neutral_turns": 2,
+      "positive_turns": 0,
+      "cautious_pct": 0.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 100.0,
+      "positive_pct": 0.0
     },
     {
       "sittingDate": "07-04-2026",
@@ -1096,7 +1880,15 @@
       "weighted_cautious": 0.0,
       "weighted_negative": 0.0,
       "weighted_neutral": 0.6888,
-      "weighted_positive": 0.0
+      "weighted_positive": 0.0,
+      "cautious_turns": 0,
+      "negative_turns": 0,
+      "neutral_turns": 2,
+      "positive_turns": 0,
+      "cautious_pct": 0.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 100.0,
+      "positive_pct": 0.0
     },
     {
       "sittingDate": "07-04-2026",
@@ -1107,7 +1899,15 @@
       "weighted_cautious": 0.0,
       "weighted_negative": 0.0,
       "weighted_neutral": 0.6951,
-      "weighted_positive": 0.0
+      "weighted_positive": 0.0,
+      "cautious_turns": 0,
+      "negative_turns": 0,
+      "neutral_turns": 2,
+      "positive_turns": 0,
+      "cautious_pct": 0.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 100.0,
+      "positive_pct": 0.0
     },
     {
       "sittingDate": "07-04-2026",
@@ -1118,7 +1918,15 @@
       "weighted_cautious": 0.0,
       "weighted_negative": 0.0,
       "weighted_neutral": 0.544,
-      "weighted_positive": 0.0
+      "weighted_positive": 0.0,
+      "cautious_turns": 0,
+      "negative_turns": 0,
+      "neutral_turns": 2,
+      "positive_turns": 0,
+      "cautious_pct": 0.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 100.0,
+      "positive_pct": 0.0
     },
     {
       "sittingDate": "07-04-2026",
@@ -1129,7 +1937,15 @@
       "weighted_cautious": 0.0,
       "weighted_negative": 0.0,
       "weighted_neutral": 0.6615,
-      "weighted_positive": 0.0
+      "weighted_positive": 0.0,
+      "cautious_turns": 0,
+      "negative_turns": 0,
+      "neutral_turns": 2,
+      "positive_turns": 0,
+      "cautious_pct": 0.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 100.0,
+      "positive_pct": 0.0
     },
     {
       "sittingDate": "07-04-2026",
@@ -1140,7 +1956,15 @@
       "weighted_cautious": 0.0,
       "weighted_negative": 0.0,
       "weighted_neutral": 0.8357,
-      "weighted_positive": 0.0
+      "weighted_positive": 0.0,
+      "cautious_turns": 0,
+      "negative_turns": 0,
+      "neutral_turns": 2,
+      "positive_turns": 0,
+      "cautious_pct": 0.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 100.0,
+      "positive_pct": 0.0
     },
     {
       "sittingDate": "07-04-2026",
@@ -1151,7 +1975,15 @@
       "weighted_cautious": 0.0,
       "weighted_negative": 0.0,
       "weighted_neutral": 0.5558,
-      "weighted_positive": 0.0
+      "weighted_positive": 0.0,
+      "cautious_turns": 0,
+      "negative_turns": 0,
+      "neutral_turns": 2,
+      "positive_turns": 0,
+      "cautious_pct": 0.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 100.0,
+      "positive_pct": 0.0
     },
     {
       "sittingDate": "07-04-2026",
@@ -1162,7 +1994,15 @@
       "weighted_cautious": 0.2177,
       "weighted_negative": 0.0,
       "weighted_neutral": 0.4068,
-      "weighted_positive": 0.0
+      "weighted_positive": 0.0,
+      "cautious_turns": 1,
+      "negative_turns": 0,
+      "neutral_turns": 1,
+      "positive_turns": 0,
+      "cautious_pct": 50.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 50.0,
+      "positive_pct": 0.0
     },
     {
       "sittingDate": "07-04-2026",
@@ -1173,7 +2013,15 @@
       "weighted_cautious": 0.3251,
       "weighted_negative": 0.0,
       "weighted_neutral": 0.3839,
-      "weighted_positive": 0.0
+      "weighted_positive": 0.0,
+      "cautious_turns": 1,
+      "negative_turns": 0,
+      "neutral_turns": 1,
+      "positive_turns": 0,
+      "cautious_pct": 50.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 50.0,
+      "positive_pct": 0.0
     },
     {
       "sittingDate": "07-04-2026",
@@ -1184,7 +2032,15 @@
       "weighted_cautious": 0.3222,
       "weighted_negative": 0.0,
       "weighted_neutral": 0.2453,
-      "weighted_positive": 0.0
+      "weighted_positive": 0.0,
+      "cautious_turns": 1,
+      "negative_turns": 0,
+      "neutral_turns": 1,
+      "positive_turns": 0,
+      "cautious_pct": 50.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 50.0,
+      "positive_pct": 0.0
     },
     {
       "sittingDate": "07-04-2026",
@@ -1195,7 +2051,15 @@
       "weighted_cautious": 0.3038,
       "weighted_negative": 0.0,
       "weighted_neutral": 0.3586,
-      "weighted_positive": 0.0
+      "weighted_positive": 0.0,
+      "cautious_turns": 1,
+      "negative_turns": 0,
+      "neutral_turns": 1,
+      "positive_turns": 0,
+      "cautious_pct": 50.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 50.0,
+      "positive_pct": 0.0
     },
     {
       "sittingDate": "07-04-2026",
@@ -1206,7 +2070,15 @@
       "weighted_cautious": 0.0,
       "weighted_negative": 0.0,
       "weighted_neutral": 0.6277,
-      "weighted_positive": 0.0
+      "weighted_positive": 0.0,
+      "cautious_turns": 0,
+      "negative_turns": 0,
+      "neutral_turns": 3,
+      "positive_turns": 0,
+      "cautious_pct": 0.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 100.0,
+      "positive_pct": 0.0
     },
     {
       "sittingDate": "07-04-2026",
@@ -1217,7 +2089,15 @@
       "weighted_cautious": 0.1658,
       "weighted_negative": 0.0,
       "weighted_neutral": 0.3247,
-      "weighted_positive": 0.0
+      "weighted_positive": 0.0,
+      "cautious_turns": 1,
+      "negative_turns": 0,
+      "neutral_turns": 1,
+      "positive_turns": 0,
+      "cautious_pct": 50.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 50.0,
+      "positive_pct": 0.0
     },
     {
       "sittingDate": "07-04-2026",
@@ -1228,7 +2108,15 @@
       "weighted_cautious": 0.0,
       "weighted_negative": 0.0,
       "weighted_neutral": 0.7878,
-      "weighted_positive": 0.0
+      "weighted_positive": 0.0,
+      "cautious_turns": 0,
+      "negative_turns": 0,
+      "neutral_turns": 2,
+      "positive_turns": 0,
+      "cautious_pct": 0.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 100.0,
+      "positive_pct": 0.0
     },
     {
       "sittingDate": "07-04-2026",
@@ -1239,7 +2127,15 @@
       "weighted_cautious": 0.1328,
       "weighted_negative": 0.0,
       "weighted_neutral": 0.5529,
-      "weighted_positive": 0.0
+      "weighted_positive": 0.0,
+      "cautious_turns": 1,
+      "negative_turns": 0,
+      "neutral_turns": 1,
+      "positive_turns": 0,
+      "cautious_pct": 50.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 50.0,
+      "positive_pct": 0.0
     },
     {
       "sittingDate": "07-04-2026",
@@ -1250,7 +2146,15 @@
       "weighted_cautious": 0.3438,
       "weighted_negative": 0.0,
       "weighted_neutral": 0.4256,
-      "weighted_positive": 0.0
+      "weighted_positive": 0.0,
+      "cautious_turns": 1,
+      "negative_turns": 0,
+      "neutral_turns": 1,
+      "positive_turns": 0,
+      "cautious_pct": 50.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 50.0,
+      "positive_pct": 0.0
     },
     {
       "sittingDate": "07-04-2026",
@@ -1261,7 +2165,15 @@
       "weighted_cautious": 0.2972,
       "weighted_negative": 0.0,
       "weighted_neutral": 0.4422,
-      "weighted_positive": 0.0
+      "weighted_positive": 0.0,
+      "cautious_turns": 1,
+      "negative_turns": 0,
+      "neutral_turns": 1,
+      "positive_turns": 0,
+      "cautious_pct": 50.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 50.0,
+      "positive_pct": 0.0
     },
     {
       "sittingDate": "07-04-2026",
@@ -1272,7 +2184,15 @@
       "weighted_cautious": 0.2036,
       "weighted_negative": 0.0,
       "weighted_neutral": 0.0,
-      "weighted_positive": 0.4141
+      "weighted_positive": 0.4141,
+      "cautious_turns": 1,
+      "negative_turns": 0,
+      "neutral_turns": 0,
+      "positive_turns": 1,
+      "cautious_pct": 50.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "positive_pct": 50.0
     },
     {
       "sittingDate": "07-04-2026",
@@ -1283,7 +2203,15 @@
       "weighted_cautious": 0.1897,
       "weighted_negative": 0.0,
       "weighted_neutral": 0.0,
-      "weighted_positive": 0.5265
+      "weighted_positive": 0.5265,
+      "cautious_turns": 1,
+      "negative_turns": 0,
+      "neutral_turns": 0,
+      "positive_turns": 1,
+      "cautious_pct": 50.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "positive_pct": 50.0
     },
     {
       "sittingDate": "07-04-2026",
@@ -1294,7 +2222,15 @@
       "weighted_cautious": 0.2242,
       "weighted_negative": 0.0,
       "weighted_neutral": 0.0,
-      "weighted_positive": 0.2696
+      "weighted_positive": 0.2696,
+      "cautious_turns": 1,
+      "negative_turns": 0,
+      "neutral_turns": 0,
+      "positive_turns": 1,
+      "cautious_pct": 50.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "positive_pct": 50.0
     },
     {
       "sittingDate": "07-04-2026",
@@ -1305,7 +2241,15 @@
       "weighted_cautious": 0.0,
       "weighted_negative": 0.0,
       "weighted_neutral": 0.7823,
-      "weighted_positive": 0.0
+      "weighted_positive": 0.0,
+      "cautious_turns": 0,
+      "negative_turns": 0,
+      "neutral_turns": 2,
+      "positive_turns": 0,
+      "cautious_pct": 0.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 100.0,
+      "positive_pct": 0.0
     },
     {
       "sittingDate": "07-04-2026",
@@ -1316,7 +2260,15 @@
       "weighted_cautious": 0.3172,
       "weighted_negative": 0.0,
       "weighted_neutral": 0.408,
-      "weighted_positive": 0.0
+      "weighted_positive": 0.0,
+      "cautious_turns": 1,
+      "negative_turns": 0,
+      "neutral_turns": 1,
+      "positive_turns": 0,
+      "cautious_pct": 50.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 50.0,
+      "positive_pct": 0.0
     },
     {
       "sittingDate": "07-04-2026",
@@ -1327,7 +2279,15 @@
       "weighted_cautious": 0.3181,
       "weighted_negative": 0.0,
       "weighted_neutral": 0.2781,
-      "weighted_positive": 0.0
+      "weighted_positive": 0.0,
+      "cautious_turns": 1,
+      "negative_turns": 0,
+      "neutral_turns": 1,
+      "positive_turns": 0,
+      "cautious_pct": 50.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 50.0,
+      "positive_pct": 0.0
     },
     {
       "sittingDate": "07-04-2026",
@@ -1338,7 +2298,15 @@
       "weighted_cautious": 0.3277,
       "weighted_negative": 0.0,
       "weighted_neutral": 0.3723,
-      "weighted_positive": 0.0
+      "weighted_positive": 0.0,
+      "cautious_turns": 1,
+      "negative_turns": 0,
+      "neutral_turns": 1,
+      "positive_turns": 0,
+      "cautious_pct": 50.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 50.0,
+      "positive_pct": 0.0
     },
     {
       "sittingDate": "07-04-2026",
@@ -1349,7 +2317,15 @@
       "weighted_cautious": 0.3555,
       "weighted_negative": 0.0,
       "weighted_neutral": 0.4449,
-      "weighted_positive": 0.0
+      "weighted_positive": 0.0,
+      "cautious_turns": 1,
+      "negative_turns": 0,
+      "neutral_turns": 1,
+      "positive_turns": 0,
+      "cautious_pct": 50.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 50.0,
+      "positive_pct": 0.0
     },
     {
       "sittingDate": "07-04-2026",
@@ -1360,7 +2336,15 @@
       "weighted_cautious": 0.3035,
       "weighted_negative": 0.0,
       "weighted_neutral": 0.4242,
-      "weighted_positive": 0.0
+      "weighted_positive": 0.0,
+      "cautious_turns": 1,
+      "negative_turns": 0,
+      "neutral_turns": 1,
+      "positive_turns": 0,
+      "cautious_pct": 50.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 50.0,
+      "positive_pct": 0.0
     },
     {
       "sittingDate": "07-04-2026",
@@ -1371,7 +2355,15 @@
       "weighted_cautious": 0.2433,
       "weighted_negative": 0.0,
       "weighted_neutral": 0.4346,
-      "weighted_positive": 0.0
+      "weighted_positive": 0.0,
+      "cautious_turns": 1,
+      "negative_turns": 0,
+      "neutral_turns": 1,
+      "positive_turns": 0,
+      "cautious_pct": 50.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 50.0,
+      "positive_pct": 0.0
     },
     {
       "sittingDate": "07-04-2026",
@@ -1382,7 +2374,15 @@
       "weighted_cautious": 0.3508,
       "weighted_negative": 0.0,
       "weighted_neutral": 0.3597,
-      "weighted_positive": 0.0
+      "weighted_positive": 0.0,
+      "cautious_turns": 1,
+      "negative_turns": 0,
+      "neutral_turns": 1,
+      "positive_turns": 0,
+      "cautious_pct": 50.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 50.0,
+      "positive_pct": 0.0
     },
     {
       "sittingDate": "07-04-2026",
@@ -1393,7 +2393,15 @@
       "weighted_cautious": 0.3665,
       "weighted_negative": 0.0,
       "weighted_neutral": 0.4052,
-      "weighted_positive": 0.0
+      "weighted_positive": 0.0,
+      "cautious_turns": 1,
+      "negative_turns": 0,
+      "neutral_turns": 1,
+      "positive_turns": 0,
+      "cautious_pct": 50.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 50.0,
+      "positive_pct": 0.0
     },
     {
       "sittingDate": "07-04-2026",
@@ -1404,7 +2412,15 @@
       "weighted_cautious": 0.2487,
       "weighted_negative": 0.0,
       "weighted_neutral": 0.5155,
-      "weighted_positive": 0.0
+      "weighted_positive": 0.0,
+      "cautious_turns": 1,
+      "negative_turns": 0,
+      "neutral_turns": 1,
+      "positive_turns": 0,
+      "cautious_pct": 50.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 50.0,
+      "positive_pct": 0.0
     },
     {
       "sittingDate": "07-04-2026",
@@ -1415,7 +2431,15 @@
       "weighted_cautious": 0.2347,
       "weighted_negative": 0.0,
       "weighted_neutral": 0.0,
-      "weighted_positive": 0.2951
+      "weighted_positive": 0.2951,
+      "cautious_turns": 1,
+      "negative_turns": 0,
+      "neutral_turns": 0,
+      "positive_turns": 1,
+      "cautious_pct": 50.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "positive_pct": 50.0
     },
     {
       "sittingDate": "07-04-2026",
@@ -1426,7 +2450,15 @@
       "weighted_cautious": 0.0,
       "weighted_negative": 0.0,
       "weighted_neutral": 0.7048,
-      "weighted_positive": 0.0
+      "weighted_positive": 0.0,
+      "cautious_turns": 0,
+      "negative_turns": 0,
+      "neutral_turns": 2,
+      "positive_turns": 0,
+      "cautious_pct": 0.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 100.0,
+      "positive_pct": 0.0
     },
     {
       "sittingDate": "07-04-2026",
@@ -1437,7 +2469,15 @@
       "weighted_cautious": 0.2804,
       "weighted_negative": 0.0,
       "weighted_neutral": 0.3469,
-      "weighted_positive": 0.0
+      "weighted_positive": 0.0,
+      "cautious_turns": 1,
+      "negative_turns": 0,
+      "neutral_turns": 1,
+      "positive_turns": 0,
+      "cautious_pct": 50.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 50.0,
+      "positive_pct": 0.0
     },
     {
       "sittingDate": "07-04-2026",
@@ -1448,7 +2488,15 @@
       "weighted_cautious": 0.3457,
       "weighted_negative": 0.0,
       "weighted_neutral": 0.3049,
-      "weighted_positive": 0.0
+      "weighted_positive": 0.0,
+      "cautious_turns": 1,
+      "negative_turns": 0,
+      "neutral_turns": 1,
+      "positive_turns": 0,
+      "cautious_pct": 50.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 50.0,
+      "positive_pct": 0.0
     },
     {
       "sittingDate": "07-04-2026",
@@ -1459,7 +2507,15 @@
       "weighted_cautious": 0.0,
       "weighted_negative": 0.0,
       "weighted_neutral": 0.735,
-      "weighted_positive": 0.0
+      "weighted_positive": 0.0,
+      "cautious_turns": 0,
+      "negative_turns": 0,
+      "neutral_turns": 2,
+      "positive_turns": 0,
+      "cautious_pct": 0.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 100.0,
+      "positive_pct": 0.0
     },
     {
       "sittingDate": "07-04-2026",
@@ -1470,7 +2526,15 @@
       "weighted_cautious": 0.4965,
       "weighted_negative": 0.0,
       "weighted_neutral": 0.0,
-      "weighted_positive": 0.0
+      "weighted_positive": 0.0,
+      "cautious_turns": 1,
+      "negative_turns": 0,
+      "neutral_turns": 0,
+      "positive_turns": 0,
+      "cautious_pct": 100.0,
+      "negative_pct": 0.0,
+      "neutral_pct": 0.0,
+      "positive_pct": 0.0
     }
   ],
   "turn_sentiments": [

@@ -1,0 +1,294 @@
+{
+  "success": true,
+  "date": "05-03-2026",
+  "results": [
+    {
+      "title": "Borrowing Patterns of NLB Physical and E-books by Language and Age Categories in Past 10 Years",
+      "sector_classification": "Labour & Workforce",
+      "sector_confidence": 0.1102,
+      "sector_confidence_band": "Low / Needs Review"
+    },
+    {
+      "title": "Commercial and Sectoral Opportunities for Singapore SMEs Following Timor-Leste's Accession to ASEAN",
+      "sector_classification": "Labour & Workforce",
+      "sector_confidence": 0.1378,
+      "sector_confidence_band": "Low / Needs Review"
+    },
+    {
+      "title": "Committee of Supply Reporting Progress",
+      "sector_classification": "Labour & Workforce",
+      "sector_confidence": 0.1182,
+      "sector_confidence_band": "Low / Needs Review"
+    },
+    {
+      "title": "Committee of Supply – Head I (Ministry of Social and Family Development)",
+      "sector_classification": "Social & Family Policy",
+      "sector_confidence": 0.1488,
+      "sector_confidence_band": "Low / Needs Review"
+    },
+    {
+      "title": "Committee of Supply – Head O (Ministry of Health)",
+      "sector_classification": "Healthcare",
+      "sector_confidence": 0.5134,
+      "sector_confidence_band": "High"
+    },
+    {
+      "title": "Committee of Supply – Head X (Ministry of Culture, Community and Youth)",
+      "sector_classification": "Digital Economy & Tech",
+      "sector_confidence": 0.1308,
+      "sector_confidence_band": "Low / Needs Review"
+    },
+    {
+      "title": "Cooling-off Period for Re-polling in HDB Blocks That Failed HIP Voting",
+      "sector_classification": "Housing & Property",
+      "sector_confidence": 0.3147,
+      "sector_confidence_band": "High"
+    },
+    {
+      "title": "Data on Singaporeans Above 65 Who Have Registered LPA",
+      "sector_classification": "Social & Family Policy",
+      "sector_confidence": 0.1744,
+      "sector_confidence_band": "Medium"
+    },
+    {
+      "title": "Declining Rates of Youth Blood Donors and Measures to Ensure Sustainability of Future National Blood Supply",
+      "sector_classification": "Healthcare",
+      "sector_confidence": 0.1669,
+      "sector_confidence_band": "Medium"
+    },
+    {
+      "title": "Enhanced Protection Measures for Students and Parents Against Disruptions in Outsourced Student Care Services",
+      "sector_classification": "Education",
+      "sector_confidence": 0.2786,
+      "sector_confidence_band": "Medium"
+    },
+    {
+      "title": "Extending Subsidised Rates for Home Fire Alarm Devices to All HDB Flats",
+      "sector_classification": "Housing & Property",
+      "sector_confidence": 0.3604,
+      "sector_confidence_band": "High"
+    },
+    {
+      "title": "Financial Viability Safeguards Required of Student Care Centre Operators",
+      "sector_classification": "Education",
+      "sector_confidence": 0.1883,
+      "sector_confidence_band": "Medium"
+    },
+    {
+      "title": "Framework for Determining When Economic Conditions Warrant Broad-based Payouts to Households",
+      "sector_classification": "Other / Cross-cutting",
+      "sector_confidence": 0.1337,
+      "sector_confidence_band": "Low / Needs Review"
+    },
+    {
+      "title": "Impact of Physical Disconnection on Cross-Institutional Research Collaboration Between Autonomous Universities",
+      "sector_classification": "Education",
+      "sector_confidence": 0.1284,
+      "sector_confidence_band": "Low / Needs Review"
+    },
+    {
+      "title": "Investigations into Whether Singaporeans Served in Israeli Defence Forces",
+      "sector_classification": "Defence & Home Affairs",
+      "sector_confidence": 0.3851,
+      "sector_confidence_band": "High"
+    },
+    {
+      "title": "Lessons on Crowd Management, Shuttle Service Patterns and Communications from Recent Circle Line Closures",
+      "sector_classification": "Transport",
+      "sector_confidence": 0.2774,
+      "sector_confidence_band": "Medium"
+    },
+    {
+      "title": "Long-term Financial Sustainability of Autonomous Universities amid Evolving Global Competition",
+      "sector_classification": "Education",
+      "sector_confidence": 0.12,
+      "sector_confidence_band": "Low / Needs Review"
+    },
+    {
+      "title": "Measures to Monitor and Carry Out Enforcement on Littering in Public Parks",
+      "sector_classification": "Environment",
+      "sector_confidence": 0.1895,
+      "sector_confidence_band": "Medium"
+    },
+    {
+      "title": "Mechanisms for Early Detection of Wage or CPF Payment Defaults by Essential Service Vendors",
+      "sector_classification": "Labour & Workforce",
+      "sector_confidence": 0.2821,
+      "sector_confidence_band": "Medium"
+    },
+    {
+      "title": "Mental Preparation for National Service Enlistees and Usage Trends of SAF Whistle-blowing and Support Helplines in Past Five Years",
+      "sector_classification": "Defence & Home Affairs",
+      "sector_confidence": 0.1206,
+      "sector_confidence_band": "Low / Needs Review"
+    },
+    {
+      "title": "Official Data Collection for Traffic Accidents Involving Workers Transported in Course of Employment",
+      "sector_classification": "Labour & Workforce",
+      "sector_confidence": 0.2881,
+      "sector_confidence_band": "Medium"
+    },
+    {
+      "title": "Overhaul of NETS' QR Code Payment System to Create Fully Open, Interoperable Standard",
+      "sector_classification": "Social & Family Policy",
+      "sector_confidence": 0.1164,
+      "sector_confidence_band": "Low / Needs Review"
+    },
+    {
+      "title": "POFMA Action on Allegedly AI-generated YouTube Video on 17 January 2026 about Prime Minister Wong",
+      "sector_classification": "Digital Economy & Tech",
+      "sector_confidence": 0.2025,
+      "sector_confidence_band": "Medium"
+    },
+    {
+      "title": "Penalties for Those Caught in Possession of, Producing or Disseminating Explicit Images of Actual Children versus AI-generated Material",
+      "sector_classification": "Defence & Home Affairs",
+      "sector_confidence": 0.1521,
+      "sector_confidence_band": "Low / Needs Review"
+    },
+    {
+      "title": "Pet Groomers Operating from Residential Addresses",
+      "sector_classification": "Housing & Property",
+      "sector_confidence": 0.1158,
+      "sector_confidence_band": "Low / Needs Review"
+    },
+    {
+      "title": "Police Reports Filed for Suspected Offences Under Part 9 of AMLA and Breakdown of Investigation Outcomes",
+      "sector_classification": "Defence & Home Affairs",
+      "sector_confidence": 0.2306,
+      "sector_confidence_band": "Medium"
+    },
+    {
+      "title": "Progress of Circle Line MRT Tunnel Reinforcement Works",
+      "sector_classification": "Transport",
+      "sector_confidence": 0.2705,
+      "sector_confidence_band": "Medium"
+    },
+    {
+      "title": "Progress on Achieving Social Service Sector Manpower Targets and Impact of S Pass and Employment Pass Changes on Hiring",
+      "sector_classification": "Labour & Workforce",
+      "sector_confidence": 0.1808,
+      "sector_confidence_band": "Medium"
+    },
+    {
+      "title": "Proportion of Fires Arising from Electrical Sources and Cooking in Homes and Commercial Premises",
+      "sector_classification": "Defence & Home Affairs",
+      "sector_confidence": 0.2714,
+      "sector_confidence_band": "Medium"
+    },
+    {
+      "title": "Providing Further Support to Local SMEs Struggling with Increasing Rent and Operating Costs",
+      "sector_classification": "Social & Family Policy",
+      "sector_confidence": 0.1492,
+      "sector_confidence_band": "Low / Needs Review"
+    },
+    {
+      "title": "Purchase Incentives to Encourage Adoption of Electric Motorcycles",
+      "sector_classification": "Transport",
+      "sector_confidence": 0.1896,
+      "sector_confidence_band": "Medium"
+    },
+    {
+      "title": "Seniors, Children and Pedestrians Injured in Accidents Involving Active Mobility Devices",
+      "sector_classification": "Transport",
+      "sector_confidence": 0.2071,
+      "sector_confidence_band": "Medium"
+    },
+    {
+      "title": "Simulated Total Defence Exercise for Complete Communications Blackout Affecting Internet, Cellular and Broadband Networks",
+      "sector_classification": "Defence & Home Affairs",
+      "sector_confidence": 0.1357,
+      "sector_confidence_band": "Low / Needs Review"
+    },
+    {
+      "title": "Spousal Employment as Barrier to Retaining Foreign Academic Talent at Autonomous Universities",
+      "sector_classification": "Labour & Workforce",
+      "sector_confidence": 0.2261,
+      "sector_confidence_band": "Medium"
+    },
+    {
+      "title": "Statistics on Bullying Cases in National Service in Past Three Years and Protocols to Ensure Victim Safety During Investigations",
+      "sector_classification": "Education",
+      "sector_confidence": 0.1437,
+      "sector_confidence_band": "Low / Needs Review"
+    },
+    {
+      "title": "Statistics on Public Park Littering Enforcement and Recalcitrant Offenders and Public Identification Practices as Deterrent Measure",
+      "sector_classification": "Environment",
+      "sector_confidence": 0.2603,
+      "sector_confidence_band": "Medium"
+    },
+    {
+      "title": "Status of Joint Multi-Mission Ship Programme That Was to Replace Endurance-class Landing Platform Docks",
+      "sector_classification": "Labour & Workforce",
+      "sector_confidence": 0.1209,
+      "sector_confidence_band": "Low / Needs Review"
+    },
+    {
+      "title": "Strengthening of Procedures to Prevent Recurrence of Recent Episode of Erroneous Issuance of Speeding Tickets",
+      "sector_classification": "Defence & Home Affairs",
+      "sector_confidence": 0.2204,
+      "sector_confidence_band": "Medium"
+    },
+    {
+      "title": "Support Framework for Schools and Teachers on Addressing Student Exposure to Manosphere-related Online Content",
+      "sector_classification": "Education",
+      "sector_confidence": 0.4181,
+      "sector_confidence_band": "High"
+    },
+    {
+      "title": "Support System Adequacy Indicators for Assessments and Interventions of At-risk Students",
+      "sector_classification": "Education",
+      "sector_confidence": 0.4738,
+      "sector_confidence_band": "High"
+    },
+    {
+      "title": "Take-up Rate by Logistics Providers of Courier Hub Scheme",
+      "sector_classification": "Housing & Property",
+      "sector_confidence": 0.1886,
+      "sector_confidence_band": "Medium"
+    },
+    {
+      "title": "Timelines, Constraints and Safeguards for Resumption of Crow-shooting Operations",
+      "sector_classification": "Environment",
+      "sector_confidence": 0.1607,
+      "sector_confidence_band": "Medium"
+    },
+    {
+      "title": "Top 10 Peak Hour Traffic Congestion Junctions in Singapore and Measures towards Congestion Relief",
+      "sector_classification": "Transport",
+      "sector_confidence": 0.2412,
+      "sector_confidence_band": "Medium"
+    },
+    {
+      "title": "Update on Heavy Vehicle Zero Emissions Scheme, Including Public Trials of Hydrogen-powered Heavy Vehicles and Developing Refuelling Infrastructure",
+      "sector_classification": "Transport",
+      "sector_confidence": 0.2652,
+      "sector_confidence_band": "Medium"
+    },
+    {
+      "title": "Updated Assessment on Impact on Singapore's Economy and Businesses from New 15% Tariffs",
+      "sector_classification": "Other / Cross-cutting",
+      "sector_confidence": 0.2131,
+      "sector_confidence_band": "Medium"
+    },
+    {
+      "title": "Updated Mental Health Studies Across Demographic Groups",
+      "sector_classification": "Healthcare",
+      "sector_confidence": 0.3298,
+      "sector_confidence_band": "High"
+    },
+    {
+      "title": "Updated School Protocols for Suicide Postvention Response and Trauma Management",
+      "sector_classification": "Education",
+      "sector_confidence": 0.4686,
+      "sector_confidence_band": "High"
+    },
+    {
+      "title": "Uptake of Hawkers’ Productivity Grant for Adoption of Automation and Digital Solutions",
+      "sector_classification": "Environment",
+      "sector_confidence": 0.222,
+      "sector_confidence_band": "Medium"
+    }
+  ]
+}

@@ -88,10 +88,14 @@ def combine_results(date):
                 "topic_sentiment": sentiment_row.get("topic_sentiment"),
                 "sentiment_num_turns": sentiment_row.get("num_turns"),
                 "sentiment_total_role_weight": sentiment_row.get("total_role_weight"),
-                "weighted_cautious": sentiment_row.get("weighted_cautious"),
-                "weighted_negative": sentiment_row.get("weighted_negative"),
-                "weighted_neutral": sentiment_row.get("weighted_neutral"),
-                "weighted_positive": sentiment_row.get("weighted_positive"),
+                "sentiment_weighted_cautious": sentiment_row.get("weighted_cautious"),
+                "sentiment_weighted_negative": sentiment_row.get("weighted_negative"),
+                "sentiment_weighted_neutral": sentiment_row.get("weighted_neutral"),
+                "sentiment_weighted_positive": sentiment_row.get("weighted_positive"),
+                "sentiment_cautious_pct": sentiment_row.get("cautious_pct"),
+                "sentiment_negative_pct": sentiment_row.get("negative_pct"),
+                "sentiment_neutral_pct": sentiment_row.get("neutral_pct"),
+                "sentiment_positive_pct": sentiment_row.get("positive_pct"),
 
                 # Sector
                 "sector_classification": sector_row["sector_classification"],
