@@ -36,15 +36,18 @@ def render_sector_classification():
 
     st.markdown(
         """
-        - **High:** Score > 0.3  
-        - **Medium:** Score 0.16 – 0.3  
-        - **Low / Needs Review:** Score < 0.16
+        - **High (> 0.30):** 98% validation accuracy
+        - **Medium (0.16 – 0.30):** ~82% validation accuracy
+        - **Low / Needs Review (< 0.16):** ~48% validation accuracy
         """
     )
 
     st.subheader("Disclaimers")
     st.warning(
         """
+        **Confidence Interpretation:** These bands reflect overall validation performance by score range, not the guaranteed correctness of any single debate. 
+        Lower-confidence outputs should be interpreted more cautiously and may benefit from manual review.
+
         **Focus on Opening:** The sector classification is based on the opening of the debate, using the title and first two speaker turns as a proxy for the main topic. 
         It may not capture a shift in subject matter if the discussion pivots or extends over time.
 
