@@ -1,15 +1,14 @@
 # 🏛️ Policy Insight Platform
 
 ## 📌 Overview
-
 The Policy Insight Platform processes parliamentary debate transcripts (Hansards) and converts them into structured insights.
 
-Users can explore key discussions through an interactive dashboard, where each debate is summarised and enriched with sentiment and sector classification. Topic modelling groups related debates into broader themes.
+Users can explore key discussions through an interactive dashboard, where each debate is summarised and enriched with sentiment analysis and sector classification. Topic modelling is used to group related debates into broader themes.
+
 
 ---
 
 ## 🚀 Quick Start (View Dashboard)
-
 To view the dashboard with existing data:
 
 ```bash
@@ -17,7 +16,8 @@ pip install -r requirements.txt
 streamlit run frontend/streamlit_app.py
 ```
 
-This will open the dashboard and display the available dates.
+This will launch the dashboard and display available dates.
+
 
 ---
 
@@ -27,34 +27,29 @@ This step runs the full pipeline to fetch, process, and analyse parliamentary de
 ### ⚙️ One-time Setup (Required)
 
 #### 1. Download NLTK data
-
 ```bash
 python -c "import nltk; nltk.download('punkt'); nltk.download('stopwords'); nltk.download('wordnet')"
 ```
 
 #### 2. Install Ollama
 
-For Windows users:
-
+**Windows:**
 ```powershell
 irm https://ollama.com/install.ps1 | iex
 ```
 
-For macOS users:
-
+**macOS:**
 ```bash
 curl -fsSL https://ollama.com/install.sh | sh
 ```
 
-Alternatively, download from: [https://ollama.com/download](https://ollama.com/download)
+Alternatively, download from: https://ollama.com/download
 
 #### 3. Pull summarisation model
-
 ```bash
 ollama pull qwen3.5:9b
 ```
 
----
 
 ### ▶️ Run the Pipeline
 
@@ -64,19 +59,61 @@ To process and generate insights for a specific sitting date:
 python backend/run_pipeline.py DD-MM-YYYY
 ```
 
-Example:
-
+**Example:**
 ```bash
 python backend/run_pipeline.py 08-04-2026
 ```
 
-This will generate a new output file in:
-
-```text
+The output will be generated in:
+```bash
 data/final/combined_<date>.json
 ```
 
-After the pipeline completes, launch the dashboard to view the results:
-
+After the pipeline completes, the dashboard can be launched using:
 ```bash
 streamlit run frontend/streamlit_app.py
+```
+
+
+---
+
+## 🧠 Model Training
+
+This project includes pre-trained models so training is **not required** to run the platform. The training process can be reproduced using the resources below.
+
+
+### 📂 Training Data
+Training datasets are stored in:
+
+```bash
+backend/training/data/
+```
+
+
+### 📓 Training Notebooks
+The following notebooks were used to train the models. To reproduce them, the notebooks can be executed, and the resulting models saved for use in the pipeline.
+
+```bash
+backend/training/notebooks/
+```
+
+- topic_sentiment_classification.ipynb  
+- topic_modelling_explaination.ipynb  
+- sector_classification_exploration.ipynb  
+
+
+### 🏗️ Model Outputs
+After training, the resulting models should be saved and placed in the following directory:
+
+```bash
+backend/models/
+```
+
+Organise them as follows:
+
+```bash
+backend/models/
+├── longformer_sentiment/
+├── topic_modelling/
+└── sector_classification/
+```
