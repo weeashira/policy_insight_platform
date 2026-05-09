@@ -89,6 +89,10 @@ Training datasets are stored in:
 backend/training/data/
 ```
 
+- topic_sentiment_classification.ipynb uses both "final_train_weights.csv" and "inference_set.csv"
+- topic_modelling_explaination.ipynb uses "speaker_turn_data.csv"
+- sector_classification_exploration.ipynb uses "sector_training_data.csv"
+
 
 ### 📓 Training Notebooks
 The following notebooks were used to train the models. To reproduce them, the notebooks can be executed, and the resulting models saved for use in the pipeline.
